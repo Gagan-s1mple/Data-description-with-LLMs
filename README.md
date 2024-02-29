@@ -1,55 +1,104 @@
-# Data-description-with-LLMs
-
-# Data Flattening and Analysis Project
-
-This project aims to organize and analyze a vast amount of data distributed across a complex folder hierarchy. The data is stored in CSV files within folders categorized by city, department, and employee level. The workflow involves flattening the hierarchy, performing statistical analysis on the data, storing the results in a DuckDB database, and creating a chatbot interface for querying the database.
+# Memsys Project Files Readme
 
 ## Project Overview
 
-### 1. Data Flattening
-- **Folder Hierarchy:** Hundreds of folders with varying city names, departments, and employee levels.
-- **Example CSV File Path:** "C:\Users\gagan\Downloads\Memsys company\Level 11 employees\Bangalore\Banking\Banking.csv"
+This repository organizes project files for the Memsys company, focusing on employee data across different levels, cities, and industries.
 
-### 2. Statistical Analysis
-- Extracted data from CSV files is subjected to statistical analysis.
-- Common statistics include average, median, mode, etc.
+## Folder Hierarchy
 
-### 3. DuckDB Database
-- The analyzed data is stored in a DuckDB database for efficient querying.
+The project files adhere to the following hierarchy:
 
-### 4. Chatbot Interface
-- A chatbot, connected to the DuckDB database, provides a user-friendly interface to query information from the data.
-- Example Queries:
-  - "How many people from Austin are level 1 employees?"
-  - "What is the average salary in the Banking department?"
-  - "Tell me the distribution of employees across cities."
+```
+C:\Users\gagan\Downloads\Memsys project files\
+    Memsys company without subfolders\
+        Level {level} employees\
+            {cities}\
+                {keywords}.csv
+```
 
-## Getting Started
+Ignore the folder path names since it was used in a local system
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
-   ```
+### Levels
 
-2. **Setup Dependencies:**
-   - Detailed instructions for setting up dependencies are provided in the repository.
+Employee data is classified into various levels, ranging from Level 1 to Level 11.
 
-3. **Run the Project Scripts:**
-   - Execute scripts in the specified order to flatten the hierarchy, perform statistical analysis, and store data in DuckDB.
+### Cities
 
-## Contributing
+Data within each level is further categorized based on the following cities:
 
-- Contributions are welcome! Feel free to submit pull requests or open issues for improvements or bug fixes.
+- Bangalore
+- Noida
+- Chennai
+- Pune
+- Belgaum
+- New Delhi
+- Gurgaon
+- Mysore
+- Mumbai
+- Kolkata
+- Hyderabad
+- Bhubaneswar
+- Thiruvananthapuram
+- Chicago
+- New York
+- Austin
+- San Francisco
+- Berlin
+- London
+- Singapore
 
-## License
+### Keywords
 
-- This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+Within each city folder, CSV files are organized based on industry keywords. The keywords encompass a wide range of sectors, including:
 
-## Future Considerations
+- CXO
+- Retail
+- Banking
+- Healthcare
+- Insurance
+- Manufacturing
+- Infotainment
+- Media
+- Communications
+- Networking
+- Embedded
+- Education
+- Government
+- Public Sector
+- MSME
+- eCommerce
+- Digital Transformations
+- Life Sciences
+- Energy
+- Emerging Technologies
+- FMCG
+- Transportation
+- Finance
+- HRM
+- Purchase
+- Sales & Marketing
+- Admin
 
-- Explore and define additional functionalities for the chatbot.
-- Enhance and optimize the data analysis process.
-- Consider integrating with other databases or platforms.
+## Data Processing
 
-Feel free to customize this readme based on your project's specific details and future plans.
+To facilitate analysis, Excel files within the hierarchy need to be flattened. Tables should then be joined to create a consolidated dataset. This unified dataset is intended to be uploaded to a DuckDB database for efficient storage and retrieval.
+
+## Statistical Analysis
+
+Once the unified dataset is created and stored in DuckDB, it can be subjected to statistical analysis. Common statistical measures such as mean, median, standard deviation, and percentile can be calculated to gain insights into employee data trends.
+
+## How to Use
+
+1. Navigate to the desired level, city, and keyword folder.
+2. Retrieve the CSV files for the specific level, city, and industry keyword.
+3. Use the provided data processing script (not provided) to flatten and join the tables.
+4. Upload the processed data to DuckDB for further analysis.
+5. Perform statistical analysis on the unified dataset stored in DuckDB.
+
+## Notes
+
+- Ensure proper permissions for accessing and modifying project files.
+- Preserve data integrity during processing to avoid loss or corruption.
+- Periodically update the repository with new data to maintain information currency.
+
+Feel free to reach out for any clarification or assistance. Happy analyzing!
