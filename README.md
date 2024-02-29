@@ -1,51 +1,36 @@
-# Data-description-with-LLMs
+# Memsys Employee Data Flattening and Joining Readme
 
-# Data Flattening and Analysis Project
+This repository focuses on the significant challenges of flattening and joining employee data for Memsys company. The primary emphasis is on consolidating data from various levels, cities, and sectors into a unified dataset for effective analysis. Here's a detailed overview of the process:
 
-This project aims to organize and analyze a vast amount of data distributed across a complex folder hierarchy. The data is stored in CSV files within folders categorized by city, department, and employee level. The workflow involves flattening the hierarchy, performing statistical analysis on the data, storing the results in a DuckDB database, and creating a chatbot interface for querying the database.
+## Flattening Hierarchy
 
-## Project Overview
+The Python script `flatten_hierarchy.py` is crucial in this process. It generalizes path names, ensuring flexibility across different machines, and concatenates CSV files from various levels, cities, and keywords into a single comprehensive dataset. The result, `memsys_combined.csv`, serves as a flattened representation of the original hierarchical structure.
 
-### 1. Data Flattening
-- **Folder Hierarchy:** Hundreds of folders with varying city names, departments, and employee levels.
-- **Example CSV File Path:** "C:\Users\gagan\Downloads\Memsys company\Level 11 employees\Bangalore\Banking\Banking.csv"
+## Joining Data
 
-### 2. Statistical Analysis
-- Extracted data from CSV files is subjected to statistical analysis.
-- Common statistics include average, median, mode, etc.
+Following the flattening process, the key objective is to join tables based on relevant key columns. This enables the creation of a cohesive dataset that captures information across different dimensions such as levels, cities, and sectors. The joined dataset facilitates a holistic view of the employee data, supporting more insightful analyses.
 
-### 3. DuckDB Database
-- The analyzed data is stored in a DuckDB database for efficient querying.
+## Cleaning Data
 
-### 4. Chatbot Interface
-- A chatbot, connected to the DuckDB database, provides a user-friendly interface to query information from the data.
-- Example Queries:
-  - "How many people from Austin are level 1 employees?"
-  - "What is the average salary in the Banking department?"
-  - "Tell me the distribution of employees across cities."
+While the flattening and joining processes are crucial, it's essential to note that the data is also subject to cleaning scripts (`memsys_cleaning1.py`, `memsys_cleaning2.py`, `removing_duplicates.py`, `delete_rows_with_invalid_start_date.py`). These scripts ensure that the dataset is accurate, consistent, and free from duplicates, enhancing the overall integrity of the data.
 
-## Getting Started
+## Instructions for Use
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
-   ```
+1. **Flatten Hierarchy:**
+   - Execute `flatten_hierarchy.py` by providing the root folder path to generate `memsys_combined.csv`.
 
-2. **Setup Dependencies:**
-   - Detailed instructions for setting up dependencies are provided in the repository.
+2. **Joining Data:**
+   - Utilize the flattened `memsys_combined.csv` as the primary dataset for in-depth analysis.
+   - Implement additional join operations using relevant key columns for comprehensive insights.
 
-3. **Run the Project Scripts:**
-   - Execute scripts in the specified order to flatten the hierarchy, perform statistical analysis, and store data in DuckDB.
+3. **Cleaning Data:**
+   - Prior to analysis, consider running the cleaning scripts (`memsys_cleaning1.py`, `memsys_cleaning2.py`, `removing_duplicates.py`, `delete_rows_with_invalid_start_date.py`) to ensure data accuracy and consistency.
 
-## Contributing
+4. **Review Output:**
+   - Examine the joined and cleaned dataset to ensure a consolidated, accurate, and analytically valuable representation of the employee data.
 
-- Contributions are welcome! Feel free to submit pull requests or open issues for improvements or bug fixes.
+  **Ignore the path names. They were just made in a different machine (MACOS)**
 
-## Future Considerations
+This repository places a significant emphasis on the challenges of flattening and joining data, while also acknowledging the importance of maintaining data integrity through cleaning processes.
 
-- Explore and define additional functionalities for the chatbot.
-- Enhance and optimize the data analysis process.
-- Consider integrating with other databases or platforms.
-
-Feel free to customize this readme based on your project's specific details and future plans.
+Feel free to reach out for any further clarification or assistance. Happy data processing!
