@@ -42,10 +42,6 @@ This project aims to organize and analyze a vast amount of data distributed acro
 
 - Contributions are welcome! Feel free to submit pull requests or open issues for improvements or bug fixes.
 
-## License
-
-- This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
 ## Future Considerations
 
 - Explore and define additional functionalities for the chatbot.
