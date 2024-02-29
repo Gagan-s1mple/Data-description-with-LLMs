@@ -1,4 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1214,Vidya,Permanent,Active,Level10,92716.0,Kolkata,Public Sector,Sant Singh,TestComplete,07-05-2023,18-03-2023,0.0,No Allocation,2.0,3.0,4.0,
-Emp1714,Asati,Permanent,Active,Level10,95511.0,Kolkata,Public Sector,Jagdeesh Jindal,Cassandra,21-08-2023,26-07-2023,0.25,Partial Allocation,2.0,1.0,1.0,
-Emp2062,Kumar,Permanent,InActive,Level10,62297.0,Kolkata,Public Sector,Sant Singh,TechLead,02-05-2023,22-09-2023,0.5,Split Allocation,4.0,4.0,1.0,

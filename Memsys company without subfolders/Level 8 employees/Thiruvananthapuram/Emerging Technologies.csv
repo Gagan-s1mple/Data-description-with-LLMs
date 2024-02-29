@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1196,Tigga,Permanent,InActive,Level8,169901.0,Thiruvananthapuram,Emerging Technologies,BhanuShankar,AzureArchitect,07-04-2023,05-09-2023,0.0,No Allocation,1.0,4.0,2.0,

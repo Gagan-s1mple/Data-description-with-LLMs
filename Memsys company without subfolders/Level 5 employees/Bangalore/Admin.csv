@@ -1,8 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1136,R,Permanent,InActive,Level5,479970.0,Bangalore,Manufacturing,Adag Mahindra,Microsoft Administration,16-05-2023,06-03-2023,0.0,No Allocation,1.0,1.0,2.0,
-Emp1749,BRIJopti,Permanent,Active,Level5,349276.0,Bangalore,Banking,Rohan Bopanna,Microsoft Administration,21-09-2023,30-10-2023,0.0,No Allocation,5.0,5.0,3.0,
-Emp2100,Mohamedkasim,Permanent,Active,Level5,374530.0,Bangalore,Infotainment,Palki Oberoi,Microsoft Administration,13-12-2023,14-05-2023,1.0,Full Allocation,5.0,1.0,2.0,
-Emp2158,KUMARrtops,Contract,Active,Level5,428744.0,Bangalore,Infotainment,Palki Oberoi,Microsoft Administration,03-08-2023,12-12-2023,0.25,Partial Allocation,4.0,5.0,4.0,
-Emp2186,Kanagaraj,Contract,InActive,Level5,354167.0,Bangalore,Emerging Technologies,Bhaskar Rao,Microsoft Administration,27-03-2023,20-11-2023,1.0,Full Allocation,4.0,2.0,5.0,
-Emp2419,Dharmendra,Permanent,InActive,Level5,370172.0,Bangalore,Admin,KushalBendre,Plant operations Specialist,03-09-2023,27-03-2023,0.75,Partial Allocation,1.0,4.0,5.0,
-Emp863,Verkey,Permanent,Active,Level5,283714.0,Bangalore,Government,Raunaq Singh,Microsoft Administration,27-01-2023,23-04-2023,0.5,Split Allocation,3.0,4.0,4.0,

@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp582,Karnik,Permanent,Active,Level7,174946.0,Noida,Embedded,Pradeep Sindhu,Tableau;Business Integration Platform,31-12-2023,06-02-2023,1.0,Full Allocation,3.0,2.0,2.0,

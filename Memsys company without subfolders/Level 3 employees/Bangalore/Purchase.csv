@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp107,LalitRumi,Permanent,Active,Level3,526509.0,Bangalore,Purchase,Roger Raptor,Leadership and Management,26-07-2023,29-05-2023,0.75,Partial Allocation,5.0,5.0,3.0,
-Emp108,MalappaBendre,Permanent,Active,Level3,485802.0,Bangalore,Purchase,Roger Raptor,Leadership and Management,25-05-2023,25-10-2023,0.0,No Allocation,3.0,1.0,4.0,

@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1825,Rallapalli,Permanent,Active,Level6,281144.0,Kolkata,Education,Rajiv Gupta,Matlabs,08-01-2023,28-12-2023,0.0,No Allocation,4.0,5.0,3.0,

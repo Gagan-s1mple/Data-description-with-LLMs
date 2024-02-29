@@ -1,7 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1481,Ananda,Permanent,Active,Level10,57011.0,Bangalore,Transportation,Swrna Nadar,MongoDB,11-05-2023,21-01-2023,0.5,Split Allocation,1.0,1.0,3.0,
-Emp1722,Mathur,Permanent,InActive,Level10,79374.0,Bangalore,Transportation,Swrna Nadar,Trace32,20-05-2023,09-06-2023,0.0,No Allocation,4.0,1.0,3.0,
-Emp1732,Ghosh,Permanent,InActive,Level10,73384.0,Bangalore,Transportation,Brismit,Automation Testing,17-08-2023,03-07-2023,0.25,Partial Allocation,3.0,5.0,1.0,
-Emp394,Aasheesh,Contract,InActive,Level10,92880.0,Bangalore,Transportation,UdyaRavi,DBA- Relational,04-11-2023,01-08-2023,0.25,Partial Allocation,4.0,5.0,3.0,
-Emp561,D,Contract,Active,Level10,79747.0,Bangalore,Transportation,UdyaRavi,TechLead;PLSQL,21-09-2023,10-11-2023,0.25,Partial Allocation,5.0,3.0,5.0,
-Emp691,Abraham,Permanent,Active,Level10,99129.0,Bangalore,Transportation,Brismit,Selenium,18-02-2023,20-12-2023,1.0,Full Allocation,3.0,3.0,4.0,

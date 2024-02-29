@@ -1,6 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2305,Aishwarya,Permanent,Active,Level10,61643.0,Bangalore,Sales & Marketing,BendreNagappa,Sales Head,04-08-2023,06-01-2023,0.0,No Allocation,5.0,1.0,1.0,
-Emp2318,KUMAR Bisht,Permanent,InActive,Level10,67161.0,Bangalore,Sales & Marketing,Frederick ,SEO Specialist,17-09-2023,14-01-2023,1.0,Full Allocation,4.0,5.0,2.0,
-Emp2324,Gopurum,Contract,InActive,Level10,62882.0,Bangalore,Sales & Marketing,BendreNagappa,Sales Head,05-02-2023,28-04-2023,0.25,Partial Allocation,3.0,1.0,2.0,
-Emp2326,Muppuri,Contract,Active,Level10,96416.0,Bangalore,Sales & Marketing,HarishMasti,Proposal Specialist,10-11-2023,27-02-2023,0.0,No Allocation,4.0,4.0,3.0,
-Emp2340,Anukampa Khawre,Permanent,Active,Level10,65425.0,Bangalore,Sales & Marketing,Frederick ,SEO Specialist,15-07-2023,13-03-2023,0.0,No Allocation,4.0,4.0,5.0,

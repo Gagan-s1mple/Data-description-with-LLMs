@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp157,Chandrashekar,Permanent,Active,Level6,294480.0,Berlin,Networking,Ravi Bilimoria,ExcelMacros;DeliveryManager,13-03-2023,11-05-2023,1.0,Full Allocation,3.0,3.0,2.0,

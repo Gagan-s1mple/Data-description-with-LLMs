@@ -1,7 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1267,Puspanjali,Permanent,Active,Level9,107519.0,Bangalore,Retail,Sania Kothari,SAP Netweaver;Azure BI,23-09-2023,18-04-2023,1.0,Full Allocation,2.0,5.0,4.0,
-Emp1295,Harris,Permanent,InActive,Level9,89564.0,Bangalore,Retail,Ramesh Krishnan,.Net,09-06-2023,27-11-2023,0.0,No Allocation,4.0,1.0,3.0,
-Emp1540,Kaurutty,Permanent,Active,Level9,88511.0,Bangalore,Retail,Ramesh Krishnan,Systems Testing,11-07-2023,16-05-2023,0.5,Split Allocation,5.0,2.0,2.0,
-Emp1610,Mohanty,Permanent,Active,Level9,105840.0,Bangalore,Retail,Leander Bence,Software Architecture;Apache Spark,06-03-2023,12-03-2023,0.0,No Allocation,5.0,3.0,4.0,
-Emp1616,Gaurav,Permanent,Active,Level9,101006.0,Bangalore,Retail,Ramesh Krishnan,DBA - Nosql,25-03-2023,16-05-2023,1.0,Full Allocation,2.0,5.0,5.0,
-Emp2053,Yadavilli,Permanent,InActive,Level9,86829.0,Bangalore,Retail,Ramesh Krishnan,NLP,21-03-2023,25-03-2023,0.75,Partial Allocation,5.0,4.0,3.0,

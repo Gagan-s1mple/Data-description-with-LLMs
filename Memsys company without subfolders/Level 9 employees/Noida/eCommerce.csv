@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1276,Voona,Permanent,Active,Level9,99288.0,Noida,eCommerce,Satya Goyal ,MongoDB,13-11-2023,26-04-2023,0.75,Partial Allocation,3.0,2.0,1.0,

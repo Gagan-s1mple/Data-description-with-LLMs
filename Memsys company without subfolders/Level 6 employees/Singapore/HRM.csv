@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2268,Rajak,Permanent,Active,Level6,301711.0,Singapore,HRM,BhaktiPreeth,Staffing Expert,16-09-2023,20-11-2023,0.0,No Allocation,5.0,1.0,1.0,

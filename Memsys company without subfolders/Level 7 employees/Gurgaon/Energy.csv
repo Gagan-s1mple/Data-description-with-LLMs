@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1008,Reena,Permanent,Active,Level7,225047.0,Gurgaon,Energy,Rinku Shetty,Oracle SQL;Java,29-03-2023,01-07-2023,0.25,Partial Allocation,5.0,1.0,2.0,

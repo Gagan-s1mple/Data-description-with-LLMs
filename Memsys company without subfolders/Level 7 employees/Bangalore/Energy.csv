@@ -1,6 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1413,Rahul,Permanent,Active,Level7,217253.0,Bangalore,Energy,Romesh Bhanu,Recruitment,17-10-2023,13-09-2023,0.5,Split Allocation,1.0,5.0,1.0,
-Emp1418,Lotlikar,Permanent,Active,Level7,253860.0,Bangalore,Energy,Rajiv Raheja,Apache Spark;Hardware Testing,24-01-2023,11-07-2023,1.0,Full Allocation,3.0,2.0,2.0,
-Emp1637,Sompalle,Permanent,Active,Level7,189830.0,Bangalore,Energy,Rinku Shetty,AWSDevOps,31-01-2023,02-02-2023,0.5,Split Allocation,2.0,1.0,5.0,
-Emp1827,Kumartquopt,Permanent,InActive,Level7,160183.0,Bangalore,Energy,Rajiv Raheja,DeliveryManager,14-02-2023,07-10-2023,0.0,No Allocation,2.0,4.0,1.0,
-Emp1892,Patil,Contract,InActive,Level7,281851.0,Bangalore,Energy,Rinku Shetty,AzureArchitect,25-09-2023,07-07-2023,0.5,Split Allocation,3.0,3.0,2.0,

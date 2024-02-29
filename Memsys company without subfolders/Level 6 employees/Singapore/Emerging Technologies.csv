@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1732,Ghosh,Permanent,Active,Level6,283847.0,Singapore,Emerging Technologies,ShankarBhanu,TCL Scripting,23-06-2023,22-02-2023,1.0,Full Allocation,5.0,5.0,1.0,
-Emp2244,Nambukarthy,Permanent,Active,Level6,342267.0,Singapore,Emerging Technologies,BhanuShankar,CSS,23-07-2023,16-07-2023,0.0,No Allocation,5.0,3.0,2.0,

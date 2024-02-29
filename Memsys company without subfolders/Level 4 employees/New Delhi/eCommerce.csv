@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2062,Kumar,Contract,InActive,Level4,306567.0,New Delhi,eCommerce,Satya Goyal ,DBA- Relational;ApplicationTester,25-02-2023,01-12-2023,0.0,No Allocation,2.0,2.0,1.0,

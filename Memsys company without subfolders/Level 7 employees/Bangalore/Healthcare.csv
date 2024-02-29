@@ -1,7 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1222,Sreedevi,Permanent,InActive,Level7,254565.0,Bangalore,Healthcare,Somdev,Hardware Testing,26-09-2023,16-03-2023,0.75,Partial Allocation,1.0,4.0,1.0,
-Emp2001,Hakkandi,Permanent,Active,Level7,164204.0,Bangalore,Healthcare,Somdev,Data Modeling,14-05-2023,20-10-2023,0.0,No Allocation,3.0,2.0,5.0,
-Emp2014,Bhattacharya,Contract,Active,Level7,205084.0,Bangalore,Healthcare,Mahindra ,Deep Learning,27-01-2023,15-10-2023,0.5,Split Allocation,5.0,4.0,1.0,
-Emp2032,KANAMADATHIL,Permanent,Active,Level7,193795.0,Bangalore,Healthcare,Prem Sindhu,ProjectManager;Automation Testing,27-07-2023,04-08-2023,0.5,Split Allocation,3.0,2.0,3.0,
-Emp266,Chetan,Permanent,Active,Level7,276554.0,Bangalore,Healthcare,Mahindra ,MongoDB;Software Architecture,23-01-2023,08-04-2023,0.5,Split Allocation,2.0,1.0,4.0,
-Emp610,Nirmal,Permanent,Active,Level7,247714.0,Bangalore,Healthcare,Somdev,Systems Testing,09-05-2023,07-11-2023,0.75,Partial Allocation,2.0,2.0,5.0,

@@ -1,9 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1038,Jyothi,Contract,Active,Level5,238995.0,Bangalore,Media,Anji Reddy,AWSArchitect;React JS,27-08-2023,17-04-2023,1.0,Full Allocation,5.0,2.0,5.0,
-Emp1579,Behera,Permanent,Active,Level5,382197.0,Bangalore,Media,Dilip Ambani,TCL Scripting,11-12-2023,26-08-2023,1.0,Full Allocation,3.0,2.0,2.0,
-Emp1600,Veluru,Permanent,Active,Level5,288434.0,Bangalore,Media,Bandhu Gupta,Business Integration Platform,26-11-2023,13-04-2023,0.5,Split Allocation,1.0,5.0,1.0,
-Emp1756,Gajulab,Permanent,InActive,Level5,359520.0,Bangalore,Media,Dilip Ambani,Angular JS,23-11-2023,10-01-2023,0.5,Split Allocation,2.0,1.0,2.0,
-Emp2058,Singh,Permanent,Active,Level5,278582.0,Bangalore,Media,Bandhu Gupta,MachineLearning,27-04-2023,29-03-2023,0.75,Partial Allocation,5.0,4.0,2.0,
-Emp2228,Mahesh,Permanent,Active,Level5,328837.0,Bangalore,Media,Dilip Ambani,Oracle SQL,14-09-2023,22-04-2023,0.0,No Allocation,5.0,1.0,4.0,
-Emp2249,Sibasish,Permanent,Active,Level5,337502.0,Bangalore,Media,Anji Reddy,React JS,25-08-2023,29-11-2023,0.25,Partial Allocation,3.0,2.0,3.0,
-Emp925,SRINIVASAN,Permanent,Active,Level5,360094.0,Bangalore,Media,Anji Reddy,Linux,22-02-2023,19-09-2023,0.75,Partial Allocation,5.0,4.0,4.0,

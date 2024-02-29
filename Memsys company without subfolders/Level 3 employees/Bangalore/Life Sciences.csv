@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp88,Swaraj Mittal,Permanent,Active,Level3,417377.0,Bangalore,Life Sciences,Mahesh Bhupathi,Leadership and Management,20-11-2023,12-07-2023,0.75,Partial Allocation,2.0,3.0,5.0,

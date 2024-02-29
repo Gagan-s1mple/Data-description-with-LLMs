@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1087,Tapashi,Permanent,Active,Level4,253979.0,London,Healthcare,Somdev,TCL Scripting;Master Data Management,20-01-2023,17-10-2023,0.25,Partial Allocation,5.0,1.0,4.0,

@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1468,Nagarapu,Permanent,Active,Level5,491305.0,San Francisco,Media,Bandhu Gupta,React JS,06-06-2023,11-09-2023,0.5,Split Allocation,2.0,3.0,1.0,
-Emp187,Sukanya,Permanent,Active,Level5,357353.0,San Francisco,Media,Anji Reddy,C++,01-06-2023,01-11-2023,0.75,Partial Allocation,4.0,5.0,5.0,

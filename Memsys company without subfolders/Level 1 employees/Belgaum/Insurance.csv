@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1480,Pooranik,Permanent,Active,Level10,98521.0,Belgaum,Insurance,Shanthi Birla,Azure Programming,26-07-2023,31-07-2023,0.75,Partial Allocation,3.0,1.0,4.0,
-Emp313,Raghavendra,Permanent,InActive,Level10,69956.0,Belgaum,Insurance,Shanthi Birla,ProgramManager,05-04-2023,10-05-2023,0.0,No Allocation,4.0,2.0,3.0,

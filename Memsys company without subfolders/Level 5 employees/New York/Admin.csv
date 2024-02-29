@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp238,AnilKumar,Permanent,InActive,Level5,248030.0,New York,Education,Rajiv Gupta,Microsoft Administration,21-11-2023,02-04-2023,0.25,Partial Allocation,5.0,3.0,3.0,
-Emp2424,Himakuntalam,Permanent,Active,Level5,197952.0,New York,Admin,KushalMasti,Plant operations Specialist,18-06-2023,27-12-2023,0.75,Partial Allocation,1.0,5.0,4.0,

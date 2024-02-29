@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2344,ElamaKandy,Permanent,Active,Level9,95575.0,Pune,Sales & Marketing,HarishMasti,Sales Associate,09-08-2023,13-11-2023,0.75,Partial Allocation,1.0,3.0,5.0,

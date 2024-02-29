@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1009,Preethu,Permanent,Active,Level9,86402.0,Thiruvananthapuram,Energy,Romesh Bhanu,Azure BI,22-02-2023,03-09-2023,0.0,No Allocation,1.0,3.0,4.0,

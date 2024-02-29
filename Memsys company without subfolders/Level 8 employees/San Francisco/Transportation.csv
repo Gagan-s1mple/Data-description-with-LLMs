@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1133,Sultana,Permanent,InActive,Level8,126491.0,San Francisco,Transportation,UdyaRavi,AWS Programming,13-03-2023,31-05-2023,0.75,Partial Allocation,2.0,2.0,5.0,
-Emp813,Nigam,Permanent,Active,Level8,168908.0,San Francisco,Transportation,Swrna Nadar,Tableau,28-01-2023,27-08-2023,0.0,No Allocation,1.0,1.0,1.0,

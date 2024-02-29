@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp474,Prabhjot,Contract,Active,Level8,117994.0,Belgaum,Healthcare,Somdev,Scala,18-09-2023,14-07-2023,0.75,Partial Allocation,4.0,5.0,2.0,
-Emp607,partha,Permanent,Active,Level8,169186.0,Belgaum,Healthcare,Prem Sindhu,DBA- Relational,16-06-2023,02-01-2023,0.5,Split Allocation,4.0,4.0,5.0,

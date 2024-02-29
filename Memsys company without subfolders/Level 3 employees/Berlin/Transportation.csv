@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp99,Swrna Nadar,Permanent,Active,Level3,486728.0,Berlin,Transportation,Kapil Dev,Leadership and Management,16-04-2023,12-02-2023,1.0,Full Allocation,5.0,4.0,4.0,

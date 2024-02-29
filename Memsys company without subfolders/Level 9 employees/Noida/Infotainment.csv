@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1874,Mallick,Permanent,Active,Level9,117975.0,Noida,Infotainment,Arjun Malhotra,DBA - Nosql,03-01-2023,19-04-2023,0.25,Partial Allocation,5.0,4.0,4.0,

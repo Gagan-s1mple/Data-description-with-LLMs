@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp16,Lakshmi Yadlapalli,Permanent,Active,Level2,623505.0,Noida,Infotainment,,Strategic Business Leader,06-05-2023,24-07-2023,1.0,Full Allocation,1.0,4.0,1.0,

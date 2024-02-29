@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1889,Rapoori,Permanent,Active,Level6,264728.0,Berlin,Emerging Technologies,BhanuShankar,Selenium;Selenium,02-05-2023,13-07-2023,0.75,Partial Allocation,4.0,1.0,3.0,

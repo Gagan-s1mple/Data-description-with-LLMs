@@ -1,4 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp464,Swagath,Permanent,InActive,Level4,270609.0,Thiruvananthapuram,Manufacturing,Aditya Godrej,Business Integration Platform,30-07-2023,18-05-2023,1.0,Full Allocation,2.0,5.0,3.0,
-Emp579,MAHAPATRA,Permanent,Active,Level4,564711.0,Thiruvananthapuram,Manufacturing,Shukla Ambani,AWSDevelopment,06-02-2023,27-02-2023,0.0,No Allocation,2.0,1.0,4.0,
-Emp846,Sher,Contract,Active,Level4,511282.0,Thiruvananthapuram,Manufacturing,Adag Mahindra,CSS,13-01-2023,17-02-2023,0.75,Partial Allocation,3.0,5.0,2.0,

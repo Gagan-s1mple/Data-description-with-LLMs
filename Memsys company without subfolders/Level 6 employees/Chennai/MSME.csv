@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1294,Kumarjioa,Permanent,Active,Level6,356623.0,Chennai,MSME,Shobhana Bhartia,Planisware,24-02-2023,29-11-2023,0.25,Partial Allocation,3.0,3.0,1.0,

@@ -1,6 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1053,Tanuja,Contract,InActive,Level5,377643.0,Bangalore,Life Sciences,Vikram Pandit,MobileAppTester;Linux,24-07-2023,08-10-2023,0.25,Partial Allocation,3.0,4.0,2.0,
-Emp1309,Nagaraju,Permanent,InActive,Level5,451249.0,Bangalore,Life Sciences,Bhagyashree Rai,NLP,20-01-2023,25-09-2023,0.0,No Allocation,1.0,3.0,3.0,
-Emp1882,Chowdhary,Permanent,InActive,Level5,318056.0,Bangalore,Life Sciences,Swaraj Mittal,Recruitment,23-06-2023,27-08-2023,0.5,Split Allocation,3.0,2.0,1.0,
-Emp2097,Sahu,Contract,Active,Level5,424774.0,Bangalore,Life Sciences,Bhagyashree Rai,Kofax;Web Application Platform,27-04-2023,16-09-2023,1.0,Full Allocation,4.0,2.0,4.0,
-Emp2097,Sahu,Contract,Active,Level5,229712.0,Bangalore,Life Sciences,Swaraj Mittal,Uipath,03-01-2023,19-05-2023,1.0,Full Allocation,3.0,1.0,3.0,

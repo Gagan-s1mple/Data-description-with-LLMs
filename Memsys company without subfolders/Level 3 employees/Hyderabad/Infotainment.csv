@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp53,Manibhai Naik,Permanent,Active,Level3,452347.0,Hyderabad,Infotainment,Lakshmi Yadlapalli,Leadership and Management,11-07-2023,01-05-2023,0.0,No Allocation,2.0,1.0,1.0,
-Emp54,Arjun Malhotra,Permanent,Active,Level3,393490.0,Hyderabad,Infotainment,Lakshmi Yadlapalli,Leadership and Management,28-02-2023,23-09-2023,0.5,Split Allocation,1.0,1.0,5.0,

@@ -1,4 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2263,Aashni,Permanent,Active,Level7,297335.0,Bangalore,HRM,BhakthiPriya,Recruitment,08-07-2023,03-06-2023,0.0,No Allocation,1.0,3.0,1.0,
-Emp2281,Chakravarty,Permanent,Active,Level7,182508.0,Bangalore,HRM,BhakthiPriya,HR Assistant,24-03-2023,17-08-2023,0.75,Partial Allocation,4.0,5.0,2.0,
-Emp2297,Chougule,Permanent,InActive,Level7,226519.0,Bangalore,HRM,BhaktiPreeth,HR Head,16-03-2023,05-01-2023,0.75,Partial Allocation,4.0,4.0,5.0,

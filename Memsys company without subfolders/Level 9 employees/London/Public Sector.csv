@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2041,Theyyamveettil,Permanent,Active,Level9,123840.0,London,Public Sector,Sant Singh,C;Angular JS,22-05-2023,08-06-2023,0.5,Split Allocation,1.0,1.0,2.0,

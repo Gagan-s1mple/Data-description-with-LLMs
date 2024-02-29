@@ -1,4 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1425,SHAH,Permanent,Active,Level9,108685.0,San Francisco,Networking,Phalgun,Office Administration,15-07-2023,11-10-2023,0.5,Split Allocation,2.0,4.0,4.0,
-Emp1466,Naresh,Permanent,Active,Level9,82364.0,San Francisco,Networking,Kushal Pal,Java,25-02-2023,25-02-2023,0.25,Partial Allocation,3.0,4.0,3.0,
-Emp484,Ashank,Permanent,Active,Level9,89869.0,San Francisco,Networking,Kushal Pal,Kofax,07-01-2023,05-11-2023,0.25,Partial Allocation,5.0,5.0,5.0,

@@ -1,7 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1032,Gayathri,Permanent,InActive,Level4,484634.0,Bangalore,Banking,Rohan Bopanna,Azure Programming;AndroidAppTester,21-11-2023,12-06-2023,0.5,Split Allocation,5.0,5.0,1.0,
-Emp1055,Sunita,Permanent,Active,Level4,600164.0,Bangalore,Banking,Steffi Jones,Microsoft Administration,16-04-2023,15-11-2023,0.25,Partial Allocation,2.0,3.0,4.0,
-Emp1995,kumar,Permanent,Active,Level4,235032.0,Bangalore,Banking,Rohan Bopanna,.Net,29-09-2023,07-08-2023,0.75,Partial Allocation,2.0,2.0,5.0,
-Emp2062,Kumar,Permanent,Active,Level4,606283.0,Bangalore,Banking,Steffi Jones,SoapUI,14-12-2023,01-04-2023,0.5,Split Allocation,3.0,5.0,1.0,
-Emp2101,Teivasekamani,Contract,Active,Level4,317180.0,Bangalore,Banking,Steffi Jones,ExcelMacros,04-07-2023,12-07-2023,0.5,Split Allocation,2.0,4.0,2.0,
-Emp2118,Raju,Contract,Active,Level4,465511.0,Bangalore,Banking,Steffi Jones,Python,12-02-2023,13-01-2023,0.75,Partial Allocation,2.0,1.0,2.0,

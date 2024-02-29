@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1134,Gitanjali,Contract,InActive,Level4,320843.0,New York,Banking,Steffi Jones,AzureArchitect,11-06-2023,12-07-2023,0.75,Partial Allocation,4.0,1.0,4.0,

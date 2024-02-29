@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2453,Gulshan,Permanent,Active,Level5,188975.0,Bhubaneswar,Finance,ShaktiBheem,Finance Analyst,25-03-2023,05-04-2023,0.75,Partial Allocation,3.0,1.0,1.0,

@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp69,Rajan Raheja,Permanent,Active,Level3,348626.0,Bangalore,Education,MADHURAM SHANKAR,Leadership and Management,29-03-2023,23-05-2023,0.25,Partial Allocation,3.0,2.0,3.0,
-Emp70,Rajiv Gupta,Permanent,Active,Level3,261894.0,Bangalore,Education,MADHURAM SHANKAR,Leadership and Management,06-05-2023,17-01-2023,0.5,Split Allocation,3.0,5.0,1.0,

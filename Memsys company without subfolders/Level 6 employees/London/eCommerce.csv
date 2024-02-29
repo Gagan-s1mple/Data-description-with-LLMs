@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp703,ANNAMALAI,Contract,Active,Level6,283835.0,London,eCommerce,Swaraj Paul,.Net,11-04-2023,15-09-2023,0.75,Partial Allocation,1.0,5.0,5.0,

@@ -1,5 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2373,Divakaran,Permanent,Active,Level9,94158.0,Bangalore,Purchase,RumiAgarwal,Purchase Executive,04-12-2023,27-04-2023,0.75,Partial Allocation,4.0,4.0,5.0,
-Emp2381,Kovvuru,Permanent,Active,Level9,114045.0,Bangalore,Purchase,LalitRumi,Hardware Procurement,30-07-2023,12-01-2023,1.0,Full Allocation,5.0,1.0,1.0,
-Emp2387,Fernandes,Contract,Active,Level9,116937.0,Bangalore,Purchase,MalappaBendre,Purchase Specialist,11-05-2023,06-05-2023,0.5,Split Allocation,1.0,5.0,4.0,
-Emp2391,Charu,Contract,InActive,Level9,120505.0,Bangalore,Purchase,MalappaBendre,Software Procurement,23-04-2023,12-03-2023,0.25,Partial Allocation,4.0,3.0,5.0,

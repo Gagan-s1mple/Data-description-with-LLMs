@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1079,Nandini,Permanent,Active,Level6,187411.0,Thiruvananthapuram,Embedded,Jagtiani,Appium,19-07-2023,22-09-2023,1.0,Full Allocation,4.0,3.0,3.0,
-Emp1120,Runubala,Permanent,InActive,Level6,196712.0,Thiruvananthapuram,Embedded,Jagtiani,CSS;Tableau,14-12-2023,20-02-2023,1.0,Full Allocation,5.0,1.0,5.0,

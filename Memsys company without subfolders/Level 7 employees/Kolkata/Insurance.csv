@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp176,Tapanesh,Permanent,Active,Level7,283340.0,Kolkata,Insurance,Shiv Shakthi,PowerBI,15-10-2023,09-03-2023,0.25,Partial Allocation,5.0,2.0,2.0,
-Emp1944,MAHARANA,Permanent,Active,Level7,305949.0,Kolkata,Insurance,Ratan Patra,Java,18-09-2023,01-09-2023,0.5,Split Allocation,1.0,5.0,1.0,

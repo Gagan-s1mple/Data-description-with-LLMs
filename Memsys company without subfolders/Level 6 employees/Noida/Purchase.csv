@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2362,Vijyotsav,Permanent,Active,Level6,243046.0,Noida,Purchase,RumiAgarwal,Materials Procurement,07-03-2023,05-10-2023,1.0,Full Allocation,3.0,3.0,1.0,

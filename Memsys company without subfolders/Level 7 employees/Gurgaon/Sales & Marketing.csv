@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2352,Pranesh Jadhav,Permanent,Active,Level7,203278.0,Gurgaon,Sales & Marketing,BendreNagappa,Copywriter,01-09-2023,19-12-2023,0.0,No Allocation,4.0,3.0,5.0,

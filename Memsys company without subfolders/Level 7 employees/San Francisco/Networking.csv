@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1086,Mamatha,Permanent,Active,Level7,283671.0,San Francisco,Networking,Kushal Pal,CSS;SoapUI,27-08-2023,25-12-2023,0.5,Split Allocation,5.0,1.0,1.0,
-Emp1822,Pokal,Permanent,InActive,Level7,194326.0,San Francisco,Networking,Phalgun,C,13-10-2023,02-01-2023,0.0,No Allocation,2.0,1.0,4.0,

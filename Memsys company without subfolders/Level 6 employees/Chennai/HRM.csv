@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2296,Kandlur,Permanent,InActive,Level6,222745.0,Chennai,HRM,BhaktiPreeth,Sourcing Specialist,07-05-2023,13-01-2023,0.25,Partial Allocation,3.0,4.0,2.0,
-Emp2299,Somvanshi,Contract,InActive,Level6,238884.0,Chennai,HRM,BheemaBhargava,Sourcing Specialist,23-08-2023,09-05-2023,1.0,Full Allocation,1.0,1.0,2.0,

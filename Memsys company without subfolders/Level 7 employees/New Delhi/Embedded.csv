@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp196,Sridutt,Permanent,Active,Level7,282448.0,New Delhi,Embedded,Pradeep Sindhu,Azure BI,26-09-2023,13-06-2023,0.0,No Allocation,1.0,3.0,3.0,
-Emp933,K,Permanent,Active,Level7,189505.0,New Delhi,Healthcare,Somdev,Embedded C,18-11-2023,29-08-2023,0.75,Partial Allocation,4.0,1.0,5.0,

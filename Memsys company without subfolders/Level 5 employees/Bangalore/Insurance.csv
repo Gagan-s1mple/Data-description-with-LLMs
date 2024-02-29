@@ -1,6 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1075,Sushama,Permanent,Active,Level5,280503.0,Bangalore,Insurance,Ratan Patra,Master Data Management,25-02-2023,01-07-2023,0.5,Split Allocation,5.0,1.0,3.0,
-Emp1112,Alima,Permanent,Active,Level5,299817.0,Bangalore,Insurance,Shanthi Birla,Quality Control,17-01-2023,22-10-2023,0.5,Split Allocation,4.0,2.0,4.0,
-Emp1612,Galande,Contract,Active,Level5,294009.0,Bangalore,Insurance,Ratan Patra,JS,28-08-2023,22-02-2023,0.75,Partial Allocation,1.0,2.0,5.0,
-Emp2098,Vardhan,Permanent,InActive,Level5,485224.0,Bangalore,Insurance,Ratan Patra,MobileApp,19-03-2023,18-02-2023,0.5,Split Allocation,1.0,1.0,4.0,
-Emp669,Govindhaswamy,Permanent,Active,Level5,360602.0,Bangalore,Insurance,Ratan Patra,MobileAppTester,29-11-2023,11-09-2023,1.0,Full Allocation,5.0,4.0,1.0,

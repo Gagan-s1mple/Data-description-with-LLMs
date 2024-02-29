@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2319,ANIRBAN SARKAR,Permanent,Active,Level5,210033.0,Thiruvananthapuram,Sales & Marketing,HarishMasti,Proposal Specialist,04-06-2023,23-10-2023,0.5,Split Allocation,5.0,2.0,4.0,

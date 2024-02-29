@@ -1,7 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1011,Supriya,Contract,Active,Level4,246080.0,Bangalore,Government,Shantanurao,MobileAppTester,21-06-2023,19-05-2023,0.5,Split Allocation,2.0,1.0,3.0,
-Emp1389,Ayanjyoti,Permanent,Active,Level4,257264.0,Bangalore,Government,Raunaq Singh,Recruitment,19-11-2023,27-05-2023,0.5,Split Allocation,3.0,3.0,5.0,
-Emp1772,Mahapatra,Permanent,Active,Level4,289001.0,Bangalore,Government,Raunaq Singh,DBA- Relational,15-12-2023,21-01-2023,0.5,Split Allocation,5.0,4.0,2.0,
-Emp2224,Vaidya,Permanent,InActive,Level4,279547.0,Bangalore,Government,Venkat Murthy,Oracle Forms;Trace32,13-07-2023,17-12-2023,1.0,Full Allocation,2.0,5.0,5.0,
-Emp275,Mandali,Permanent,Active,Level4,515994.0,Bangalore,Government,Shantanurao,Apache Spark,08-10-2023,18-06-2023,1.0,Full Allocation,3.0,3.0,1.0,
-Emp592,Sachdeva,Permanent,Active,Level4,438911.0,Bangalore,Government,Shantanurao,Matlabs,21-10-2023,12-07-2023,0.25,Partial Allocation,4.0,3.0,3.0,

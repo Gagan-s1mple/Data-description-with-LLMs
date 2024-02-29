@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1158,Ritu,Contract,Active,Level5,295853.0,Berlin,Retail,Ramesh Krishnan,AndroidAppTester,22-08-2023,28-09-2023,0.0,No Allocation,5.0,4.0,5.0,
-Emp1754,Vaidyanathosta,Contract,Active,Level5,498081.0,Berlin,Retail,Leander Bence,DeliveryManager,15-05-2023,24-09-2023,1.0,Full Allocation,3.0,1.0,4.0,

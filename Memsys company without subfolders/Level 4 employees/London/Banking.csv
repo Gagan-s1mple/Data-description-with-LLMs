@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1613,Vidhate,Permanent,Active,Level4,527087.0,London,Banking,Rohan Bopanna,Automation Testing,25-09-2023,29-08-2023,0.5,Split Allocation,3.0,1.0,4.0,
-Emp681,Muralidharan,Permanent,Active,Level4,562543.0,London,Banking,Rohan Bopanna,MobileApp,29-04-2023,13-12-2023,0.75,Partial Allocation,5.0,4.0,2.0,

@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2034,Kumari,Permanent,Active,Level8,166649.0,Mysore,Healthcare,Prem Sindhu,React JS,11-02-2023,10-04-2023,0.0,No Allocation,1.0,2.0,2.0,

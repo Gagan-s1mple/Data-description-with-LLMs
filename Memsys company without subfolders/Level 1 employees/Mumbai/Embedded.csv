@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2033,Dhanakotti,Contract,Active,Level10,61294.0,Mumbai,Embedded,Pradeep Sindhu,SoapUI,27-09-2023,20-07-2023,0.25,Partial Allocation,4.0,3.0,5.0,

@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp290,Nivedita,Permanent,InActive,Level7,172604.0,London,Manufacturing,Shukla Ambani,C,27-01-2023,05-06-2023,0.0,No Allocation,3.0,5.0,1.0,
-Emp897,Barve,Contract,Active,Level7,136790.0,London,Manufacturing,Aditya Godrej,Scala,29-12-2023,21-01-2023,0.0,No Allocation,5.0,1.0,5.0,

@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2062,Kumar,Permanent,Active,Level6,360377.0,Bhubaneswar,Media,Dilip Ambani,AWS Programming,04-09-2023,18-05-2023,0.25,Partial Allocation,1.0,2.0,2.0,

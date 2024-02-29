@@ -1,4 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1651,MALLIK,Permanent,Active,Level10,96073.0,Pune,Communications,Ghanshyam,Hardware Testing;AWSDevelopment,22-10-2023,09-04-2023,1.0,Full Allocation,1.0,4.0,4.0,
-Emp310,CHERIAN,Contract,Active,Level10,75317.0,Pune,Communications,Indra Harish,MobileAppTester,23-02-2023,03-12-2023,0.25,Partial Allocation,3.0,1.0,1.0,
-Emp630,Khuntale,Permanent,Active,Level10,93236.0,Pune,Communications,Indra Harish,Trace32,10-02-2023,20-01-2023,0.75,Partial Allocation,2.0,3.0,4.0,

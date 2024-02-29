@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp476,Reghuraj,Permanent,Active,Level8,140359.0,New York,Public Sector,Sabeer Bhatia,Embedded C,16-02-2023,15-06-2023,1.0,Full Allocation,5.0,4.0,4.0,

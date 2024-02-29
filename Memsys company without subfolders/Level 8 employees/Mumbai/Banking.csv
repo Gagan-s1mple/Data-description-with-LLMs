@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1876,Pairupuni,Permanent,InActive,Level8,166703.0,Mumbai,Banking,Nirupama Sanjeev,NLP,03-09-2023,18-04-2023,1.0,Full Allocation,5.0,1.0,5.0,

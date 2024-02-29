@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp471,Amit,Permanent,Active,Level4,278713.0,New Delhi,Education,Rajan Raheja,Django,27-11-2023,20-02-2023,1.0,Full Allocation,4.0,4.0,3.0,

@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp79,Shobhana Bhartia,Permanent,Active,Level3,591389.0,Chennai,MSME,Navi Vadlamudi,Leadership and Management,05-05-2023,06-11-2023,0.0,No Allocation,3.0,1.0,4.0,

@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1653,Bhoyi,Permanent,Active,Level6,196067.0,San Francisco,Banking,Rohan Bopanna,CSS;MongoDB,11-05-2023,22-12-2023,0.0,No Allocation,1.0,3.0,4.0,

@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1573,Muniappan,Permanent,Active,Level8,154489.0,Berlin,Life Sciences,Vikram Pandit,CSS,16-05-2023,17-09-2023,0.0,No Allocation,2.0,3.0,4.0,

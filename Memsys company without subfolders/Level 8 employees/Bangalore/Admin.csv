@@ -1,8 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1631,Velusamy,Permanent,Active,Level8,126275.0,Bangalore,Healthcare,Somdev,Office Administration,22-05-2023,18-03-2023,0.0,No Allocation,3.0,5.0,5.0,
-Emp1655,Shafiulla,Permanent,Active,Level8,122387.0,Bangalore,Communications,Indra Harish,Office Administration;JS,13-04-2023,12-03-2023,0.25,Partial Allocation,2.0,1.0,4.0,
-Emp1811,Nayar,Permanent,InActive,Level8,171085.0,Bangalore,Emerging Technologies,Bhaskar Rao,Office Administration,12-02-2023,22-07-2023,0.75,Partial Allocation,2.0,4.0,3.0,
-Emp1914,Jadda,Permanent,Active,Level8,125038.0,Bangalore,Transportation,Swrna Nadar,Microsoft Administration;Microsoft Administration,28-07-2023,14-04-2023,0.5,Split Allocation,4.0,1.0,5.0,
-Emp2400,Soosaiah,Permanent,Active,Level8,134873.0,Bangalore,Admin,KushalBendre,Facilities Manager,07-09-2023,14-12-2023,0.75,Partial Allocation,3.0,1.0,2.0,
-Emp2403,Siddappa,Permanent,Active,Level8,141645.0,Bangalore,Admin,Masti Manav,Office Administration,16-05-2023,25-08-2023,1.0,Full Allocation,1.0,2.0,1.0,
-Emp751,Mokashi,Permanent,InActive,Level8,131726.0,Bangalore,eCommerce,Swaraj Paul,Microsoft Administration,27-11-2023,22-04-2023,0.5,Split Allocation,1.0,2.0,1.0,

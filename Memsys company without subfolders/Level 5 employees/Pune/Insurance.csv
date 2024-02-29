@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1123,Rengaraj,Permanent,Active,Level5,420922.0,Pune,Insurance,Ratan Patra,CSS,22-03-2023,07-10-2023,0.75,Partial Allocation,1.0,5.0,3.0,

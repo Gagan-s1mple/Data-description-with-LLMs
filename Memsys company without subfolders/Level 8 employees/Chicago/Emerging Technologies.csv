@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1534,Rumalad,Permanent,InActive,Level8,143434.0,Chicago,Emerging Technologies,ShankarBhanu,SAP Netweaver;Apache Spark,12-11-2023,23-02-2023,0.0,No Allocation,3.0,5.0,4.0,

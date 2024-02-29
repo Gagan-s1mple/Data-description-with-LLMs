@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2005,MEKA,Permanent,InActive,Level4,465979.0,Chicago,Insurance,Shiv Shakthi,C,01-04-2023,05-05-2023,1.0,Full Allocation,4.0,3.0,2.0,

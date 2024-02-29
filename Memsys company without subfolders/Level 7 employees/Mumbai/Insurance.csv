@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1782,Sahusaku,Permanent,Active,Level7,215763.0,Mumbai,Insurance,Shanthi Birla,.Net,08-06-2023,18-04-2023,0.0,No Allocation,5.0,2.0,1.0,
-Emp533,Natarajan,Permanent,Active,Level7,227542.0,Mumbai,Insurance,Shiv Shakthi,Oracle SQL;AWSArchitect,13-02-2023,24-12-2023,0.75,Partial Allocation,3.0,2.0,4.0,

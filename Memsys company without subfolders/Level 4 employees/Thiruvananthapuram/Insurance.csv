@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1466,Naresh,Permanent,Active,Level4,454060.0,Thiruvananthapuram,Insurance,Ratan Patra,ProgramManager;Finance Auditing,05-05-2023,06-08-2023,0.0,No Allocation,1.0,1.0,1.0,

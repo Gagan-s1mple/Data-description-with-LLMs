@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2431,Durga,Permanent,Active,Level6,269229.0,Hyderabad,Admin,Masti Manav,Building Manager,21-11-2023,15-08-2023,0.0,No Allocation,4.0,5.0,2.0,

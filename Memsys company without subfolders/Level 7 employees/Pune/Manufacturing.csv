@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp882,Rajappa,Contract,Active,Level7,251986.0,Pune,Manufacturing,Shukla Ambani,Tableau,16-07-2023,24-12-2023,0.5,Split Allocation,1.0,2.0,2.0,

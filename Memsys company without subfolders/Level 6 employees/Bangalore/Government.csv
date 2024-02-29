@@ -1,6 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1130,Lakshmi,Permanent,Active,Level6,246087.0,Bangalore,Government,Raunaq Singh,SoapUI,21-01-2023,07-08-2023,1.0,Full Allocation,4.0,2.0,2.0,
-Emp1173,Anita,Contract,Active,Level6,367265.0,Bangalore,Government,Shantanurao,JS;AWSDevelopment,24-02-2023,21-03-2023,0.75,Partial Allocation,1.0,1.0,1.0,
-Emp1616,Gaurav,Contract,InActive,Level6,209282.0,Bangalore,Government,Shantanurao,ExcelMacros,04-05-2023,09-06-2023,1.0,Full Allocation,1.0,2.0,2.0,
-Emp2066,Sharma,Permanent,Active,Level6,256250.0,Bangalore,Government,Venkat Murthy,C++,11-06-2023,17-07-2023,0.75,Partial Allocation,2.0,3.0,2.0,
-Emp490,Shivakumar,Permanent,InActive,Level6,189354.0,Bangalore,Government,Shantanurao,ApplicationTester;ProgramManager,16-09-2023,09-04-2023,0.5,Split Allocation,1.0,3.0,2.0,

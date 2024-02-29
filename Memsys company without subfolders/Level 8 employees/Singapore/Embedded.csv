@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2041,Theyyamveettil,Permanent,InActive,Level8,131329.0,Singapore,Embedded,Pradeep Sindhu,DeliveryManager,29-04-2023,18-03-2023,0.25,Partial Allocation,3.0,3.0,1.0,

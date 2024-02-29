@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1056,Bigi,Permanent,Active,Level7,197812.0,New York,Insurance,Shanthi Birla,Uipath;Python,14-05-2023,03-12-2023,0.5,Split Allocation,5.0,3.0,2.0,
-Emp761,Hegde,Permanent,Active,Level7,173186.0,New York,Insurance,Shanthi Birla,Quality Control,07-08-2023,09-05-2023,0.5,Split Allocation,1.0,1.0,4.0,

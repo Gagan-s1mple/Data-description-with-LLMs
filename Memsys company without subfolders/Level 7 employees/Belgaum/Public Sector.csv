@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp580,Govind,Contract,Active,Level7,240964.0,Belgaum,Public Sector,Sant Singh,Deep Learning,29-01-2023,12-01-2023,0.25,Partial Allocation,1.0,3.0,4.0,

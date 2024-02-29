@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp97,ShivGoenka,Permanent,Active,Level3,283074.0,Bangalore,FMCG,Yuki Bumra,Leadership and Management,09-05-2023,14-05-2023,0.75,Partial Allocation,1.0,2.0,2.0,

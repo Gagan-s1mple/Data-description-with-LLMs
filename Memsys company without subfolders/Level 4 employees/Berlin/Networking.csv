@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1436,Gururajan,Permanent,Active,Level4,429833.0,Berlin,Networking,Kushal Pal,JS;TechLead,15-05-2023,22-03-2023,1.0,Full Allocation,3.0,5.0,1.0,

@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp100,UdyaRavi,Permanent,Active,Level3,606341.0,Bangalore,Transportation,Kapil Dev,Leadership and Management,13-05-2023,31-01-2023,1.0,Full Allocation,5.0,5.0,1.0,

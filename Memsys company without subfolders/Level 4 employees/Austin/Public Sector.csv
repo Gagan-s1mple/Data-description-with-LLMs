@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1863,Komanduri,Permanent,InActive,Level4,391989.0,Austin,Public Sector,Sant Singh,Tableau;Python,18-05-2023,22-06-2023,0.75,Partial Allocation,1.0,1.0,2.0,

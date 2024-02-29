@@ -1,4 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp125,Sanjay,Permanent,Active,Level6,187444.0,Bangalore,FMCG,ShivGoenka,Web Application Platform;Office Administration,13-03-2023,06-06-2023,0.75,Partial Allocation,3.0,3.0,5.0,
-Emp2417,Dhanush,Permanent,InActive,Level6,225233.0,Bangalore,Admin,KushalMasti,Admin Head,27-10-2023,20-09-2023,0.75,Partial Allocation,3.0,4.0,3.0,
-Emp825,Prabhu,Permanent,Active,Level6,206688.0,Bangalore,Banking,Steffi Jones,MachineLearning;Office Administration,05-07-2023,15-04-2023,0.75,Partial Allocation,4.0,5.0,4.0,

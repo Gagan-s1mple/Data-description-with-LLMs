@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1199,Madhi,Permanent,InActive,Level7,269978.0,Belgaum,Networking,Phalgun,IOTDeveloper,11-03-2023,25-10-2023,0.0,No Allocation,5.0,4.0,4.0,
-Emp777,Poonja,Permanent,Active,Level7,215999.0,Belgaum,Networking,Kushal Pal,AzureArchitect,29-05-2023,13-07-2023,0.75,Partial Allocation,2.0,1.0,3.0,

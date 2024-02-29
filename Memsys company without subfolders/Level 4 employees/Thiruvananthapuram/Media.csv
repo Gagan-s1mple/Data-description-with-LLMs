@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2325,Chevineni,Contract,Active,Level4,317927.0,Thiruvananthapuram,Sales & Marketing,Frederick ,Social Media Manager,19-11-2023,30-04-2023,0.5,Split Allocation,4.0,5.0,4.0,
-Emp549,Gulraiz,Permanent,Active,Level4,565632.0,Thiruvananthapuram,Media,Bandhu Gupta,DBA- Relational,02-07-2023,05-06-2023,1.0,Full Allocation,3.0,2.0,4.0,

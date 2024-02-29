@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2272,Thomas,Contract,Active,Level7,150485.0,New Delhi,Communications,Gurbaksh,ioSAppTester,06-09-2023,21-01-2023,1.0,Full Allocation,1.0,5.0,5.0,

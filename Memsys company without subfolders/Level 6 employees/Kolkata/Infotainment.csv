@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2057,Sekhar,Permanent,Active,Level6,260266.0,Kolkata,Infotainment,Palki Oberoi,Scala,25-12-2023,24-06-2023,1.0,Full Allocation,5.0,4.0,4.0,
-Emp809,Ostwal,Permanent,Active,Level6,348559.0,Kolkata,Infotainment,Palki Oberoi,AWSDevOps,23-03-2023,22-01-2023,0.25,Partial Allocation,5.0,2.0,4.0,

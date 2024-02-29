@@ -1,4 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1485,Sharmagongh,Permanent,Active,Level5,412226.0,Austin,Public Sector,Sabeer Bhatia,MachineLearning;AzureArchitect,04-01-2023,04-02-2023,0.75,Partial Allocation,4.0,4.0,4.0,
-Emp161,Garvit,Permanent,InActive,Level5,329230.0,Austin,Public Sector,Jagdeesh Jindal,Apache Spark,04-10-2023,18-08-2023,0.75,Partial Allocation,5.0,4.0,5.0,
-Emp2022,Krishnamurthy,Permanent,Active,Level5,187541.0,Austin,Public Sector,Jagdeesh Jindal,C++,10-11-2023,30-09-2023,1.0,Full Allocation,3.0,4.0,3.0,

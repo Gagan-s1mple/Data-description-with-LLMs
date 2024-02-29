@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1805,Neekhara,Permanent,InActive,Level5,319212.0,Austin,Insurance,Shanthi Birla,Apache Spark;Systems Testing,01-06-2023,15-03-2023,0.25,Partial Allocation,4.0,2.0,1.0,
-Emp212,Kotresh,Permanent,Active,Level5,239773.0,Austin,Insurance,Shiv Shakthi,ProjectManager;Systems Testing,22-11-2023,20-07-2023,1.0,Full Allocation,5.0,3.0,1.0,

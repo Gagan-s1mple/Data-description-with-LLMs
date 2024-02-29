@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1967,Kariyappa,Permanent,InActive,Level6,281443.0,Mysore,Banking,Nirupama Sanjeev,AzureArchitect;Web Application Platform,02-08-2023,29-06-2023,1.0,Full Allocation,1.0,3.0,1.0,

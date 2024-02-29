@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp641,PONNUVEL,Permanent,Active,Level7,296348.0,Noida,Retail,Leander Bence,MachineLearning;ProgramManager,08-07-2023,22-12-2023,0.0,No Allocation,2.0,5.0,1.0,

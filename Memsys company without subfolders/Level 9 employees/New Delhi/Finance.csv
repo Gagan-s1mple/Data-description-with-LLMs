@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2098,Vardhan,Contract,InActive,Level9,117109.0,New Delhi,Life Sciences,Bhagyashree Rai,Finance Auditing,25-11-2023,28-10-2023,0.75,Partial Allocation,5.0,4.0,2.0,

@@ -1,4 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1091,Siva,Contract,Active,Level10,77418.0,New York,Infotainment,Manibhai Naik,Trace32,23-05-2023,12-05-2023,0.5,Split Allocation,3.0,2.0,5.0,
-Emp1403,Lohar,Permanent,InActive,Level10,67607.0,New York,Infotainment,Arjun Malhotra,Apache Spark,01-06-2023,10-08-2023,0.5,Split Allocation,5.0,1.0,2.0,
-Emp902,Vadakkeadth,Permanent,InActive,Level10,67058.0,New York,Infotainment,Arjun Malhotra,Python,30-03-2023,08-10-2023,1.0,Full Allocation,4.0,1.0,4.0,

@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2274,Avaghade,Permanent,InActive,Level7,158200.0,Chicago,HRM,BheemaBhargava,HR Executive,26-03-2023,04-05-2023,0.0,No Allocation,1.0,5.0,4.0,

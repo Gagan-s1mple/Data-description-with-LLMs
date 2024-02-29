@@ -1,7 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1587,Srinivasan,Permanent,Active,Level6,283001.0,Bangalore,eCommerce,Swaraj Paul,CSS,17-09-2023,25-04-2023,0.5,Split Allocation,1.0,1.0,4.0,
-Emp1824,Josephopta,Permanent,Active,Level6,168379.0,Bangalore,eCommerce,Swaraj Paul,Master Data Management,29-09-2023,14-02-2023,1.0,Full Allocation,4.0,1.0,3.0,
-Emp1975,Mohapatro,Permanent,Active,Level6,288675.0,Bangalore,eCommerce,Satya Goyal ,Quality Control,28-08-2023,10-11-2023,0.25,Partial Allocation,1.0,1.0,2.0,
-Emp1989,SWAMY,Permanent,InActive,Level6,360351.0,Bangalore,eCommerce,Sujit Kamat,Deep Learning,01-10-2023,15-04-2023,0.25,Partial Allocation,1.0,3.0,3.0,
-Emp2137,Singhitrw,Contract,Active,Level6,199425.0,Bangalore,eCommerce,Satya Goyal ,Tableau;Embedded C,11-01-2023,06-05-2023,0.0,No Allocation,3.0,1.0,3.0,
-Emp717,Revanur,Permanent,Active,Level6,244240.0,Bangalore,eCommerce,Satya Goyal ,Scala,03-06-2023,26-11-2023,0.5,Split Allocation,3.0,1.0,5.0,

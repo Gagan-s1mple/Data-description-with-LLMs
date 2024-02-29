@@ -1,9 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1151,Kalaimani,Permanent,InActive,Level5,485957.0,Bangalore,Transportation,Swrna Nadar,React JS,15-06-2023,18-11-2023,0.25,Partial Allocation,2.0,5.0,2.0,
-Emp1336,TARANIAhipw,Permanent,Active,Level5,238809.0,Bangalore,Transportation,Brismit,Appium,12-03-2023,01-06-2023,0.25,Partial Allocation,2.0,3.0,5.0,
-Emp1752,Phadke,Permanent,Active,Level5,499995.0,Bangalore,Transportation,UdyaRavi,Embedded C,20-11-2023,23-08-2023,0.75,Partial Allocation,1.0,2.0,1.0,
-Emp1965,Reddy,Permanent,InActive,Level5,305821.0,Bangalore,Transportation,Swrna Nadar,C,14-11-2023,28-02-2023,0.75,Partial Allocation,3.0,4.0,5.0,
-Emp2105,Walvekar,Permanent,Active,Level5,411101.0,Bangalore,Transportation,UdyaRavi,React JS,18-08-2023,09-02-2023,0.75,Partial Allocation,5.0,3.0,1.0,
-Emp2480,Kavita,Permanent,Active,Level5,329399.0,Bangalore,Transportation,UdyaRavi,DeliveryManager,02-08-2023,28-10-2023,0.75,Partial Allocation,5.0,3.0,5.0,
-Emp396,Komal,Permanent,InActive,Level5,348048.0,Bangalore,Transportation,Brismit,Python,10-03-2023,18-05-2023,0.25,Partial Allocation,3.0,4.0,5.0,
-Emp545,Pradeep,Permanent,Active,Level5,468033.0,Bangalore,Transportation,Brismit,JS,01-08-2023,27-09-2023,0.25,Partial Allocation,5.0,1.0,3.0,

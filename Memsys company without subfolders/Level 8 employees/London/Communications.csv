@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1627,Nagarajappa,Permanent,InActive,Level8,119029.0,London,Communications,Indra Harish,ApplicationTester,23-05-2023,29-08-2023,1.0,Full Allocation,3.0,4.0,3.0,

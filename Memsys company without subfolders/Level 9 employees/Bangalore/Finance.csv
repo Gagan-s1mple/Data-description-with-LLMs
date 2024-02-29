@@ -1,7 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1710,Mittal,Permanent,InActive,Level9,101559.0,Bangalore,Emerging Technologies,Bhaskar Rao,Finance Auditing,28-08-2023,24-03-2023,0.0,No Allocation,4.0,3.0,3.0,
-Emp2033,Dhanakotti,Permanent,Active,Level9,92666.0,Bangalore,Media,Anji Reddy,Finance Auditing,27-04-2023,04-05-2023,1.0,Full Allocation,5.0,1.0,2.0,
-Emp2445,solomon,Permanent,Active,Level9,90149.0,Bangalore,Finance,Bheema Samanth,Accounts Processing,13-12-2023,24-01-2023,0.75,Partial Allocation,2.0,5.0,4.0,
-Emp2460,Jayapriya,Permanent,InActive,Level9,107575.0,Bangalore,Finance,UdayaBhanu,Finance Auditing,20-09-2023,09-09-2023,0.25,Partial Allocation,3.0,5.0,4.0,
-Emp2462,Jeena,Permanent,Active,Level9,113820.0,Bangalore,Finance,ShaktiBheem,Finance Controller,31-08-2023,16-06-2023,0.75,Partial Allocation,3.0,2.0,2.0,
-Emp372,Nachiket,Permanent,Active,Level9,92945.0,Bangalore,Life Sciences,Bhagyashree Rai,Finance Auditing,01-11-2023,07-03-2023,1.0,Full Allocation,3.0,1.0,4.0,

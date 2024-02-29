@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp932,Nadaf,Permanent,Active,Level5,255913.0,San Francisco,Transportation,UdyaRavi,MachineLearning,26-02-2023,03-01-2023,0.75,Partial Allocation,5.0,2.0,4.0,

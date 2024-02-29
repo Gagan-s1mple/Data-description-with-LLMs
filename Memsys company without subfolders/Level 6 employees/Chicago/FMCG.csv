@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1869,Majumdar,Permanent,InActive,Level6,246211.0,Chicago,FMCG,AnkitShishya,SAP Netweaver,18-11-2023,18-09-2023,0.25,Partial Allocation,3.0,4.0,1.0,

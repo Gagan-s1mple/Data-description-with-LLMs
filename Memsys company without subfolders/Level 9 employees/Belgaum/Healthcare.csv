@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1232,Steni,Permanent,InActive,Level9,86867.0,Belgaum,Healthcare,Mahindra ,ApplicationTester,08-04-2023,03-02-2023,1.0,Full Allocation,5.0,1.0,5.0,

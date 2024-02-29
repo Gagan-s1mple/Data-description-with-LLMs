@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1315,Krishnamurthynaik,Permanent,Active,Level5,450495.0,Belgaum,Retail,Sania Kothari,Automation Testing,08-11-2023,10-11-2023,0.75,Partial Allocation,4.0,3.0,2.0,

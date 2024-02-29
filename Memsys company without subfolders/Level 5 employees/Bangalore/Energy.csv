@@ -1,7 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1225,Poanselvi,Permanent,Active,Level5,228693.0,Bangalore,Energy,Rinku Shetty,TCL Scripting,02-12-2023,19-02-2023,0.25,Partial Allocation,3.0,2.0,3.0,
-Emp1271,Neha,Permanent,Active,Level5,382408.0,Bangalore,Energy,Rajiv Raheja,Python,24-04-2023,25-11-2023,0.75,Partial Allocation,4.0,1.0,3.0,
-Emp1647,Supath,Permanent,Active,Level5,264994.0,Bangalore,Energy,Rinku Shetty,Master Data Management,18-07-2023,29-10-2023,0.0,No Allocation,1.0,2.0,3.0,
-Emp182,Santhoshkumar,Permanent,Active,Level5,190719.0,Bangalore,Energy,Rajiv Raheja,Finance Auditing,07-03-2023,29-08-2023,0.25,Partial Allocation,4.0,1.0,2.0,
-Emp1968,Nair,Contract,Active,Level5,328499.0,Bangalore,Energy,Rajiv Raheja,Deep Learning,16-09-2023,22-07-2023,0.25,Partial Allocation,3.0,3.0,5.0,
-Emp424,Waseem,Permanent,Active,Level5,486555.0,Bangalore,Energy,Rinku Shetty,TechLead,06-03-2023,02-09-2023,0.0,No Allocation,5.0,3.0,3.0,

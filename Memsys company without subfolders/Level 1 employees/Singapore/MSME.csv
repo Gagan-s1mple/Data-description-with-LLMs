@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1611,Padmanabhan,Permanent,Active,Level10,60316.0,Singapore,MSME,Shobhana Bhartia,Data Modeling,12-12-2023,09-08-2023,0.25,Partial Allocation,1.0,2.0,5.0,

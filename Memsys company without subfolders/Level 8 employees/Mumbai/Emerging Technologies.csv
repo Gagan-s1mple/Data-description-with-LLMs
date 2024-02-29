@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1386,Pavan,Permanent,Active,Level8,148513.0,Mumbai,Emerging Technologies,Bhaskar Rao,Data Modeling,04-12-2023,09-03-2023,0.25,Partial Allocation,1.0,2.0,1.0,

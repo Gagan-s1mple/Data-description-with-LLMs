@@ -1,7 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1414,Vibhav,Permanent,InActive,Level4,219545.0,Bangalore,Energy,Romesh Bhanu,Uipath,22-03-2023,21-02-2023,1.0,Full Allocation,2.0,2.0,5.0,
-Emp1787,Mustafa,Permanent,Active,Level4,241837.0,Bangalore,Energy,Rajiv Raheja,TechLead,08-08-2023,27-12-2023,0.5,Split Allocation,2.0,3.0,4.0,
-Emp2102,SHAHuopwjg,Permanent,Active,Level4,530461.0,Bangalore,Energy,Romesh Bhanu,NLP,01-08-2023,29-08-2023,0.5,Split Allocation,1.0,4.0,3.0,
-Emp2169,Babulopi,Permanent,Active,Level4,413651.0,Bangalore,Energy,Romesh Bhanu,DeliveryManager,20-04-2023,12-07-2023,1.0,Full Allocation,2.0,3.0,5.0,
-Emp2236,Ambarapu,Contract,Active,Level4,252343.0,Bangalore,Energy,Romesh Bhanu,Data Modeling,15-09-2023,09-01-2023,0.25,Partial Allocation,5.0,5.0,1.0,
-Emp822,Bhargava,Permanent,Active,Level4,254783.0,Bangalore,Energy,Romesh Bhanu,Python,22-03-2023,15-11-2023,0.75,Partial Allocation,2.0,2.0,5.0,

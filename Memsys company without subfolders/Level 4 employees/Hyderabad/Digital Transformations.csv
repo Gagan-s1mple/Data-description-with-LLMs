@@ -1,4 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1643,Singhinitty,Contract,Active,Level4,254320.0,Hyderabad,Digital Transformations,Tulsi Perumal,CSS,16-04-2023,11-08-2023,0.5,Split Allocation,2.0,1.0,4.0,
-Emp1677,Peer,Contract,InActive,Level4,337452.0,Hyderabad,Digital Transformations,Tulsi Perumal,Oracle Forms,24-01-2023,17-04-2023,0.25,Partial Allocation,5.0,1.0,3.0,
-Emp916,Padmanaban,Permanent,Active,Level4,474428.0,Hyderabad,Digital Transformations,Badal Kotak,DeliveryManager,20-04-2023,13-04-2023,0.5,Split Allocation,4.0,1.0,3.0,

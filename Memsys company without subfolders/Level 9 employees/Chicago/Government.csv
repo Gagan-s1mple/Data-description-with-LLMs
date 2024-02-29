@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1665,Fasil,Permanent,Active,Level9,96529.0,Chicago,Government,Venkat Murthy,SAP Netweaver,01-09-2023,15-03-2023,0.25,Partial Allocation,4.0,4.0,2.0,

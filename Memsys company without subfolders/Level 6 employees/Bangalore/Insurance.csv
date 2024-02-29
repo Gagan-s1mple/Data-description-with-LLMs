@@ -1,7 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1224,Jothi,Permanent,Active,Level6,272777.0,Bangalore,Insurance,Shiv Shakthi,NLP,15-06-2023,13-05-2023,0.75,Partial Allocation,2.0,2.0,5.0,
-Emp1258,Hemalatha,Permanent,Active,Level6,193929.0,Bangalore,Insurance,Ratan Patra,AndroidAppTester,17-11-2023,03-01-2023,0.0,No Allocation,4.0,5.0,2.0,
-Emp1693,Swamy,Permanent,Active,Level6,187493.0,Bangalore,Insurance,Shiv Shakthi,AWSArchitect,05-06-2023,15-11-2023,1.0,Full Allocation,4.0,4.0,2.0,
-Emp1967,Kariyappa,Permanent,Active,Level6,223224.0,Bangalore,Insurance,Ratan Patra,PowerBI,12-09-2023,04-01-2023,0.5,Split Allocation,4.0,3.0,2.0,
-Emp2066,Sharma,Permanent,Active,Level6,262579.0,Bangalore,Insurance,Shanthi Birla,CSS,05-04-2023,14-02-2023,0.25,Partial Allocation,1.0,2.0,5.0,
-Emp382,Manoj,Permanent,Active,Level6,365214.0,Bangalore,Insurance,Ratan Patra,Automation Testing,22-09-2023,27-02-2023,0.75,Partial Allocation,3.0,2.0,5.0,

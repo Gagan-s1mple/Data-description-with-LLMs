@@ -1,5 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1209,Ramya,Permanent,Active,Level6,326095.0,Bangalore,Energy,Rajiv Raheja,Matlabs,08-09-2023,24-09-2023,0.5,Split Allocation,4.0,1.0,4.0,
-Emp1848,Muthupandi,Permanent,Active,Level6,233363.0,Bangalore,Energy,Rajiv Raheja,Embedded C;Oracle Forms,12-10-2023,27-03-2023,0.75,Partial Allocation,4.0,5.0,5.0,
-Emp1943,Lingesh,Permanent,Active,Level6,188445.0,Bangalore,Energy,Rinku Shetty,Recruitment,23-04-2023,20-12-2023,0.75,Partial Allocation,5.0,2.0,4.0,
-Emp2115,Laeeq,Permanent,InActive,Level6,336245.0,Bangalore,Energy,Rajiv Raheja,CSS,06-07-2023,03-09-2023,0.75,Partial Allocation,4.0,1.0,3.0,

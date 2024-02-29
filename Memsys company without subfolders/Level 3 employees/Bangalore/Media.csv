@@ -1,2 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp58,Anji Reddy,Permanent,Active,Level3,314097.0,Bangalore,Media,Lavanya Murthy,Leadership and Management,08-11-2023,06-08-2023,0.25,Partial Allocation,3.0,3.0,4.0,

@@ -1,8 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1127,Bhuvaneshwari,Permanent,Active,Level8,164337.0,Bangalore,Education,Rajan Raheja,AWS Programming,06-06-2023,14-03-2023,0.5,Split Allocation,3.0,4.0,4.0,
-Emp1558,Akhilesh,Permanent,InActive,Level8,172894.0,Bangalore,Education,Rajan Raheja,Web Application Platform,14-06-2023,21-02-2023,0.0,No Allocation,3.0,3.0,1.0,
-Emp1932,ROUT,Contract,Active,Level8,137948.0,Bangalore,Education,Rajan Raheja,Recruitment;ProjectManager,24-04-2023,20-01-2023,0.75,Partial Allocation,4.0,3.0,4.0,
-Emp2003,Nayak,Permanent,Active,Level8,174334.0,Bangalore,Education,Rajan Raheja,AWSDevOps,26-12-2023,15-04-2023,0.5,Split Allocation,4.0,3.0,2.0,
-Emp2097,Sahu,Permanent,Active,Level8,132144.0,Bangalore,Education,Rajan Raheja,Oracle Forms,31-10-2023,23-06-2023,0.5,Split Allocation,5.0,3.0,4.0,
-Emp218,Razia,Contract,Active,Level8,158822.0,Bangalore,Education,Rajan Raheja,Azure BI,20-05-2023,04-08-2023,1.0,Full Allocation,1.0,4.0,4.0,
-Emp528,Tatyana,Permanent,Active,Level8,166520.0,Bangalore,Education,Rajan Raheja,C;Embedded C,25-01-2023,18-09-2023,0.5,Split Allocation,5.0,2.0,2.0,

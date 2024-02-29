@@ -1,9 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1666,Ayathan,Permanent,Active,Level10,69432.0,Bangalore,Life Sciences,Swaraj Mittal,Deep Learning,08-06-2023,06-11-2023,0.25,Partial Allocation,4.0,1.0,1.0,
-Emp1752,Phadke,Permanent,InActive,Level10,96005.0,Bangalore,Life Sciences,Swaraj Mittal,Master Data Management,27-09-2023,30-05-2023,0.75,Partial Allocation,2.0,3.0,5.0,
-Emp1779,Manickavel,Permanent,Active,Level10,98642.0,Bangalore,Life Sciences,Vikram Pandit,Trace32;Finance Auditing,13-07-2023,31-08-2023,0.75,Partial Allocation,5.0,3.0,2.0,
-Emp1833,Sahurpata,Permanent,InActive,Level10,64129.0,Bangalore,Life Sciences,Bhagyashree Rai,ioSAppTester;Tableau,11-07-2023,10-09-2023,0.75,Partial Allocation,3.0,3.0,2.0,
-Emp1938,SWAMYoappa,Permanent,Active,Level10,69564.0,Bangalore,Life Sciences,Vikram Pandit,Deep Learning,23-07-2023,28-10-2023,0.75,Partial Allocation,5.0,5.0,1.0,
-Emp2175,Palchamk,Permanent,Active,Level10,77939.0,Bangalore,Life Sciences,Swaraj Mittal,ApplicationTester,19-07-2023,23-01-2023,1.0,Full Allocation,5.0,1.0,4.0,
-Emp768,Vijayaragavan,Permanent,Active,Level10,78103.0,Bangalore,Life Sciences,Bhagyashree Rai,CSS,06-07-2023,11-05-2023,0.0,No Allocation,4.0,3.0,5.0,
-Emp884,Mahnot,Permanent,Active,Level10,65551.0,Bangalore,Life Sciences,Vikram Pandit,Python,25-04-2023,01-04-2023,0.5,Split Allocation,5.0,5.0,1.0,

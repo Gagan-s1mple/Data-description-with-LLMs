@@ -1,4 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp193,Irfan,Permanent,Active,Level8,118588.0,Belgaum,eCommerce,Satya Goyal ,Embedded C,02-12-2023,20-11-2023,0.5,Split Allocation,5.0,3.0,4.0,
-Emp2119,BHAVANASI,Contract,Active,Level8,120078.0,Belgaum,Embedded,Pradeep Sindhu,MobileApp;SAP Netweaver,01-11-2023,15-12-2023,0.75,Partial Allocation,3.0,3.0,1.0,
-Emp671,Vishwarupe,Permanent,InActive,Level8,167837.0,Belgaum,Embedded,Jagtiani,Selenium,05-04-2023,14-12-2023,1.0,Full Allocation,5.0,3.0,4.0,

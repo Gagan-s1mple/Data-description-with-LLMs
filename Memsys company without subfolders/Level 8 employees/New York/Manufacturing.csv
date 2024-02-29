@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp1961,Mudugu,Permanent,InActive,Level8,159431.0,New York,Manufacturing,Adag Mahindra,CSS;AzureDevOps,13-10-2023,24-09-2023,0.25,Partial Allocation,5.0,3.0,4.0,
-Emp2107,Umar,Permanent,Active,Level8,148907.0,New York,Manufacturing,Adag Mahindra,Appium;Azure Programming,22-05-2023,15-02-2023,0.75,Partial Allocation,5.0,3.0,4.0,

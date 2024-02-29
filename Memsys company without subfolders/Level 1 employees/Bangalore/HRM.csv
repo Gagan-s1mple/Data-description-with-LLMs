@@ -1,3 +1,0 @@
-    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
-Emp2285,Mukundwar,Permanent,Active,Level10,81764.0,Bangalore,HRM,BhakthiPriya,Sourcing Specialist,06-07-2023,08-04-2023,1.0,Full Allocation,5.0,3.0,1.0,
-Emp2303,Bharati Alok,Permanent,Active,Level10,61304.0,Bangalore,HRM,BhakthiPriya,HR Executive,23-12-2023,27-02-2023,1.0,Full Allocation,4.0,4.0,5.0,
