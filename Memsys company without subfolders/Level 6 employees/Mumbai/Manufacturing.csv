@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp338,Umesh,Permanent,Active,Level6,347751.0,Mumbai,Manufacturing,Adag Mahindra,Office Administration,08-08-2023,11-08-2023,1.0,Full Allocation,5.0,1.0,2.0,

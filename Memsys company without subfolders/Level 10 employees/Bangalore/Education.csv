@@ -1,0 +1,9 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1383,Dubey,Permanent,InActive,Level10,64325.0,Bangalore,Education,Rajiv Gupta,AWSArchitect,24-11-2023,26-11-2023,0.75,Partial Allocation,2.0,2.0,3.0,
+Emp1607,Kavitha,Permanent,InActive,Level10,60337.0,Bangalore,Education,Rajan Raheja,C#,11-09-2023,18-02-2023,0.0,No Allocation,5.0,5.0,2.0,
+Emp1680,Bandi,Permanent,InActive,Level10,68689.0,Bangalore,Education,Rajan Raheja,Linux,18-03-2023,16-08-2023,0.5,Split Allocation,2.0,3.0,2.0,
+Emp1907,Paul,Contract,Active,Level10,72380.0,Bangalore,Education,Rajiv Gupta,CSS,04-01-2023,31-01-2023,0.0,No Allocation,5.0,3.0,4.0,
+Emp1941,Meena,Contract,Active,Level10,57381.0,Bangalore,Education,Priya Paul,DBA- Relational;DBA- Relational,20-04-2023,15-09-2023,1.0,Full Allocation,1.0,2.0,3.0,
+Emp2108,Aditya,Permanent,Active,Level10,89991.0,Bangalore,Education,Priya Paul,Hardware Testing,25-04-2023,19-12-2023,0.75,Partial Allocation,2.0,1.0,1.0,
+Emp782,Puttappa,Permanent,Active,Level10,73683.0,Bangalore,Education,Rajiv Gupta,Planisware,07-07-2023,14-03-2023,0.5,Split Allocation,4.0,1.0,1.0,
+Emp838,Gonal,Permanent,InActive,Level10,92024.0,Bangalore,Education,Priya Paul,React JS;ApplicationTester,06-09-2023,05-05-2023,1.0,Full Allocation,5.0,2.0,5.0,

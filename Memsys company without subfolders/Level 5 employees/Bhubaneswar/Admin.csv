@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2423,Dhruv Mutreja,Permanent,InActive,Level5,310323.0,Bhubaneswar,Admin,KushalBendre,Facilities Coordinator,19-10-2023,29-04-2023,1.0,Full Allocation,3.0,2.0,2.0,

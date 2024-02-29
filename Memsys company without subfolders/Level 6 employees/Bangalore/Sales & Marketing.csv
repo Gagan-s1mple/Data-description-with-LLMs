@@ -1,0 +1,5 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2312,Mhetre,Contract,Active,Level6,286332.0,Bangalore,Sales & Marketing,Frederick ,Sales Manager,18-10-2023,11-04-2023,0.0,No Allocation,5.0,2.0,4.0,
+Emp2331,Venky Oberoi,Permanent,Active,Level6,322442.0,Bangalore,Sales & Marketing,Frederick ,SEO Specialist,30-07-2023,07-06-2023,0.0,No Allocation,5.0,4.0,4.0,
+Emp2333,Bhargawa Datta,Permanent,Active,Level6,330538.0,Bangalore,Sales & Marketing,Frederick ,Market Analyst,03-08-2023,23-07-2023,0.75,Partial Allocation,3.0,4.0,2.0,
+Emp2341,Apoorva,Permanent,Active,Level6,253060.0,Bangalore,Sales & Marketing,BendreNagappa,Market Analyst,13-05-2023,09-09-2023,0.25,Partial Allocation,3.0,4.0,3.0,

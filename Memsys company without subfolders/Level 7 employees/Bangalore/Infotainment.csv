@@ -1,0 +1,9 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1107,Yamini,Contract,InActive,Level7,247357.0,Bangalore,Infotainment,Arjun Malhotra,MobileAppTester,08-05-2023,02-05-2023,0.5,Split Allocation,2.0,1.0,3.0,
+Emp1262,Shilpa,Permanent,Active,Level7,237328.0,Bangalore,Infotainment,Manibhai Naik,Oracle Forms,26-08-2023,01-02-2023,0.5,Split Allocation,2.0,3.0,4.0,
+Emp1348,John,Permanent,InActive,Level7,133387.0,Bangalore,Infotainment,Palki Oberoi,AndroidAppTester,19-12-2023,13-07-2023,0.0,No Allocation,2.0,5.0,3.0,
+Emp1505,Ramanjulu,Permanent,Active,Level7,301796.0,Bangalore,Infotainment,Manibhai Naik,Web Application Platform,01-12-2023,11-02-2023,0.5,Split Allocation,2.0,1.0,3.0,
+Emp1684,Arora,Permanent,Active,Level7,194421.0,Bangalore,Infotainment,Manibhai Naik,PowerBI,26-11-2023,16-05-2023,1.0,Full Allocation,1.0,4.0,1.0,
+Emp2042,Balakrishna,Contract,InActive,Level7,203542.0,Bangalore,Infotainment,Manibhai Naik,ExcelMacros;React JS,19-10-2023,14-02-2023,1.0,Full Allocation,3.0,1.0,2.0,
+Emp271,Rithesh,Contract,Active,Level7,195117.0,Bangalore,Infotainment,Manibhai Naik,SAP HANA,16-03-2023,15-07-2023,1.0,Full Allocation,5.0,2.0,2.0,
+Emp497,Chandrakant,Permanent,Active,Level7,182045.0,Bangalore,Infotainment,Arjun Malhotra,Hardware Testing;Deep Learning,14-08-2023,11-10-2023,1.0,Full Allocation,2.0,5.0,3.0,

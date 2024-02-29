@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp996,Roshni,Permanent,Active,Level10,73209.0,Thiruvananthapuram,Public Sector,Sabeer Bhatia,Kofax,14-11-2023,10-11-2023,1.0,Full Allocation,5.0,5.0,4.0,

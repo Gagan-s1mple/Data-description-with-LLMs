@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp235,Jinu,Permanent,Active,Level5,242726.0,New Delhi,Emerging Technologies,ShankarBhanu,Finance Auditing,20-10-2023,07-08-2023,0.75,Partial Allocation,3.0,2.0,1.0,

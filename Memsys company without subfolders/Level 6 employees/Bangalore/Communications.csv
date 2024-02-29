@@ -1,0 +1,9 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1190,Pallei,Permanent,Active,Level6,278547.0,Bangalore,Communications,Ghanshyam,TCL Scripting,08-04-2023,26-07-2023,0.75,Partial Allocation,4.0,4.0,1.0,
+Emp1413,Rahul,Permanent,Active,Level6,283715.0,Bangalore,Communications,Gurbaksh,Master Data Management,05-08-2023,06-10-2023,0.0,No Allocation,4.0,4.0,5.0,
+Emp1737,Mathur Gorur,Permanent,Active,Level6,338674.0,Bangalore,Communications,Indra Harish,Django,25-05-2023,22-05-2023,1.0,Full Allocation,4.0,3.0,5.0,
+Emp1812,Bais,Contract,Active,Level6,346165.0,Bangalore,Communications,Ghanshyam,DeliveryManager,12-07-2023,07-07-2023,0.25,Partial Allocation,3.0,1.0,3.0,
+Emp2096,Velutharambath,Contract,Active,Level6,172547.0,Bangalore,Communications,Ghanshyam,IOTDeveloper,27-10-2023,09-02-2023,0.5,Split Allocation,1.0,3.0,4.0,
+Emp2166,Ramaiah,Permanent,Active,Level6,270652.0,Bangalore,Communications,Gurbaksh,AWSDevelopment,12-09-2023,24-03-2023,0.5,Split Allocation,4.0,5.0,4.0,
+Emp557,Acharyulu,Permanent,Active,Level6,328763.0,Bangalore,Communications,Gurbaksh,TestComplete;IOTDeveloper,04-06-2023,11-04-2023,0.25,Partial Allocation,1.0,4.0,4.0,
+Emp825,Prabhu,Permanent,InActive,Level6,179930.0,Bangalore,Communications,Indra Harish,Systems Testing,28-10-2023,25-10-2023,0.0,No Allocation,3.0,2.0,5.0,

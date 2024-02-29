@@ -1,0 +1,3 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1965,Reddy,Permanent,Active,Level6,229730.0,Bangalore,Digital Transformations,Badal Kotak,C#;Linux,05-08-2023,05-04-2023,0.75,Partial Allocation,2.0,4.0,1.0,
+Emp736,HARDY,Permanent,Active,Level6,222000.0,Bangalore,Digital Transformations,Tulsi Perumal,.Net,20-03-2023,23-05-2023,0.5,Split Allocation,1.0,2.0,5.0,

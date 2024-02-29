@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1611,Padmanabhan,Permanent,Active,Level5,337675.0,Kolkata,Insurance,Shanthi Birla,AzureArchitect,05-11-2023,24-08-2023,1.0,Full Allocation,3.0,4.0,5.0,

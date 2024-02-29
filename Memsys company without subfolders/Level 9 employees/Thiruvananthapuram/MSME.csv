@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2164,SAHUiopwnjg,Contract,Active,Level9,113688.0,Thiruvananthapuram,MSME,Sheetal Chawla,Azure BI,14-12-2023,15-02-2023,1.0,Full Allocation,4.0,5.0,3.0,

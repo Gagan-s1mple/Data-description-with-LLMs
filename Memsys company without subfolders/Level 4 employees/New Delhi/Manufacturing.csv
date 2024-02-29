@@ -1,0 +1,3 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1142,Renjitha,Permanent,Active,Level4,594826.0,New Delhi,Manufacturing,Shukla Ambani,NLP,14-06-2023,27-11-2023,0.0,No Allocation,4.0,4.0,1.0,
+Emp1859,Chandel,Permanent,InActive,Level4,512828.0,New Delhi,Manufacturing,Shukla Ambani,Quality Control,15-10-2023,21-07-2023,0.25,Partial Allocation,2.0,4.0,1.0,

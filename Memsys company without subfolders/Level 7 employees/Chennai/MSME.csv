@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp346,Nadeem,Permanent,Active,Level7,274179.0,Chennai,MSME,Chawla Mukharjee,Business Integration Platform,04-12-2023,27-01-2023,0.5,Split Allocation,5.0,5.0,4.0,

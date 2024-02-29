@@ -1,0 +1,10 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp151,Prabir,Contract,Active,Level7,306356.0,Bangalore,MSME,Shobhana Bhartia,MobileAppTester,11-01-2023,25-10-2023,0.0,No Allocation,2.0,1.0,1.0,
+Emp1666,Ayathan,Permanent,Active,Level7,242747.0,Bangalore,MSME,Shobhana Bhartia,CSS,23-11-2023,16-11-2023,1.0,Full Allocation,3.0,1.0,2.0,
+Emp1759,PaulPaul,Permanent,Active,Level7,163397.0,Bangalore,MSME,Chawla Mukharjee,Data Modeling,06-08-2023,26-10-2023,0.75,Partial Allocation,1.0,5.0,5.0,
+Emp1818,Mondallipa,Permanent,InActive,Level7,233687.0,Bangalore,MSME,Sheetal Chawla,AWSDevOps,04-05-2023,14-05-2023,0.75,Partial Allocation,4.0,3.0,5.0,
+Emp2165,Shivaji,Permanent,InActive,Level7,311271.0,Bangalore,MSME,Sheetal Chawla,Appium,09-07-2023,02-12-2023,0.0,No Allocation,5.0,2.0,1.0,
+Emp2243,Swarupananda,Permanent,Active,Level7,128776.0,Bangalore,MSME,Chawla Mukharjee,NLP,03-07-2023,14-10-2023,0.0,No Allocation,4.0,4.0,2.0,
+Emp530,Avik,Permanent,Active,Level7,165124.0,Bangalore,MSME,Sheetal Chawla,Java,10-04-2023,24-01-2023,0.25,Partial Allocation,2.0,1.0,4.0,
+Emp646,Chandrappa,Permanent,InActive,Level7,191548.0,Bangalore,MSME,Chawla Mukharjee,ProgramManager,10-07-2023,04-10-2023,0.75,Partial Allocation,3.0,3.0,3.0,
+Emp665,Mitragotri,Contract,Active,Level7,290884.0,Bangalore,MSME,Sheetal Chawla,Scala,05-11-2023,22-01-2023,0.75,Partial Allocation,2.0,3.0,1.0,

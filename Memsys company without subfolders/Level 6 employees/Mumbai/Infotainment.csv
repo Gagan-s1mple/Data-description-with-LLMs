@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1339,TARANIAcopwe,Permanent,Active,Level6,187873.0,Mumbai,Infotainment,Manibhai Naik,MobileApp;Automation Testing,14-07-2023,07-10-2023,0.25,Partial Allocation,1.0,3.0,1.0,

@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1521,Bhat,Permanent,Active,Level9,119556.0,Noida,Government,Shantanurao,Java;Azure Programming,19-09-2023,11-01-2023,0.75,Partial Allocation,3.0,3.0,5.0,

@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2384,Debnath,Permanent,Active,Level5,331093.0,Kolkata,Purchase,LalitRumi,Purchase Executive,10-12-2023,19-11-2023,1.0,Full Allocation,3.0,5.0,4.0,

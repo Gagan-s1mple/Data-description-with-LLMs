@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2398,Krupa,Permanent,Active,Level8,127866.0,Kolkata,Admin,KushalBendre,Facilities Manager,08-09-2023,15-06-2023,1.0,Full Allocation,5.0,3.0,1.0,

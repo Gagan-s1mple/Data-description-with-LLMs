@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1402,Goyal,Permanent,Active,Level9,113102.0,Gurgaon,Government,Shantanurao,PLSQL,05-09-2023,24-05-2023,0.25,Partial Allocation,4.0,1.0,1.0,

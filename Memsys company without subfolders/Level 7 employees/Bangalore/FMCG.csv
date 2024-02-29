@@ -1,0 +1,10 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1600,Veluru,Permanent,InActive,Level7,197560.0,Bangalore,FMCG,BhaskarSudhama,Angular JS;CSS,26-10-2023,21-07-2023,1.0,Full Allocation,4.0,1.0,2.0,
+Emp1802,Mopure,Permanent,InActive,Level7,178144.0,Bangalore,FMCG,BhaskarSudhama,Recruitment;SoapUI,08-09-2023,12-08-2023,0.75,Partial Allocation,5.0,4.0,2.0,
+Emp1836,COURTHIAL,Permanent,InActive,Level7,282097.0,Bangalore,FMCG,BhaskarSudhama,AzureArchitect,15-12-2023,16-12-2023,0.75,Partial Allocation,3.0,1.0,5.0,
+Emp1840,Ningaraj,Permanent,Active,Level7,209476.0,Bangalore,FMCG,AnkitShishya,Cassandra,01-01-2023,21-03-2023,1.0,Full Allocation,5.0,2.0,4.0,
+Emp2044,Pal,Permanent,Active,Level7,272451.0,Bangalore,FMCG,ShivGoenka,Azure BI;ExcelMacros,08-01-2023,28-11-2023,1.0,Full Allocation,1.0,5.0,5.0,
+Emp2062,Kumar,Permanent,Active,Level7,227636.0,Bangalore,FMCG,BhaskarSudhama,AzureArchitect;DeliveryManager,11-10-2023,12-11-2023,0.75,Partial Allocation,2.0,1.0,2.0,
+Emp2062,Kumar,Permanent,Active,Level7,279034.0,Bangalore,FMCG,AnkitShishya,React JS,01-02-2023,25-04-2023,0.25,Partial Allocation,2.0,4.0,5.0,
+Emp342,Deepak,Contract,InActive,Level7,238948.0,Bangalore,FMCG,ShivGoenka,Apache Ant;Deep Learning,29-04-2023,17-06-2023,0.5,Split Allocation,2.0,3.0,2.0,
+Emp541,Prasanna,Contract,Active,Level7,177353.0,Bangalore,FMCG,BhaskarSudhama,AndroidAppTester,23-10-2023,29-09-2023,0.0,No Allocation,1.0,1.0,4.0,

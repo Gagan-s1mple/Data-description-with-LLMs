@@ -1,0 +1,8 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1877,Diwate,Permanent,Active,Level5,234152.0,Bangalore,Infotainment,Manibhai Naik,Planisware,12-03-2023,03-03-2023,0.5,Split Allocation,5.0,4.0,5.0,
+Emp2062,Kumar,Permanent,InActive,Level5,464029.0,Bangalore,Infotainment,Arjun Malhotra,MongoDB,18-03-2023,20-07-2023,0.25,Partial Allocation,1.0,2.0,3.0,
+Emp2088,Paramr,Permanent,Active,Level5,305536.0,Bangalore,Infotainment,Manibhai Naik,Software Architecture,21-01-2023,13-08-2023,0.5,Split Allocation,1.0,3.0,5.0,
+Emp2100,Mohamedkasim,Permanent,Active,Level5,374530.0,Bangalore,Infotainment,Palki Oberoi,Microsoft Administration,13-12-2023,14-05-2023,1.0,Full Allocation,5.0,1.0,2.0,
+Emp2118,Raju,Permanent,InActive,Level5,330989.0,Bangalore,Infotainment,Manibhai Naik,C,04-03-2023,15-01-2023,0.75,Partial Allocation,4.0,1.0,5.0,
+Emp2158,KUMARrtops,Contract,Active,Level5,428744.0,Bangalore,Infotainment,Palki Oberoi,Microsoft Administration,03-08-2023,12-12-2023,0.25,Partial Allocation,4.0,5.0,4.0,
+Emp2224,Vaidya,Permanent,Active,Level5,284630.0,Bangalore,Infotainment,Arjun Malhotra,Selenium,24-11-2023,20-02-2023,0.5,Split Allocation,2.0,5.0,2.0,

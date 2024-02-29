@@ -1,0 +1,3 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1195,Sutar,Permanent,InActive,Level4,567852.0,Bhubaneswar,Communications,Gurbaksh,DBA - Nosql,16-10-2023,11-11-2023,0.5,Split Allocation,1.0,2.0,5.0,
+Emp794,Ghodke,Contract,Active,Level4,249201.0,Bhubaneswar,Communications,Indra Harish,Scala;SAP Netweaver,06-04-2023,11-04-2023,0.0,No Allocation,3.0,5.0,4.0,

@@ -1,0 +1,3 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1057,Subhashini,Permanent,Active,Level5,279954.0,Hyderabad,Networking,Phalgun,AWSArchitect,05-04-2023,04-06-2023,0.75,Partial Allocation,4.0,4.0,5.0,
+Emp1691,Usman,Permanent,InActive,Level5,209673.0,Hyderabad,Networking,Ravi Bilimoria,MachineLearning,24-06-2023,08-10-2023,0.75,Partial Allocation,2.0,2.0,2.0,

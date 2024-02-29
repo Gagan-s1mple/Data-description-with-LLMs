@@ -1,0 +1,13 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1209,Ramya,Contract,Active,Level9,117451.0,Bangalore,Emerging Technologies,BhanuShankar,Automation Testing;MachineLearning,25-02-2023,23-08-2023,0.0,No Allocation,3.0,5.0,3.0,
+Emp1332,Votlaraja,Permanent,InActive,Level9,119589.0,Bangalore,Emerging Technologies,Bhaskar Rao,Quality Control;ApplicationTester,02-01-2023,22-05-2023,0.75,Partial Allocation,3.0,3.0,3.0,
+Emp1469,Shaha,Contract,Active,Level9,114969.0,Bangalore,Emerging Technologies,BhanuShankar,Office Administration,16-11-2023,18-10-2023,0.25,Partial Allocation,1.0,1.0,3.0,
+Emp1710,Mittal,Permanent,InActive,Level9,101559.0,Bangalore,Emerging Technologies,Bhaskar Rao,Finance Auditing,28-08-2023,24-03-2023,0.0,No Allocation,4.0,3.0,3.0,
+Emp1768,Singhoptam,Permanent,Active,Level9,121821.0,Bangalore,Emerging Technologies,ShankarBhanu,Web Application Platform,16-04-2023,03-02-2023,0.75,Partial Allocation,4.0,1.0,5.0,
+Emp1984,KUMAR,Permanent,InActive,Level9,96603.0,Bangalore,Emerging Technologies,ShankarBhanu,AndroidAppTester,30-08-2023,12-08-2023,1.0,Full Allocation,1.0,5.0,5.0,
+Emp2066,Sharma,Permanent,Active,Level9,105716.0,Bangalore,Emerging Technologies,ShankarBhanu,Cassandra,03-12-2023,11-12-2023,1.0,Full Allocation,2.0,1.0,1.0,
+Emp2129,Sarang,Permanent,InActive,Level9,103978.0,Bangalore,Emerging Technologies,Bhaskar Rao,AndroidAppTester,15-03-2023,21-12-2023,0.25,Partial Allocation,4.0,3.0,5.0,
+Emp2237,Kandaswami,Permanent,InActive,Level9,120849.0,Bangalore,Emerging Technologies,BhanuShankar,Python,19-06-2023,02-09-2023,0.5,Split Allocation,4.0,1.0,4.0,
+Emp662,Mishra,Permanent,InActive,Level9,124468.0,Bangalore,Emerging Technologies,ShankarBhanu,ProgramManager,17-12-2023,04-07-2023,0.75,Partial Allocation,5.0,2.0,1.0,
+Emp731,Gareh,Permanent,Active,Level9,121479.0,Bangalore,Emerging Technologies,BhanuShankar,MobileAppTester,20-05-2023,30-07-2023,1.0,Full Allocation,4.0,2.0,4.0,
+Emp979,Lopita,Permanent,Active,Level9,109283.0,Bangalore,Emerging Technologies,Bhaskar Rao,NLP;Azure Programming,21-01-2023,14-07-2023,1.0,Full Allocation,3.0,2.0,2.0,

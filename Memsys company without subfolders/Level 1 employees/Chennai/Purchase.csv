@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2386,Chinnappan,Permanent,InActive,Level10,85183.0,Chennai,Purchase,MalappaBendre,Products Purchase,24-02-2023,27-05-2023,0.5,Split Allocation,3.0,2.0,2.0,

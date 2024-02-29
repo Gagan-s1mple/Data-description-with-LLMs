@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp471,Amit,Permanent,InActive,Level9,102760.0,Belgaum,FMCG,AnkitShishya,Oracle SQL,30-11-2023,22-05-2023,0.0,No Allocation,3.0,1.0,1.0,

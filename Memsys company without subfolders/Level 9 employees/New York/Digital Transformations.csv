@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1929,Mahajan,Permanent,Active,Level9,104762.0,New York,Digital Transformations,Satyendra Rao,Hardware Testing,24-04-2023,25-05-2023,0.25,Partial Allocation,4.0,4.0,4.0,

@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp57,Dilip Ambani,Permanent,Active,Level3,405167.0,Berlin,Media,Lavanya Murthy,Leadership and Management,15-06-2023,07-07-2023,1.0,Full Allocation,5.0,1.0,4.0,

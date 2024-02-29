@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1198,Laiju,Contract,Active,Level8,140043.0,Noida,Life Sciences,Bhagyashree Rai,Trace32,19-08-2023,06-05-2023,0.25,Partial Allocation,4.0,2.0,1.0,

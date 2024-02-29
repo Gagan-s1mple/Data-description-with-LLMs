@@ -1,0 +1,8 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1163,Nishu,Permanent,Active,Level10,66907.0,Bangalore,Manufacturing,Adag Mahindra,JS,30-03-2023,01-03-2023,0.0,No Allocation,5.0,5.0,1.0,
+Emp1625,Sahuiutrupu,Permanent,Active,Level10,90413.0,Bangalore,Manufacturing,Aditya Godrej,ApplicationTester,23-04-2023,18-03-2023,1.0,Full Allocation,1.0,4.0,5.0,
+Emp1942,Bankara,Permanent,Active,Level10,87099.0,Bangalore,Manufacturing,Aditya Godrej,Business Integration Platform;Web Application Platform,30-04-2023,06-02-2023,0.25,Partial Allocation,4.0,4.0,1.0,
+Emp198,Jemy,Permanent,Active,Level10,74214.0,Bangalore,Manufacturing,Shukla Ambani,AndroidAppTester,14-09-2023,18-03-2023,0.0,No Allocation,3.0,1.0,2.0,
+Emp2056,Bajoria,Permanent,InActive,Level10,96426.0,Bangalore,Manufacturing,Aditya Godrej,MongoDB;C,01-04-2023,17-04-2023,0.25,Partial Allocation,2.0,5.0,2.0,
+Emp2128,Rastogi,Permanent,Active,Level10,79035.0,Bangalore,Manufacturing,Aditya Godrej,DeliveryManager;Azure Programming,25-04-2023,11-02-2023,0.5,Split Allocation,2.0,3.0,3.0,
+Emp507,Balaji,Permanent,Active,Level10,77717.0,Bangalore,Manufacturing,Adag Mahindra,DBA - Nosql,28-12-2023,19-06-2023,1.0,Full Allocation,2.0,3.0,5.0,

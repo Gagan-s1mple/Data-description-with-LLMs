@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1697,Sachan,Permanent,Active,Level7,240558.0,Chennai,eCommerce,Satya Goyal ,AWSDevelopment,30-05-2023,12-09-2023,0.75,Partial Allocation,1.0,4.0,1.0,

@@ -1,0 +1,9 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1322,Rohit,Permanent,Active,Level9,110829.0,Bangalore,Digital Transformations,Tulsi Perumal,SAP HANA,22-01-2023,14-01-2023,0.25,Partial Allocation,5.0,5.0,4.0,
+Emp1465,Sripadarao,Permanent,Active,Level9,109943.0,Bangalore,Digital Transformations,Tulsi Perumal,Scala,28-10-2023,30-12-2023,0.0,No Allocation,1.0,1.0,4.0,
+Emp1483,BAGODI,Contract,Active,Level9,112551.0,Bangalore,Digital Transformations,Satyendra Rao,SoapUI,10-07-2023,07-03-2023,1.0,Full Allocation,3.0,3.0,3.0,
+Emp1703,Vasudevan,Permanent,InActive,Level9,108689.0,Bangalore,Digital Transformations,Satyendra Rao,BUHead,16-06-2023,15-09-2023,0.75,Partial Allocation,1.0,2.0,3.0,
+Emp1846,Francis,Permanent,Active,Level9,105981.0,Bangalore,Digital Transformations,Badal Kotak,ProjectManager,05-01-2023,17-02-2023,0.25,Partial Allocation,2.0,2.0,1.0,
+Emp426,Sharad,Permanent,Active,Level9,112386.0,Bangalore,Digital Transformations,Tulsi Perumal,TCL Scripting;C#,28-05-2023,15-10-2023,0.25,Partial Allocation,2.0,2.0,3.0,
+Emp562,MELKOTE,Permanent,InActive,Level9,117990.0,Bangalore,Digital Transformations,Badal Kotak,Python,17-02-2023,15-12-2023,0.25,Partial Allocation,3.0,3.0,5.0,
+Emp686,Jingade,Permanent,Active,Level9,121289.0,Bangalore,Digital Transformations,Badal Kotak,.Net,26-10-2023,26-06-2023,0.0,No Allocation,4.0,5.0,2.0,

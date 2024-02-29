@@ -1,0 +1,6 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1012,Roshna,Permanent,InActive,Level10,67974.0,Bangalore,Insurance,Ratan Patra,Oracle SQL,21-11-2023,29-09-2023,0.0,No Allocation,2.0,1.0,4.0,
+Emp1661,Baigapta,Permanent,Active,Level10,90104.0,Bangalore,Insurance,Shiv Shakthi,Embedded C,05-02-2023,24-08-2023,1.0,Full Allocation,1.0,5.0,3.0,
+Emp2073,Sivakumar,Permanent,InActive,Level10,95995.0,Bangalore,Insurance,Ratan Patra,MobileAppTester,03-01-2023,07-01-2023,0.75,Partial Allocation,1.0,1.0,2.0,
+Emp2179,Jagadeesan,Permanent,Active,Level10,76481.0,Bangalore,Insurance,Shiv Shakthi,CSS,10-08-2023,05-02-2023,0.5,Split Allocation,4.0,1.0,3.0,
+Emp300,Gautham,Permanent,Active,Level10,88685.0,Bangalore,Insurance,Ratan Patra,Linux,09-11-2023,31-12-2023,0.0,No Allocation,1.0,1.0,1.0,

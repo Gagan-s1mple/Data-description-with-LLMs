@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp25,Sachin Kohli,Permanent,Active,Level2,1219883.0,Bangalore,eCommerce,,Strategic Business Leader,30-10-2023,17-06-2023,0.75,Partial Allocation,1.0,3.0,4.0,

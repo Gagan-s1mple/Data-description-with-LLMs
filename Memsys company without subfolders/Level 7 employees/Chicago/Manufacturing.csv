@@ -1,0 +1,3 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp138,Lala,Permanent,Active,Level7,168345.0,Chicago,Manufacturing,Shukla Ambani,TCL Scripting;Oracle SQL,14-03-2023,28-02-2023,0.25,Partial Allocation,5.0,5.0,4.0,
+Emp1507,YAKKALI,Permanent,InActive,Level7,195203.0,Chicago,Manufacturing,Shukla Ambani,Planisware,14-09-2023,16-07-2023,0.0,No Allocation,4.0,5.0,2.0,

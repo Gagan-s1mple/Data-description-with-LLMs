@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1761,Samhitha,Permanent,Active,Level10,96024.0,Kolkata,Digital Transformations,Tulsi Perumal,C++,14-06-2023,26-03-2023,0.25,Partial Allocation,3.0,3.0,2.0,

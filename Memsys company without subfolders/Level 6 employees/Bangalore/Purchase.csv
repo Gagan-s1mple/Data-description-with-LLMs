@@ -1,0 +1,4 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2379,Tulasiram,Contract,Active,Level6,327605.0,Bangalore,Purchase,MalappaBendre,Hardware Procurement,14-03-2023,01-10-2023,0.5,Split Allocation,4.0,4.0,5.0,
+Emp2388,Nandavarapu,Permanent,Active,Level6,343763.0,Bangalore,Purchase,LalitRumi,Purchase Executive,20-08-2023,24-09-2023,1.0,Full Allocation,5.0,2.0,4.0,
+Emp2393,Chaya,Permanent,InActive,Level6,193034.0,Bangalore,Purchase,MalappaBendre,Materials Procurement,29-06-2023,27-11-2023,1.0,Full Allocation,2.0,4.0,5.0,

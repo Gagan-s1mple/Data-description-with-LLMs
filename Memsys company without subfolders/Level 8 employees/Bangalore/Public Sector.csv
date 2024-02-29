@@ -1,0 +1,10 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1060,Puja,Permanent,InActive,Level8,117700.0,Bangalore,Public Sector,Sabeer Bhatia,Apache Ant;DeliveryManager,21-06-2023,31-03-2023,0.0,No Allocation,3.0,4.0,1.0,
+Emp1244,Shruthi,Permanent,InActive,Level8,117451.0,Bangalore,Public Sector,Sant Singh,Oracle Forms;MachineLearning,15-06-2023,07-02-2023,0.25,Partial Allocation,4.0,1.0,1.0,
+Emp1526,Vaibhav,Permanent,Active,Level8,115882.0,Bangalore,Public Sector,Sant Singh,Selenium,12-03-2023,19-06-2023,1.0,Full Allocation,2.0,1.0,2.0,
+Emp1529,Cattamanchi,Contract,Active,Level8,154637.0,Bangalore,Public Sector,Jagdeesh Jindal,Web Application Platform,18-07-2023,23-03-2023,0.0,No Allocation,2.0,1.0,3.0,
+Emp1881,Basavaraj,Permanent,Active,Level8,156576.0,Bangalore,Public Sector,Sant Singh,Embedded C,01-12-2023,07-02-2023,0.5,Split Allocation,3.0,2.0,5.0,
+Emp1959,Garg,Contract,Active,Level8,163439.0,Bangalore,Public Sector,Sabeer Bhatia,Appium,02-10-2023,07-12-2023,0.5,Split Allocation,4.0,5.0,1.0,
+Emp453,Lalit,Permanent,InActive,Level8,158352.0,Bangalore,Public Sector,Jagdeesh Jindal,Matlabs,28-12-2023,24-01-2023,0.25,Partial Allocation,3.0,3.0,5.0,
+Emp774,Hussain,Permanent,Active,Level8,156187.0,Bangalore,Public Sector,Sabeer Bhatia,ioSAppTester,02-08-2023,24-10-2023,0.75,Partial Allocation,2.0,1.0,5.0,
+Emp819,Pathak,Permanent,InActive,Level8,164858.0,Bangalore,Public Sector,Sant Singh,JS,28-02-2023,29-10-2023,0.25,Partial Allocation,5.0,2.0,2.0,

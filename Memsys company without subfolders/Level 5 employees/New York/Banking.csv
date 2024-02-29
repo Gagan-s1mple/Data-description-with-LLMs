@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp367,Ravikumar,Permanent,Active,Level5,227736.0,New York,Banking,Rohan Bopanna,.Net,22-09-2023,28-02-2023,0.25,Partial Allocation,4.0,3.0,2.0,

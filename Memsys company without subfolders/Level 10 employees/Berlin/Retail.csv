@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1989,SWAMY,Permanent,InActive,Level10,76752.0,Berlin,Retail,Sania Kothari,TCL Scripting;IOTDeveloper,24-03-2023,12-06-2023,1.0,Full Allocation,4.0,2.0,3.0,

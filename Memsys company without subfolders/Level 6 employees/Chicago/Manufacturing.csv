@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1973,Maharana,Permanent,InActive,Level6,370994.0,Chicago,Manufacturing,Shukla Ambani,Automation Testing,11-08-2023,15-06-2023,1.0,Full Allocation,5.0,1.0,1.0,

@@ -1,0 +1,11 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1255,Payalben,Permanent,Active,Level6,221565.0,Bangalore,Education,Rajiv Gupta,AWS Programming,14-07-2023,09-11-2023,0.25,Partial Allocation,4.0,2.0,1.0,
+Emp1268,Savitha,Permanent,Active,Level6,271542.0,Bangalore,Education,Rajiv Gupta,Apache Ant;C++,17-03-2023,01-10-2023,0.25,Partial Allocation,2.0,2.0,4.0,
+Emp1284,Suneetha,Contract,Active,Level6,279504.0,Bangalore,Education,Rajan Raheja,PLSQL,18-04-2023,03-03-2023,0.75,Partial Allocation,2.0,4.0,2.0,
+Emp1508,Nagpal,Permanent,Active,Level6,239851.0,Bangalore,Education,Priya Paul,Trace32,29-10-2023,09-12-2023,0.0,No Allocation,3.0,4.0,3.0,
+Emp1526,Vaibhav,Permanent,Active,Level6,237403.0,Bangalore,Education,Rajiv Gupta,Appium,07-05-2023,09-08-2023,1.0,Full Allocation,4.0,1.0,2.0,
+Emp1682,Chawla,Permanent,Active,Level6,177401.0,Bangalore,Education,Rajan Raheja,Django,04-11-2023,30-08-2023,0.25,Partial Allocation,2.0,2.0,2.0,
+Emp1783,Patilopati,Permanent,Active,Level6,173058.0,Bangalore,Education,Rajan Raheja,React JS,07-08-2023,14-06-2023,0.5,Split Allocation,4.0,2.0,1.0,
+Emp1793,Pandya,Permanent,Active,Level6,326733.0,Bangalore,Education,Rajiv Gupta,CSS,15-10-2023,14-11-2023,0.75,Partial Allocation,3.0,3.0,5.0,
+Emp455,Chaitanya,Permanent,Active,Level6,178440.0,Bangalore,Education,Rajiv Gupta,Angular JS;TestComplete,17-08-2023,31-12-2023,1.0,Full Allocation,4.0,1.0,5.0,
+Emp978,Monalisa,Permanent,Active,Level6,331744.0,Bangalore,Education,Rajan Raheja,Hardware Testing;Finance Auditing,27-02-2023,25-12-2023,0.75,Partial Allocation,1.0,2.0,4.0,

@@ -1,0 +1,13 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1239,Parveen,Contract,InActive,Level4,265768.0,Bangalore,eCommerce,Satya Goyal ,Planisware;Hardware Testing,29-11-2023,13-06-2023,0.5,Split Allocation,1.0,1.0,4.0,
+Emp1610,Mohanty,Permanent,Active,Level4,307635.0,Bangalore,eCommerce,Satya Goyal ,Selenium,23-01-2023,04-05-2023,0.75,Partial Allocation,3.0,1.0,5.0,
+Emp1629,Sharmavnittu,Permanent,InActive,Level4,271643.0,Bangalore,eCommerce,Sujit Kamat,Django,23-02-2023,25-07-2023,0.75,Partial Allocation,2.0,4.0,1.0,
+Emp1716,Kirubakaran,Permanent,Active,Level4,417670.0,Bangalore,eCommerce,Swaraj Paul,Business Integration Platform,02-04-2023,03-11-2023,0.5,Split Allocation,2.0,4.0,3.0,
+Emp1796,Gamoji,Contract,Active,Level4,318062.0,Bangalore,eCommerce,Swaraj Paul,Kofax,08-07-2023,07-11-2023,1.0,Full Allocation,4.0,5.0,3.0,
+Emp2002,RAJAMANICKAM,Permanent,Active,Level4,445530.0,Bangalore,eCommerce,Satya Goyal ,ExcelMacros;Scala,16-05-2023,19-01-2023,1.0,Full Allocation,2.0,5.0,1.0,
+Emp2047,Sana,Permanent,Active,Level4,490468.0,Bangalore,eCommerce,Satya Goyal ,Django,23-09-2023,01-07-2023,1.0,Full Allocation,5.0,5.0,1.0,
+Emp2130,Paulraj,Contract,InActive,Level4,220060.0,Bangalore,eCommerce,Swaraj Paul,Scala,24-03-2023,30-07-2023,0.25,Partial Allocation,2.0,1.0,2.0,
+Emp2250,Kameswararao,Permanent,Active,Level4,535776.0,Bangalore,eCommerce,Satya Goyal ,SAP Netweaver,21-03-2023,26-02-2023,0.75,Partial Allocation,2.0,5.0,5.0,
+Emp254,Maqsood,Permanent,Active,Level4,599437.0,Bangalore,eCommerce,Satya Goyal ,TCL Scripting,10-09-2023,29-12-2023,0.25,Partial Allocation,1.0,4.0,5.0,
+Emp628,Akundi,Permanent,InActive,Level4,527125.0,Bangalore,eCommerce,Satya Goyal ,CSS;PLSQL,01-02-2023,23-04-2023,1.0,Full Allocation,1.0,2.0,3.0,
+Emp707,ACHAREKAR,Permanent,Active,Level4,234602.0,Bangalore,eCommerce,Satya Goyal ,SoapUI;ProjectManager,05-11-2023,10-12-2023,0.75,Partial Allocation,4.0,4.0,4.0,

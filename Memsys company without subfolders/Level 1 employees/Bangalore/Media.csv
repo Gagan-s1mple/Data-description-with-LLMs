@@ -1,0 +1,5 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1219,Sonal,Permanent,Active,Level10,94030.0,Bangalore,Media,Dilip Ambani,AWSDevelopment;TestComplete,21-12-2023,24-05-2023,0.25,Partial Allocation,2.0,4.0,4.0,
+Emp1434,MISHRA,Permanent,Active,Level10,63287.0,Bangalore,Media,Anji Reddy,AzureDevOps,22-05-2023,24-07-2023,0.25,Partial Allocation,3.0,1.0,3.0,
+Emp1769,Kishanpuria,Permanent,Active,Level10,96562.0,Bangalore,Media,Bandhu Gupta,C#,04-08-2023,12-05-2023,0.25,Partial Allocation,3.0,4.0,1.0,
+Emp2174,Kumarchwo,Permanent,Active,Level10,79224.0,Bangalore,Media,Bandhu Gupta,SAP HANA,29-08-2023,27-01-2023,0.0,No Allocation,3.0,4.0,3.0,

@@ -1,0 +1,10 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1015,Ashwini,Permanent,Active,Level6,260963.0,Bangalore,Banking,Steffi Jones,AWSDevOps,02-10-2023,09-09-2023,0.75,Partial Allocation,4.0,1.0,5.0,
+Emp1388,Dogiparthi,Permanent,Active,Level6,225031.0,Bangalore,Banking,Rohan Bopanna,Embedded C++,20-04-2023,15-08-2023,0.5,Split Allocation,5.0,1.0,5.0,
+Emp1774,Baigobaig,Permanent,Active,Level6,252754.0,Bangalore,Banking,Steffi Jones,BUHead,11-08-2023,28-10-2023,0.0,No Allocation,4.0,3.0,2.0,
+Emp1958,Koul,Permanent,Active,Level6,369331.0,Bangalore,Banking,Rohan Bopanna,TestComplete,12-04-2023,26-03-2023,0.5,Split Allocation,3.0,1.0,3.0,
+Emp2006,Kishore,Permanent,Active,Level6,329115.0,Bangalore,Banking,Rohan Bopanna,SoapUI;Business Integration Platform,07-11-2023,17-06-2023,1.0,Full Allocation,3.0,1.0,5.0,
+Emp2114,Murali,Permanent,Active,Level6,329519.0,Bangalore,Banking,Nirupama Sanjeev,AWSDevOps,05-02-2023,02-10-2023,0.0,No Allocation,3.0,4.0,1.0,
+Emp330,Althia,Permanent,Active,Level6,278070.0,Bangalore,Banking,Rohan Bopanna,SAP HANA;Automation Testing,06-01-2023,03-09-2023,0.5,Split Allocation,1.0,4.0,5.0,
+Emp757,Aggarwal,Contract,InActive,Level6,289320.0,Bangalore,Banking,Rohan Bopanna,ApplicationTester,26-03-2023,29-09-2023,1.0,Full Allocation,1.0,4.0,1.0,
+Emp825,Prabhu,Permanent,Active,Level6,206688.0,Bangalore,Banking,Steffi Jones,MachineLearning;Office Administration,05-07-2023,15-04-2023,0.75,Partial Allocation,4.0,5.0,4.0,

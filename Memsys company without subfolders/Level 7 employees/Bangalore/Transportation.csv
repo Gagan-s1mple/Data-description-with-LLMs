@@ -1,0 +1,13 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1062,Rashmita,Permanent,Active,Level7,140223.0,Bangalore,Transportation,Brismit,Kofax;Embedded C++,14-09-2023,01-07-2023,0.5,Split Allocation,2.0,4.0,5.0,
+Emp1077,Geetha,Contract,Active,Level7,296810.0,Bangalore,Transportation,Brismit,IOTDeveloper;TCL Scripting,17-05-2023,02-07-2023,0.25,Partial Allocation,4.0,2.0,5.0,
+Emp1275,Aruna,Permanent,Active,Level7,150862.0,Bangalore,Transportation,Swrna Nadar,TCL Scripting;Quality Control,09-02-2023,02-06-2023,0.5,Split Allocation,5.0,5.0,5.0,
+Emp1460,Abhishek,Contract,Active,Level7,235313.0,Bangalore,Transportation,Brismit,Matlabs,07-05-2023,05-09-2023,0.5,Split Allocation,5.0,3.0,1.0,
+Emp1680,Bandi,Permanent,Active,Level7,260404.0,Bangalore,Transportation,Swrna Nadar,C,21-09-2023,30-08-2023,0.0,No Allocation,3.0,5.0,5.0,
+Emp2005,MEKA,Permanent,Active,Level7,240103.0,Bangalore,Transportation,Swrna Nadar,AzureArchitect,06-02-2023,14-04-2023,1.0,Full Allocation,5.0,3.0,5.0,
+Emp2066,Sharma,Permanent,InActive,Level7,223246.0,Bangalore,Transportation,Brismit,Apache Spark,07-07-2023,04-05-2023,0.5,Split Allocation,4.0,3.0,3.0,
+Emp2120,Sharmaoitpa,Permanent,Active,Level7,258473.0,Bangalore,Transportation,Brismit,Python,04-01-2023,09-02-2023,0.5,Split Allocation,2.0,4.0,2.0,
+Emp2236,Ambarapu,Permanent,Active,Level7,145008.0,Bangalore,Transportation,Brismit,MongoDB,08-04-2023,03-08-2023,0.0,No Allocation,4.0,4.0,4.0,
+Emp344,Dhivya,Permanent,Active,Level7,138582.0,Bangalore,Transportation,Swrna Nadar,Quality Control,10-01-2023,07-01-2023,0.5,Split Allocation,1.0,1.0,4.0,
+Emp405,Kunal,Contract,Active,Level7,167750.0,Bangalore,Transportation,Brismit,Finance Auditing;AzureDevOps,03-02-2023,12-06-2023,0.5,Split Allocation,2.0,2.0,5.0,
+Emp769,Vij,Permanent,Active,Level7,173960.0,Bangalore,Transportation,Swrna Nadar,Master Data Management,31-10-2023,21-03-2023,1.0,Full Allocation,4.0,5.0,4.0,

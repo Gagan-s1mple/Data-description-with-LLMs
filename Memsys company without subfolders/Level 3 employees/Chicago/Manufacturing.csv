@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp50,Aditya Godrej,Permanent,Active,Level3,479660.0,Chicago,Manufacturing,Venkataramashetty,Leadership and Management,15-11-2023,15-03-2023,0.75,Partial Allocation,1.0,3.0,4.0,

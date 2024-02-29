@@ -1,0 +1,6 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1079,Nandini,Permanent,InActive,Level10,69522.0,Bangalore,Communications,Gurbaksh,Python,31-12-2023,11-02-2023,0.0,No Allocation,3.0,1.0,4.0,
+Emp1217,Sujal,Permanent,Active,Level10,82498.0,Bangalore,Communications,Indra Harish,MachineLearning,27-06-2023,25-03-2023,0.75,Partial Allocation,5.0,4.0,5.0,
+Emp1237,Pragnya,Permanent,Active,Level10,65015.0,Bangalore,Communications,Gurbaksh,MachineLearning,09-02-2023,04-12-2023,0.5,Split Allocation,2.0,4.0,5.0,
+Emp1955,Kumarauqtu,Permanent,InActive,Level10,87068.0,Bangalore,Communications,Indra Harish,TechLead,30-10-2023,11-05-2023,0.5,Split Allocation,1.0,4.0,5.0,
+Emp2189,Anand,Permanent,Active,Level10,86077.0,Bangalore,Communications,Gurbaksh,Master Data Management,01-07-2023,21-11-2023,0.25,Partial Allocation,3.0,5.0,4.0,

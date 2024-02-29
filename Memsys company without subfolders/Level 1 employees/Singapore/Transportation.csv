@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1387,Vinod,Contract,Active,Level10,61794.0,Singapore,Transportation,UdyaRavi,Embedded C++,19-12-2023,14-06-2023,0.75,Partial Allocation,3.0,3.0,2.0,

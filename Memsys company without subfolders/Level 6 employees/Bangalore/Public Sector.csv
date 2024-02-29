@@ -1,0 +1,8 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1277,Soundarya,Contract,Active,Level6,196414.0,Bangalore,Public Sector,Sant Singh,NLP,30-11-2023,10-10-2023,1.0,Full Allocation,2.0,5.0,3.0,
+Emp1547,Devarasetti,Permanent,InActive,Level6,286451.0,Bangalore,Public Sector,Sabeer Bhatia,Systems Testing,05-10-2023,09-11-2023,1.0,Full Allocation,5.0,2.0,5.0,
+Emp1851,Bagchi,Permanent,Active,Level6,266026.0,Bangalore,Public Sector,Sant Singh,Oracle Forms,04-07-2023,19-04-2023,0.75,Partial Allocation,1.0,2.0,2.0,
+Emp1935,JANA,Permanent,Active,Level6,239522.0,Bangalore,Public Sector,Jagdeesh Jindal,C++,19-02-2023,11-10-2023,0.75,Partial Allocation,2.0,4.0,5.0,
+Emp1965,Reddy,Permanent,InActive,Level6,173271.0,Bangalore,Public Sector,Jagdeesh Jindal,Apache Spark,30-03-2023,24-08-2023,0.0,No Allocation,4.0,1.0,2.0,
+Emp2231,Keshav,Contract,Active,Level6,337108.0,Bangalore,Public Sector,Sant Singh,Uipath,03-06-2023,17-09-2023,0.25,Partial Allocation,2.0,2.0,4.0,
+Emp983,Rasmita,Permanent,Active,Level6,300168.0,Bangalore,Public Sector,Sant Singh,SAP Netweaver,21-09-2023,16-06-2023,1.0,Full Allocation,4.0,4.0,4.0,

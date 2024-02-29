@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp51,Adag Mahindra,Permanent,Active,Level3,360757.0,Bangalore,Manufacturing,Venkataramashetty,Leadership and Management,28-11-2023,02-08-2023,1.0,Full Allocation,5.0,2.0,4.0,

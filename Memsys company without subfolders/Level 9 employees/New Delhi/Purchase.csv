@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2376,Kenchanagowdra,Permanent,InActive,Level9,86352.0,New Delhi,Purchase,LalitRumi,Materials Procurement,01-09-2023,06-12-2023,0.0,No Allocation,1.0,3.0,1.0,

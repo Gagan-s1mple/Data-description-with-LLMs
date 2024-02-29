@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1153,Rajeshwaridevi,Contract,InActive,Level10,98052.0,Noida,Embedded,Jagtiani,Angular JS,08-04-2023,25-06-2023,0.75,Partial Allocation,3.0,4.0,5.0,

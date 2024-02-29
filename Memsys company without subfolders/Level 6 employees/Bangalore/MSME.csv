@@ -1,0 +1,12 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1080,Sandhyarani,Contract,Active,Level6,158497.0,Bangalore,MSME,Shobhana Bhartia,Azure BI,16-11-2023,20-11-2023,0.0,No Allocation,2.0,3.0,4.0,
+Emp1159,Aneesha,Permanent,Active,Level6,202593.0,Bangalore,MSME,Sheetal Chawla,SAP HANA,27-04-2023,07-07-2023,0.0,No Allocation,4.0,5.0,3.0,
+Emp1161,Vasava,Permanent,InActive,Level6,208119.0,Bangalore,MSME,Shobhana Bhartia,Recruitment;JS,29-10-2023,11-07-2023,0.0,No Allocation,2.0,4.0,4.0,
+Emp1413,Rahul,Permanent,Active,Level6,305847.0,Bangalore,MSME,Sheetal Chawla,Matlabs,13-09-2023,26-03-2023,0.25,Partial Allocation,2.0,4.0,2.0,
+Emp1770,Vikatakavi,Permanent,Active,Level6,301929.0,Bangalore,MSME,Chawla Mukharjee,AzureArchitect,04-03-2023,26-01-2023,0.0,No Allocation,5.0,2.0,5.0,
+Emp1895,Prasad,Permanent,Active,Level6,253627.0,Bangalore,MSME,Shobhana Bhartia,React JS,19-11-2023,12-12-2023,0.0,No Allocation,3.0,5.0,5.0,
+Emp2031,Pillai,Permanent,InActive,Level6,205153.0,Bangalore,MSME,Shobhana Bhartia,Uipath,03-04-2023,20-10-2023,0.0,No Allocation,4.0,1.0,5.0,
+Emp286,Biju,Permanent,Active,Level6,366275.0,Bangalore,MSME,Chawla Mukharjee,Python,18-09-2023,10-07-2023,0.5,Split Allocation,5.0,2.0,1.0,
+Emp519,Sunil,Permanent,InActive,Level6,311195.0,Bangalore,MSME,Shobhana Bhartia,SAP Netweaver,27-05-2023,15-12-2023,0.75,Partial Allocation,5.0,4.0,2.0,
+Emp586,Malewar,Permanent,Active,Level6,322575.0,Bangalore,MSME,Shobhana Bhartia,Business Integration Platform,21-10-2023,30-12-2023,0.75,Partial Allocation,2.0,1.0,4.0,
+Emp850,Masood,Contract,Active,Level6,246536.0,Bangalore,MSME,Shobhana Bhartia,Java,31-05-2023,06-07-2023,0.5,Split Allocation,1.0,3.0,3.0,

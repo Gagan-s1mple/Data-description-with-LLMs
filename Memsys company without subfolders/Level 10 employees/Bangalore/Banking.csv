@@ -1,0 +1,11 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1443,Dayanand,Contract,Active,Level10,87767.0,Bangalore,Banking,Nirupama Sanjeev,PowerBI;Oracle SQL,26-07-2023,13-07-2023,0.0,No Allocation,2.0,2.0,5.0,
+Emp1487,Sagar,Contract,InActive,Level10,70308.0,Bangalore,Banking,Rohan Bopanna,Azure BI;C,17-07-2023,06-08-2023,0.75,Partial Allocation,2.0,4.0,5.0,
+Emp1534,Rumalad,Permanent,Active,Level10,76809.0,Bangalore,Banking,Nirupama Sanjeev,SoapUI,04-02-2023,07-08-2023,1.0,Full Allocation,3.0,3.0,1.0,
+Emp2011,Hampasagar,Permanent,Active,Level10,94420.0,Bangalore,Banking,Rohan Bopanna,Selenium,27-11-2023,03-11-2023,0.5,Split Allocation,2.0,5.0,4.0,
+Emp2066,Sharma,Permanent,Active,Level10,91797.0,Bangalore,Banking,Rohan Bopanna,Linux;MongoDB,18-08-2023,13-01-2023,0.0,No Allocation,3.0,2.0,5.0,
+Emp2099,Joseph,Contract,InActive,Level10,98726.0,Bangalore,Banking,Rohan Bopanna,Angular JS;JS,06-08-2023,04-10-2023,0.0,No Allocation,4.0,3.0,3.0,
+Emp2240,Phanikumar,Contract,InActive,Level10,79021.0,Bangalore,Banking,Nirupama Sanjeev,TechLead,05-01-2023,20-12-2023,0.25,Partial Allocation,1.0,2.0,1.0,
+Emp402,Bikash,Permanent,Active,Level10,99377.0,Bangalore,Banking,Rohan Bopanna,DBA - Nosql,27-12-2023,01-05-2023,1.0,Full Allocation,5.0,2.0,1.0,
+Emp529,Rachana,Permanent,Active,Level10,70808.0,Bangalore,Banking,Rohan Bopanna,Java,02-05-2023,13-03-2023,0.5,Split Allocation,2.0,5.0,1.0,
+Emp871,Manikoth,Permanent,Active,Level10,87104.0,Bangalore,Banking,Rohan Bopanna,AzureDevOps,15-11-2023,27-01-2023,0.75,Partial Allocation,3.0,2.0,1.0,

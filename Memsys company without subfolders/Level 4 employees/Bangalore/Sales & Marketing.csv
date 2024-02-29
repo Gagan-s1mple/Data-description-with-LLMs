@@ -1,0 +1,6 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2309,Ambika,Permanent,InActive,Level4,334609.0,Bangalore,Sales & Marketing,HarishMasti,Marketing Manager,13-10-2023,01-01-2023,0.25,Partial Allocation,4.0,1.0,1.0,
+Emp2323,Kuttynarayanan,Permanent,Active,Level4,572779.0,Bangalore,Sales & Marketing,HarishMasti,Market Analyst,16-11-2023,26-06-2023,0.0,No Allocation,3.0,3.0,1.0,
+Emp2332,Abhas Ganguli,Permanent,Active,Level4,406511.0,Bangalore,Sales & Marketing,Frederick ,Marketing Manager,06-04-2023,05-07-2023,0.75,Partial Allocation,1.0,2.0,2.0,
+Emp2348,Kammar Jha,Permanent,Active,Level4,592998.0,Bangalore,Sales & Marketing,BendreNagappa,SEO Specialist,09-10-2023,03-04-2023,0.25,Partial Allocation,1.0,5.0,4.0,
+Emp2353,Nautiyal Komi,Permanent,Active,Level4,481257.0,Bangalore,Sales & Marketing,BendreNagappa,Sales Representative,23-08-2023,30-12-2023,0.5,Split Allocation,1.0,2.0,2.0,

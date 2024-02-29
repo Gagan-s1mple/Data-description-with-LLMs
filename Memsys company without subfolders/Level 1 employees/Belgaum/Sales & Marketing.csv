@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2337,anshulata Singh,Permanent,Active,Level10,73097.0,Belgaum,Sales & Marketing,BendreNagappa,SEO Specialist,11-01-2023,20-02-2023,0.0,No Allocation,1.0,3.0,1.0,

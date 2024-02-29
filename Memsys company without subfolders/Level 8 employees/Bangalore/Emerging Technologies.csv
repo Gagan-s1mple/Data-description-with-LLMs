@@ -1,0 +1,11 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp128,Gian,Permanent,Active,Level8,155979.0,Bangalore,Emerging Technologies,ShankarBhanu,Python,06-12-2023,05-08-2023,0.0,No Allocation,1.0,2.0,5.0,
+Emp1521,Bhat,Permanent,InActive,Level8,120248.0,Bangalore,Emerging Technologies,ShankarBhanu,Deep Learning;C++,28-05-2023,16-06-2023,0.25,Partial Allocation,5.0,1.0,3.0,
+Emp1530,Nandeesh,Contract,Active,Level8,157009.0,Bangalore,Emerging Technologies,BhanuShankar,ExcelMacros,10-08-2023,14-11-2023,1.0,Full Allocation,1.0,3.0,1.0,
+Emp1636,Shrivastava,Permanent,Active,Level8,131892.0,Bangalore,Emerging Technologies,Bhaskar Rao,CSS,14-05-2023,18-04-2023,0.75,Partial Allocation,2.0,1.0,1.0,
+Emp1658,Patibandla,Permanent,Active,Level8,138617.0,Bangalore,Emerging Technologies,Bhaskar Rao,Selenium;Finance Auditing,02-06-2023,14-01-2023,1.0,Full Allocation,1.0,2.0,3.0,
+Emp1763,Maity,Permanent,InActive,Level8,168103.0,Bangalore,Emerging Technologies,ShankarBhanu,PowerBI,06-09-2023,04-04-2023,0.25,Partial Allocation,3.0,2.0,1.0,
+Emp1811,Nayar,Permanent,InActive,Level8,171085.0,Bangalore,Emerging Technologies,Bhaskar Rao,Office Administration,12-02-2023,22-07-2023,0.75,Partial Allocation,2.0,4.0,3.0,
+Emp1868,Misra,Permanent,Active,Level8,158872.0,Bangalore,Emerging Technologies,ShankarBhanu,Django,10-02-2023,22-01-2023,1.0,Full Allocation,4.0,1.0,5.0,
+Emp1994,Arokiasamy,Permanent,Active,Level8,156083.0,Bangalore,Emerging Technologies,BhanuShankar,MongoDB,16-08-2023,29-10-2023,0.0,No Allocation,3.0,4.0,2.0,
+Emp2085,Khan,Contract,Active,Level8,141066.0,Bangalore,Emerging Technologies,Bhaskar Rao,Web Application Platform,03-10-2023,21-09-2023,0.75,Partial Allocation,2.0,3.0,2.0,

@@ -1,0 +1,9 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1593,Kharade,Permanent,Active,Level9,104510.0,Bangalore,Education,Rajan Raheja,PowerBI;C++,03-01-2023,27-04-2023,0.25,Partial Allocation,4.0,5.0,1.0,
+Emp1821,Agrawal,Contract,InActive,Level9,106498.0,Bangalore,Education,Rajiv Gupta,Business Integration Platform,10-12-2023,12-03-2023,1.0,Full Allocation,1.0,2.0,4.0,
+Emp1895,Prasad,Permanent,Active,Level9,91222.0,Bangalore,Education,Rajiv Gupta,React JS;Python,20-10-2023,16-12-2023,0.0,No Allocation,4.0,3.0,4.0,
+Emp1956,JAYAKUMAR,Permanent,Active,Level9,102758.0,Bangalore,Education,Rajan Raheja,CSS,22-03-2023,09-09-2023,0.0,No Allocation,5.0,1.0,5.0,
+Emp2075,Paturi,Permanent,Active,Level9,119739.0,Bangalore,Education,Rajiv Gupta,ApplicationTester,25-02-2023,27-01-2023,0.75,Partial Allocation,2.0,5.0,5.0,
+Emp502,Ravindra,Permanent,Active,Level9,104840.0,Bangalore,Education,Rajan Raheja,CSS,11-06-2023,31-10-2023,0.5,Split Allocation,1.0,4.0,4.0,
+Emp823,Damodaran,Permanent,Active,Level9,106215.0,Bangalore,Education,Rajan Raheja,ApplicationTester;Uipath,16-01-2023,13-10-2023,0.25,Partial Allocation,1.0,5.0,1.0,
+Emp896,Pandey,Permanent,InActive,Level9,100673.0,Bangalore,Education,Rajan Raheja,AWSDevOps,09-03-2023,05-11-2023,0.25,Partial Allocation,5.0,4.0,2.0,

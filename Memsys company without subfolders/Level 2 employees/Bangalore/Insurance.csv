@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp14,Kundan Rao,Permanent,Active,Level2,633080.0,Bangalore,Insurance,,Strategic Business Leader,19-10-2023,29-04-2023,1.0,Full Allocation,3.0,1.0,4.0,

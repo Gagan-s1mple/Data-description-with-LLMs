@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp523,Karthik,Contract,Active,Level6,182627.0,New Delhi,Infotainment,Palki Oberoi,DBA- Relational,29-01-2023,29-06-2023,0.25,Partial Allocation,4.0,4.0,5.0,

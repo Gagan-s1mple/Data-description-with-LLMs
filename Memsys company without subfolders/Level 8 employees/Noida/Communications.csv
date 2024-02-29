@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp357,Nitin,Permanent,Active,Level8,146297.0,Noida,Communications,Gurbaksh,Planisware,26-07-2023,12-07-2023,0.75,Partial Allocation,1.0,3.0,1.0,

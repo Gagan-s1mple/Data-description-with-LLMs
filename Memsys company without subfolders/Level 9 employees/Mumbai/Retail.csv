@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp548,Prashanth,Contract,Active,Level9,117853.0,Mumbai,Retail,Leander Bence,DeliveryManager,14-03-2023,20-10-2023,0.75,Partial Allocation,1.0,2.0,3.0,

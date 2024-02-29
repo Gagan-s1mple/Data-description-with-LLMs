@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1088,Madhabi,Contract,Active,Level6,312600.0,Noida,Education,Rajiv Gupta,MongoDB,27-03-2023,31-10-2023,0.75,Partial Allocation,2.0,3.0,3.0,

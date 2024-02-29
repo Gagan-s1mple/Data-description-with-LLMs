@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1926,Moguluri,Permanent,InActive,Level6,172806.0,Chennai,Digital Transformations,Satyendra Rao,Web Application Platform;Tableau,16-05-2023,22-12-2023,0.25,Partial Allocation,3.0,2.0,2.0,

@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1523,Kruepa,Contract,InActive,Level8,172150.0,Gurgaon,Communications,Ghanshyam,TCL Scripting,14-03-2023,25-02-2023,0.75,Partial Allocation,2.0,2.0,2.0,

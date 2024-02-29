@@ -1,0 +1,7 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1118,Ranjita,Permanent,InActive,Level6,252968.0,Bangalore,Media,Bandhu Gupta,Python,09-10-2023,21-11-2023,0.75,Partial Allocation,5.0,1.0,4.0,
+Emp142,Mohan,Permanent,Active,Level6,316316.0,Bangalore,Media,Anji Reddy,CSS,24-04-2023,09-11-2023,0.75,Partial Allocation,1.0,2.0,4.0,
+Emp1447,Sharmaoitx,Permanent,Active,Level6,324938.0,Bangalore,Media,Dilip Ambani,SoapUI,05-02-2023,20-09-2023,0.25,Partial Allocation,2.0,3.0,2.0,
+Emp2090,Govindaraj,Permanent,Active,Level6,197904.0,Bangalore,Media,Bandhu Gupta,Automation Testing,14-09-2023,12-08-2023,0.0,No Allocation,1.0,3.0,5.0,
+Emp545,Pradeep,Permanent,InActive,Level6,315253.0,Bangalore,Media,Bandhu Gupta,CSS;ExcelMacros,04-08-2023,01-02-2023,0.25,Partial Allocation,5.0,3.0,2.0,
+Emp621,Sahni,Permanent,InActive,Level6,309323.0,Bangalore,Media,Dilip Ambani,DeliveryManager,29-09-2023,28-12-2023,0.5,Split Allocation,4.0,2.0,3.0,

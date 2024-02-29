@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1679,Srivastava,Contract,InActive,Level4,471185.0,Chicago,Energy,Romesh Bhanu,C++,19-09-2023,20-05-2023,0.25,Partial Allocation,2.0,5.0,4.0,

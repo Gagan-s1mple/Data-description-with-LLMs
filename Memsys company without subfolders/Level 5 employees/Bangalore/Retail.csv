@@ -1,0 +1,9 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1242,Mohona,Permanent,Active,Level5,227137.0,Bangalore,Retail,Ramesh Krishnan,CSS,05-05-2023,27-04-2023,0.5,Split Allocation,3.0,4.0,5.0,
+Emp1725,Raveendran,Permanent,InActive,Level5,380958.0,Bangalore,Retail,Ramesh Krishnan,DBA - Nosql,22-09-2023,28-12-2023,0.0,No Allocation,1.0,1.0,2.0,
+Emp1767,Bhupendra,Permanent,Active,Level5,446111.0,Bangalore,Retail,Ramesh Krishnan,Recruitment,22-03-2023,13-07-2023,0.25,Partial Allocation,1.0,3.0,5.0,
+Emp2025,Johar,Permanent,InActive,Level5,312982.0,Bangalore,Retail,Ramesh Krishnan,ApplicationTester;.Net,24-04-2023,15-12-2023,0.0,No Allocation,1.0,3.0,5.0,
+Emp2068,ADINARAYANA,Permanent,Active,Level5,203779.0,Bangalore,Retail,Ramesh Krishnan,IOTDeveloper,08-10-2023,28-06-2023,0.75,Partial Allocation,1.0,2.0,5.0,
+Emp393,Kumarjit,Permanent,Active,Level5,415375.0,Bangalore,Retail,Sania Kothari,AzureDevOps,30-01-2023,04-03-2023,0.75,Partial Allocation,3.0,4.0,4.0,
+Emp536,Leela,Permanent,Active,Level5,229919.0,Bangalore,Retail,Sania Kothari,Business Integration Platform,09-11-2023,03-10-2023,0.25,Partial Allocation,3.0,3.0,1.0,
+Emp553,Chitale,Permanent,Active,Level5,245040.0,Bangalore,Retail,Ramesh Krishnan,Embedded C,22-09-2023,12-12-2023,1.0,Full Allocation,2.0,2.0,5.0,

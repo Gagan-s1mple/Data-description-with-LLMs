@@ -1,0 +1,8 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1017,Mamata,Permanent,InActive,Level5,480952.0,Bangalore,Emerging Technologies,Bhaskar Rao,IOTDeveloper;AzureArchitect,21-04-2023,07-07-2023,0.25,Partial Allocation,3.0,2.0,3.0,
+Emp2040,Kumajoioq,Permanent,Active,Level5,230715.0,Bangalore,Emerging Technologies,BhanuShankar,AWSArchitect,13-09-2023,04-12-2023,0.75,Partial Allocation,5.0,3.0,1.0,
+Emp2064,Bhardwaj,Permanent,Active,Level5,195577.0,Bangalore,Emerging Technologies,ShankarBhanu,Master Data Management,13-10-2023,27-10-2023,0.5,Split Allocation,5.0,3.0,4.0,
+Emp2133,Kulkarni,Permanent,InActive,Level5,264521.0,Bangalore,Emerging Technologies,ShankarBhanu,ProgramManager,12-01-2023,06-01-2023,0.25,Partial Allocation,3.0,2.0,3.0,
+Emp2155,Paitywogh,Permanent,Active,Level5,295412.0,Bangalore,Emerging Technologies,BhanuShankar,Master Data Management,07-07-2023,29-12-2023,0.0,No Allocation,1.0,4.0,5.0,
+Emp2186,Kanagaraj,Contract,InActive,Level5,354167.0,Bangalore,Emerging Technologies,Bhaskar Rao,Microsoft Administration,27-03-2023,20-11-2023,1.0,Full Allocation,4.0,2.0,5.0,
+Emp805,Ahmad,Permanent,InActive,Level5,416484.0,Bangalore,Emerging Technologies,BhanuShankar,Hardware Testing,29-06-2023,19-08-2023,0.75,Partial Allocation,3.0,2.0,2.0,

@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1880,Shukla,Permanent,Active,Level10,57154.0,Chennai,Insurance,Shanthi Birla,DBA - Nosql,23-06-2023,17-09-2023,0.75,Partial Allocation,5.0,3.0,2.0,

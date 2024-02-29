@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2152,Murukan,Contract,Active,Level8,135586.0,Thiruvananthapuram,Media,Dilip Ambani,MobileAppTester,29-08-2023,08-11-2023,0.75,Partial Allocation,2.0,4.0,5.0,

@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp389,Shiv,Permanent,Active,Level7,212115.0,Hyderabad,Insurance,Shanthi Birla,Oracle SQL,13-05-2023,18-03-2023,1.0,Full Allocation,5.0,5.0,3.0,

@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1278,Chitta,Contract,InActive,Level9,113424.0,Bhubaneswar,Infotainment,Arjun Malhotra,Uipath,04-06-2023,04-05-2023,1.0,Full Allocation,1.0,2.0,3.0,

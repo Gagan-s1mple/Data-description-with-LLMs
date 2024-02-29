@@ -1,0 +1,12 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1231,Priyanka,Permanent,Active,Level9,109890.0,Bangalore,Healthcare,Mahindra ,Business Integration Platform,01-08-2023,17-04-2023,0.0,No Allocation,1.0,1.0,4.0,
+Emp1467,Pani,Permanent,InActive,Level9,104840.0,Bangalore,Healthcare,Prem Sindhu,MobileAppTester,04-10-2023,30-12-2023,0.5,Split Allocation,5.0,5.0,5.0,
+Emp1884,Mayur,Contract,Active,Level9,120094.0,Bangalore,Healthcare,Prem Sindhu,MobileApp,28-08-2023,21-11-2023,0.25,Partial Allocation,1.0,5.0,4.0,
+Emp2083,Agnivesh,Contract,Active,Level9,98562.0,Bangalore,Healthcare,Mahindra ,PowerBI,03-06-2023,18-08-2023,0.5,Split Allocation,3.0,2.0,4.0,
+Emp2159,GAWADE,Permanent,Active,Level9,89385.0,Bangalore,Healthcare,Prem Sindhu,Angular JS,10-06-2023,06-05-2023,0.75,Partial Allocation,5.0,3.0,1.0,
+Emp2189,Anand,Permanent,Active,Level9,81940.0,Bangalore,Healthcare,Somdev,Planisware,01-10-2023,26-03-2023,0.25,Partial Allocation,4.0,2.0,3.0,
+Emp2383,Gangayya,Contract,Active,Level9,124714.0,Bangalore,Healthcare,Mahindra ,Business Integration Platform,01-06-2023,29-10-2023,0.5,Split Allocation,1.0,5.0,1.0,
+Emp381,Prathap,Permanent,Active,Level9,91854.0,Bangalore,Healthcare,Mahindra ,Oracle SQL,14-06-2023,18-04-2023,0.0,No Allocation,4.0,4.0,1.0,
+Emp442,Shaheen,Permanent,Active,Level9,96130.0,Bangalore,Healthcare,Mahindra ,Matlabs,24-12-2023,17-08-2023,1.0,Full Allocation,1.0,3.0,5.0,
+Emp635,Brahmankar,Permanent,Active,Level9,107347.0,Bangalore,Healthcare,Somdev,Angular JS,11-03-2023,14-07-2023,0.75,Partial Allocation,3.0,4.0,4.0,
+Emp812,Gandhi,Permanent,Active,Level9,98845.0,Bangalore,Healthcare,Somdev,CSS,24-06-2023,08-08-2023,0.25,Partial Allocation,3.0,5.0,1.0,
