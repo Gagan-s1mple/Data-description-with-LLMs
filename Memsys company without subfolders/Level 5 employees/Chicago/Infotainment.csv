@@ -1,0 +1,4 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1415,Pankaj,Contract,InActive,Level5,415313.0,Chicago,Infotainment,Arjun Malhotra,Apache Spark,06-07-2023,17-03-2023,0.0,No Allocation,1.0,1.0,5.0,
+Emp1822,Pokal,Permanent,Active,Level5,250171.0,Chicago,Infotainment,Palki Oberoi,Deep Learning,21-06-2023,16-08-2023,1.0,Full Allocation,2.0,2.0,4.0,
+Emp2203,Sahuopqngk,Permanent,Active,Level5,353427.0,Chicago,Infotainment,Arjun Malhotra,AWSDevOps,16-11-2023,27-11-2023,0.75,Partial Allocation,2.0,2.0,1.0,

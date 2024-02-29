@@ -1,0 +1,6 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1765,Singhsaqu,Permanent,Active,Level7,293661.0,Bangalore,Insurance,Shiv Shakthi,Software Architecture;Kofax,12-05-2023,22-07-2023,0.0,No Allocation,4.0,3.0,2.0,
+Emp1781,Prajapati,Permanent,InActive,Level7,190436.0,Bangalore,Insurance,Ratan Patra,TCL Scripting;AWSArchitect,26-06-2023,06-05-2023,0.5,Split Allocation,1.0,1.0,4.0,
+Emp1784,Aziz,Contract,InActive,Level7,240900.0,Bangalore,Insurance,Shiv Shakthi,Data Modeling,06-04-2023,26-05-2023,0.0,No Allocation,2.0,5.0,4.0,
+Emp1877,Diwate,Contract,Active,Level7,139654.0,Bangalore,Insurance,Shanthi Birla,Django,28-03-2023,17-06-2023,1.0,Full Allocation,2.0,3.0,4.0,
+Emp1928,Srinivas,Permanent,Active,Level7,296469.0,Bangalore,Insurance,Shiv Shakthi,BUHead,21-06-2023,07-06-2023,0.0,No Allocation,3.0,3.0,2.0,

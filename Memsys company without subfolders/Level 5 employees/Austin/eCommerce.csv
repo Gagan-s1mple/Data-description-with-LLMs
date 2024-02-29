@@ -1,0 +1,3 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp127,Abhijit,Permanent,Active,Level5,196399.0,Austin,eCommerce,Swaraj Paul,AWS Programming,15-07-2023,05-06-2023,0.25,Partial Allocation,5.0,3.0,4.0,
+Emp2232,Abidali,Permanent,Active,Level5,309093.0,Austin,eCommerce,Sujit Kamat,Tableau,27-02-2023,04-08-2023,1.0,Full Allocation,3.0,4.0,4.0,

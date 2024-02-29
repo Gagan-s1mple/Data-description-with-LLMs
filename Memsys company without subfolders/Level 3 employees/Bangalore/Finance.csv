@@ -1,0 +1,3 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp101,UdayaBhanu,Permanent,Active,Level3,277628.0,Bangalore,Finance,Vijay Amritraj,Leadership and Management,12-03-2023,25-10-2023,1.0,Full Allocation,2.0,2.0,3.0,
+Emp103,ShaktiBheem,Permanent,Active,Level3,569537.0,Bangalore,Finance,Vijay Amritraj,Leadership and Management,23-12-2023,17-11-2023,1.0,Full Allocation,3.0,3.0,5.0,

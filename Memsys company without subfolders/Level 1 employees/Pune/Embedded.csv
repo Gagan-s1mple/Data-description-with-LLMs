@@ -1,0 +1,3 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2224,Vaidya,Permanent,Active,Level10,88348.0,Pune,Embedded,Jagtiani,ExcelMacros,24-07-2023,23-03-2023,0.0,No Allocation,5.0,3.0,3.0,
+Emp598,Gangavarapu,Permanent,Active,Level10,66458.0,Pune,Healthcare,Somdev,Embedded C,25-06-2023,07-09-2023,1.0,Full Allocation,4.0,1.0,2.0,

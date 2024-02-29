@@ -1,0 +1,4 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2014,Bhattacharya,Contract,InActive,Level4,325454.0,Bhubaneswar,Manufacturing,Shukla Ambani,AWSArchitect,02-05-2023,08-05-2023,0.5,Split Allocation,4.0,2.0,4.0,
+Emp2015,Mallikarjuna,Contract,Active,Level4,432648.0,Bhubaneswar,Manufacturing,Shukla Ambani,PLSQL,13-06-2023,16-07-2023,0.75,Partial Allocation,5.0,1.0,5.0,
+Emp830,,Permanent,InActive,Level4,593491.0,Bhubaneswar,Manufacturing,Shukla Ambani,CSS,02-05-2023,07-06-2023,0.25,Partial Allocation,1.0,1.0,2.0,

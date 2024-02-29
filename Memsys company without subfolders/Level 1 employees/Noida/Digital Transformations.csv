@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1174,Jyotirani,Permanent,Active,Level10,87805.0,Noida,Digital Transformations,Satyendra Rao,Hardware Testing,01-11-2023,30-12-2023,0.0,No Allocation,2.0,1.0,3.0,

@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2284,Richhariya,Permanent,Active,Level10,99176.0,New Delhi,FMCG,AnkitShishya,Matlabs;Planisware,13-07-2023,27-11-2023,0.25,Partial Allocation,5.0,4.0,5.0,

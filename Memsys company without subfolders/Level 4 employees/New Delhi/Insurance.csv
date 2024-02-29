@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2070,Shrey,Permanent,Active,Level4,326086.0,New Delhi,Insurance,Shiv Shakthi,React JS,29-04-2023,31-07-2023,0.5,Split Allocation,5.0,4.0,4.0,

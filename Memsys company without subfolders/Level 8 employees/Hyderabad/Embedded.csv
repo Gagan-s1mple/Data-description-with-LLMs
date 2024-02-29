@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1852,Muthusagara,Permanent,InActive,Level8,171165.0,Hyderabad,Emerging Technologies,BhanuShankar,Embedded C,13-10-2023,11-05-2023,0.5,Split Allocation,4.0,3.0,2.0,

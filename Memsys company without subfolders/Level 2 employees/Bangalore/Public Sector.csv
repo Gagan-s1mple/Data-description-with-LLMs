@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2015,Mallikarjuna,Permanent,Active,Level2,1047265.0,Bangalore,Public Sector,,Strategic Business Leader,11-05-2023,11-04-2023,1.0,Full Allocation,3.0,3.0,5.0,

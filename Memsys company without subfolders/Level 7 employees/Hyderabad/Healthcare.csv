@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2077,Sriram,Permanent,Active,Level7,189224.0,Hyderabad,Healthcare,Mahindra ,Apache Spark,03-04-2023,19-10-2023,0.75,Partial Allocation,1.0,4.0,5.0,

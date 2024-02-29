@@ -1,0 +1,3 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1527,Bhosale,Permanent,Active,Level7,298863.0,Austin,Energy,Rinku Shetty,Linux,10-09-2023,19-01-2023,0.25,Partial Allocation,1.0,3.0,2.0,
+Emp2035,Manikchand,Contract,Active,Level7,196090.0,Austin,Energy,Romesh Bhanu,Tableau,11-09-2023,02-07-2023,0.75,Partial Allocation,2.0,4.0,5.0,

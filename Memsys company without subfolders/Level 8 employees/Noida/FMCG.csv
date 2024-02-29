@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2173,PATILchak,Permanent,InActive,Level8,133297.0,Noida,FMCG,ShivGoenka,Cassandra,08-08-2023,29-05-2023,0.25,Partial Allocation,4.0,2.0,3.0,

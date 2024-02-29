@@ -1,0 +1,12 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1015,Ashwini,Permanent,Active,Level10,85410.0,Bangalore,FMCG,ShivGoenka,Selenium,18-03-2023,09-08-2023,0.75,Partial Allocation,2.0,4.0,1.0,
+Emp1279,Reshma,Permanent,Active,Level10,75802.0,Bangalore,FMCG,AnkitShishya,PowerBI,29-12-2023,23-05-2023,0.25,Partial Allocation,3.0,3.0,2.0,
+Emp1420,Sahugyt,Contract,Active,Level10,68997.0,Bangalore,FMCG,BhaskarSudhama,ProjectManager,31-10-2023,05-01-2023,1.0,Full Allocation,3.0,1.0,1.0,
+Emp1631,Velusamy,Permanent,Active,Level10,77342.0,Bangalore,FMCG,AnkitShishya,AndroidAppTester;Trace32,03-01-2023,06-04-2023,1.0,Full Allocation,5.0,2.0,1.0,
+Emp1720,Adiyoli,Permanent,Active,Level10,85142.0,Bangalore,FMCG,ShivGoenka,SAP HANA;Selenium,13-12-2023,12-10-2023,1.0,Full Allocation,5.0,2.0,2.0,
+Emp1895,Prasad,Permanent,Active,Level10,92687.0,Bangalore,FMCG,AnkitShishya,TCL Scripting;Java,26-02-2023,19-11-2023,0.0,No Allocation,5.0,1.0,5.0,
+Emp1946,Gopalgai,Permanent,InActive,Level10,72647.0,Bangalore,FMCG,ShivGoenka,Azure BI;Automation Testing,20-08-2023,03-08-2023,0.75,Partial Allocation,1.0,4.0,1.0,
+Emp2117,Nandan,Contract,Active,Level10,65420.0,Bangalore,FMCG,ShivGoenka,Kofax;Quality Control,12-10-2023,19-10-2023,0.5,Split Allocation,5.0,4.0,1.0,
+Emp2210,Amarendra,Permanent,Active,Level10,74289.0,Bangalore,FMCG,ShivGoenka,AzureArchitect,09-07-2023,23-08-2023,0.5,Split Allocation,5.0,4.0,2.0,
+Emp2237,Kandaswami,Permanent,Active,Level10,60811.0,Bangalore,FMCG,BhaskarSudhama,ProgramManager,15-03-2023,28-09-2023,0.25,Partial Allocation,4.0,1.0,5.0,
+Emp753,Kotagiri,Permanent,Active,Level10,89030.0,Bangalore,FMCG,BhaskarSudhama,Deep Learning,19-06-2023,07-07-2023,0.25,Partial Allocation,5.0,5.0,1.0,

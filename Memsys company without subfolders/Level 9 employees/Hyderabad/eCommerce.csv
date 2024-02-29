@@ -1,0 +1,3 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp194,Neeraj,Permanent,Active,Level9,99108.0,Hyderabad,eCommerce,Satya Goyal ,NLP;TCL Scripting,01-06-2023,02-06-2023,0.25,Partial Allocation,4.0,2.0,4.0,
+Emp771,Kaul,Permanent,InActive,Level9,89087.0,Hyderabad,eCommerce,Sujit Kamat,BUHead;ProjectManager,28-02-2023,02-03-2023,0.25,Partial Allocation,3.0,4.0,3.0,

@@ -1,0 +1,10 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1464,Palbyrwx,Permanent,Active,Level9,82789.0,Bangalore,Government,Raunaq Singh,Recruitment,06-03-2023,23-07-2023,0.0,No Allocation,3.0,1.0,5.0,
+Emp1775,Ramachandran,Permanent,Active,Level9,109731.0,Bangalore,Government,Shantanurao,MobileApp,12-05-2023,14-08-2023,0.25,Partial Allocation,1.0,5.0,3.0,
+Emp1980,Borsadwala,Permanent,Active,Level9,90548.0,Bangalore,Government,Venkat Murthy,AWSArchitect,15-10-2023,22-05-2023,0.25,Partial Allocation,4.0,2.0,4.0,
+Emp1989,SWAMY,Permanent,Active,Level9,89253.0,Bangalore,Government,Shantanurao,Embedded C,06-08-2023,27-04-2023,1.0,Full Allocation,4.0,2.0,2.0,
+Emp2066,Sharma,Contract,Active,Level9,82400.0,Bangalore,Government,Shantanurao,Angular JS,14-10-2023,19-06-2023,1.0,Full Allocation,5.0,5.0,2.0,
+Emp2067,Salunkhe,Permanent,Active,Level9,84371.0,Bangalore,Government,Raunaq Singh,MachineLearning,18-02-2023,11-01-2023,0.0,No Allocation,5.0,5.0,3.0,
+Emp399,Arvind,Permanent,Active,Level9,89648.0,Bangalore,Government,Venkat Murthy,Selenium;Cassandra,11-03-2023,16-11-2023,0.25,Partial Allocation,4.0,5.0,4.0,
+Emp523,Karthik,Contract,Active,Level9,122957.0,Bangalore,Government,Venkat Murthy,SoapUI,07-05-2023,16-06-2023,0.0,No Allocation,2.0,1.0,2.0,
+Emp835,Roy,Permanent,Active,Level9,103868.0,Bangalore,Government,Raunaq Singh,C#,27-06-2023,26-04-2023,0.5,Split Allocation,4.0,3.0,1.0,

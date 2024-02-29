@@ -1,0 +1,13 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1457,Jambagi,Permanent,Active,Level4,447570.0,Bangalore,Transportation,Brismit,DBA- Relational,30-04-2023,24-05-2023,0.5,Split Allocation,2.0,3.0,1.0,
+Emp1703,Vasudevan,Permanent,Active,Level4,578082.0,Bangalore,Transportation,UdyaRavi,SAP HANA,01-02-2023,06-05-2023,0.5,Split Allocation,2.0,4.0,1.0,
+Emp1773,Kiran,Contract,Active,Level4,565306.0,Bangalore,Transportation,UdyaRavi,AWSDevOps,30-09-2023,26-09-2023,0.75,Partial Allocation,5.0,1.0,3.0,
+Emp179,Sumantha,Permanent,Active,Level4,504180.0,Bangalore,Transportation,Brismit,TCL Scripting,25-01-2023,09-06-2023,1.0,Full Allocation,5.0,2.0,4.0,
+Emp1909,KYATHSANDRA,Permanent,InActive,Level4,352548.0,Bangalore,Transportation,Brismit,Angular JS,03-01-2023,25-05-2023,0.0,No Allocation,1.0,2.0,3.0,
+Emp2032,KANAMADATHIL,Permanent,InActive,Level4,429764.0,Bangalore,Transportation,Swrna Nadar,Automation Testing,04-05-2023,15-05-2023,0.25,Partial Allocation,5.0,1.0,1.0,
+Emp2095,Katti,Permanent,InActive,Level4,561504.0,Bangalore,Transportation,Brismit,Appium,08-01-2023,20-02-2023,0.75,Partial Allocation,1.0,4.0,3.0,
+Emp2123,Sharmanaety,Permanent,Active,Level4,527334.0,Bangalore,Transportation,Swrna Nadar,Matlabs,04-04-2023,21-06-2023,0.25,Partial Allocation,2.0,5.0,4.0,
+Emp2143,Nasana,Permanent,Active,Level4,265998.0,Bangalore,Transportation,UdyaRavi,TCL Scripting,25-06-2023,16-03-2023,1.0,Full Allocation,1.0,4.0,3.0,
+Emp447,Manish,Contract,Active,Level4,313672.0,Bangalore,Transportation,Brismit,Uipath;Deep Learning,25-08-2023,12-08-2023,0.75,Partial Allocation,1.0,3.0,1.0,
+Emp487,Gururaj,Permanent,Active,Level4,273832.0,Bangalore,Transportation,UdyaRavi,SoapUI,26-05-2023,12-04-2023,0.75,Partial Allocation,3.0,4.0,2.0,
+Emp886,N,Permanent,Active,Level4,301246.0,Bangalore,Transportation,Brismit,Deep Learning,25-04-2023,24-02-2023,0.25,Partial Allocation,2.0,3.0,3.0,

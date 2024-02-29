@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1348,John,Contract,Active,Level9,119610.0,Belgaum,Transportation,Brismit,IOTDeveloper,30-05-2023,25-09-2023,0.25,Partial Allocation,1.0,2.0,4.0,

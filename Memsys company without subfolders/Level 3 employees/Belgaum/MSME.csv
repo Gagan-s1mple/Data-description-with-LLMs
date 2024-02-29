@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp78,Chawla Mukharjee,Permanent,Active,Level3,592401.0,Belgaum,MSME,Navi Vadlamudi,Leadership and Management,17-05-2023,30-06-2023,0.25,Partial Allocation,1.0,5.0,4.0,

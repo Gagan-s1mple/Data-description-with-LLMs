@@ -1,0 +1,11 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1187,Rani,Permanent,Active,Level4,289824.0,Bangalore,Infotainment,Arjun Malhotra,Appium;SAP Netweaver,31-03-2023,07-05-2023,0.5,Split Allocation,2.0,4.0,4.0,
+Emp1191,Barik,Permanent,Active,Level4,532515.0,Bangalore,Infotainment,Palki Oberoi,.Net,12-08-2023,12-03-2023,0.25,Partial Allocation,5.0,5.0,4.0,
+Emp1249,Harika,Permanent,Active,Level4,480076.0,Bangalore,Infotainment,Manibhai Naik,Recruitment;Cassandra,01-05-2023,03-09-2023,0.5,Split Allocation,2.0,2.0,4.0,
+Emp1537,Andrabi,Permanent,Active,Level4,543859.0,Bangalore,Infotainment,Manibhai Naik,TestComplete,21-06-2023,30-12-2023,1.0,Full Allocation,5.0,1.0,5.0,
+Emp1881,Basavaraj,Permanent,Active,Level4,367833.0,Bangalore,Infotainment,Manibhai Naik,Selenium;Business Integration Platform,07-05-2023,02-11-2023,0.75,Partial Allocation,5.0,3.0,5.0,
+Emp2050,Jayaram,Permanent,Active,Level4,229417.0,Bangalore,Infotainment,Arjun Malhotra,ProgramManager,15-11-2023,28-06-2023,0.5,Split Allocation,3.0,5.0,4.0,
+Emp2077,Sriram,Permanent,Active,Level4,414930.0,Bangalore,Infotainment,Arjun Malhotra,Azure Programming,11-04-2023,05-05-2023,0.0,No Allocation,1.0,3.0,4.0,
+Emp2181,Chikkanna,Permanent,InActive,Level4,468423.0,Bangalore,Infotainment,Arjun Malhotra,CSS,26-12-2023,11-03-2023,0.5,Split Allocation,1.0,2.0,2.0,
+Emp377,Alexander,Permanent,Active,Level4,400577.0,Bangalore,Infotainment,Arjun Malhotra,ApplicationTester,16-04-2023,06-06-2023,0.0,No Allocation,4.0,3.0,1.0,
+Emp856,Sastry,Permanent,Active,Level4,525147.0,Bangalore,Infotainment,Palki Oberoi,Systems Testing,27-03-2023,01-08-2023,0.5,Split Allocation,1.0,3.0,5.0,

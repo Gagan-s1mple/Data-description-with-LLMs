@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp479,Parag,Permanent,Active,Level10,98650.0,San Francisco,eCommerce,Satya Goyal ,Deep Learning,13-10-2023,14-01-2023,0.75,Partial Allocation,4.0,5.0,1.0,

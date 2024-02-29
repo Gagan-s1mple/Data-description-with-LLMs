@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1497,Sajimon,Contract,Active,Level10,60642.0,Hyderabad,Public Sector,Sabeer Bhatia,.Net,23-10-2023,23-06-2023,0.75,Partial Allocation,1.0,1.0,4.0,

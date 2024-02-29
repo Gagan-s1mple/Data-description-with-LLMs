@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1074,Sujata,Permanent,InActive,Level6,354729.0,Belgaum,Manufacturing,Shukla Ambani,Office Administration;PLSQL,05-04-2023,19-08-2023,0.75,Partial Allocation,5.0,5.0,3.0,

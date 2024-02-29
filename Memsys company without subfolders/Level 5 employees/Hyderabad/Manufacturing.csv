@@ -1,0 +1,4 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1530,Nandeesh,Permanent,InActive,Level5,267644.0,Hyderabad,Manufacturing,Aditya Godrej,AzureArchitect;Azure BI,13-03-2023,30-01-2023,0.5,Split Allocation,5.0,3.0,2.0,
+Emp2227,Satyapriya,Permanent,Active,Level5,226003.0,Hyderabad,Manufacturing,Aditya Godrej,Software Architecture,23-06-2023,06-07-2023,0.0,No Allocation,2.0,3.0,1.0,
+Emp276,Milind,Permanent,Active,Level5,484529.0,Hyderabad,Manufacturing,Aditya Godrej,Azure Programming;ProjectManager,03-02-2023,18-07-2023,0.75,Partial Allocation,1.0,1.0,5.0,

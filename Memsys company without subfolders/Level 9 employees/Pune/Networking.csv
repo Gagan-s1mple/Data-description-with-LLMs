@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1815,Rajaoaraja,Permanent,Active,Level9,93296.0,Pune,Networking,Phalgun,C++,24-05-2023,04-07-2023,1.0,Full Allocation,3.0,3.0,3.0,

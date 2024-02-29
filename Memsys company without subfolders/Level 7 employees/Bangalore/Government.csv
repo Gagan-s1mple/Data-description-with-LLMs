@@ -1,0 +1,13 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1205,Swati,Permanent,InActive,Level7,266538.0,Bangalore,Government,Venkat Murthy,Office Administration,26-01-2023,11-06-2023,0.5,Split Allocation,5.0,4.0,4.0,
+Emp1503,Ekkaitx,Contract,Active,Level7,147203.0,Bangalore,Government,Venkat Murthy,Business Integration Platform,11-05-2023,26-01-2023,1.0,Full Allocation,2.0,1.0,4.0,
+Emp1549,Reddem,Permanent,InActive,Level7,164976.0,Bangalore,Government,Shantanurao,Apache Ant,05-03-2023,12-04-2023,0.25,Partial Allocation,4.0,3.0,5.0,
+Emp1585,Namburi,Contract,Active,Level7,297439.0,Bangalore,Government,Venkat Murthy,Trace32,22-04-2023,29-01-2023,0.25,Partial Allocation,1.0,4.0,3.0,
+Emp1843,Manam,Permanent,InActive,Level7,228781.0,Bangalore,Government,Raunaq Singh,Linux,05-03-2023,06-06-2023,0.75,Partial Allocation,2.0,4.0,5.0,
+Emp1903,Rajarama,Contract,InActive,Level7,309181.0,Bangalore,Government,Shantanurao,SoapUI;CSS,26-04-2023,06-04-2023,0.5,Split Allocation,2.0,3.0,3.0,
+Emp1989,SWAMY,Contract,Active,Level7,156290.0,Bangalore,Government,Raunaq Singh,AWSDevOps,03-11-2023,07-01-2023,0.5,Split Allocation,4.0,3.0,3.0,
+Emp2003,Nayak,Permanent,Active,Level7,266974.0,Bangalore,Government,Shantanurao,Systems Testing,22-01-2023,30-11-2023,0.0,No Allocation,2.0,5.0,2.0,
+Emp2121,Gupta,Permanent,Active,Level7,266481.0,Bangalore,Government,Shantanurao,Azure Programming,14-11-2023,16-09-2023,0.25,Partial Allocation,5.0,1.0,1.0,
+Emp631,Ramananda,Permanent,InActive,Level7,231112.0,Bangalore,Government,Venkat Murthy,ApplicationTester,25-12-2023,17-01-2023,0.5,Split Allocation,5.0,2.0,4.0,
+Emp843,Thejas,Permanent,InActive,Level7,285712.0,Bangalore,Government,Raunaq Singh,ProjectManager,12-10-2023,11-05-2023,0.75,Partial Allocation,2.0,2.0,2.0,
+Emp939,Dalvi,Permanent,Active,Level7,226797.0,Bangalore,Government,Venkat Murthy,NLP,27-05-2023,21-01-2023,0.75,Partial Allocation,1.0,1.0,5.0,

@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2014,Bhattacharya,Permanent,Active,Level6,244887.0,Austin,Networking,Ravi Bilimoria,JS;Kofax,08-12-2023,14-11-2023,0.25,Partial Allocation,4.0,4.0,5.0,

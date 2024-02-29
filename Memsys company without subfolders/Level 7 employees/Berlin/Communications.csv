@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1086,Mamatha,Permanent,Active,Level7,283848.0,Berlin,Communications,Ghanshyam,AzureDevOps,22-11-2023,09-08-2023,0.25,Partial Allocation,2.0,2.0,1.0,

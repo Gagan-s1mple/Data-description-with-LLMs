@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp55,Palki Oberoi,Permanent,Active,Level3,496358.0,Bangalore,Infotainment,Lakshmi Yadlapalli,Leadership and Management,30-09-2023,20-01-2023,0.75,Partial Allocation,3.0,1.0,1.0,

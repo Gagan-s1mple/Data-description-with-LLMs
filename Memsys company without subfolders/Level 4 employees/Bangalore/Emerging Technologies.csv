@@ -1,0 +1,7 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1162,Josoda,Permanent,Active,Level4,334891.0,Bangalore,Emerging Technologies,Bhaskar Rao,IOTDeveloper;SoapUI,25-06-2023,01-12-2023,0.25,Partial Allocation,3.0,5.0,1.0,
+Emp1505,Ramanjulu,Permanent,Active,Level4,580560.0,Bangalore,Emerging Technologies,ShankarBhanu,DBA- Relational,23-04-2023,16-03-2023,1.0,Full Allocation,5.0,4.0,3.0,
+Emp1738,Sahumasti,Permanent,Active,Level4,614400.0,Bangalore,Emerging Technologies,BhanuShankar,DBA- Relational,09-01-2023,08-03-2023,0.5,Split Allocation,2.0,4.0,2.0,
+Emp282,Tushima,Contract,InActive,Level4,374159.0,Bangalore,Emerging Technologies,ShankarBhanu,Embedded C++;SoapUI,14-10-2023,25-07-2023,0.0,No Allocation,4.0,5.0,2.0,
+Emp501,Jai,Contract,Active,Level4,409187.0,Bangalore,Emerging Technologies,Bhaskar Rao,ProgramManager,31-03-2023,03-08-2023,1.0,Full Allocation,5.0,5.0,2.0,
+Emp967,Gopalkrishna,Permanent,Active,Level4,572354.0,Bangalore,Emerging Technologies,BhanuShankar,Business Integration Platform,07-04-2023,16-03-2023,1.0,Full Allocation,1.0,1.0,2.0,

@@ -1,0 +1,3 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1259,Sumithra,Permanent,Active,Level6,365414.0,Bhubaneswar,Government,Raunaq Singh,Matlabs,06-05-2023,20-09-2023,0.25,Partial Allocation,5.0,4.0,1.0,
+Emp2418,Dhanya,Permanent,Active,Level6,262924.0,Bhubaneswar,Government,Raunaq Singh,Kofax,04-05-2023,21-04-2023,0.75,Partial Allocation,5.0,3.0,5.0,

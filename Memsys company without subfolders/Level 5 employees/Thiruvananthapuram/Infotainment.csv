@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1342,Yadavillitqai,Contract,Active,Level5,282332.0,Thiruvananthapuram,Infotainment,Arjun Malhotra,SoapUI,16-02-2023,28-01-2023,0.75,Partial Allocation,3.0,4.0,2.0,

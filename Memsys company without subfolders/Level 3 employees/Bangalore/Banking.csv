@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp43,Steffi Jones,Permanent,Active,Level3,407544.0,Bangalore,Banking,Kunal Malhotra,Leadership and Management,03-09-2023,30-03-2023,0.0,No Allocation,4.0,5.0,3.0,

@@ -1,0 +1,12 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1115,Seemali,Permanent,Active,Level8,170160.0,Bangalore,Insurance,Shiv Shakthi,Angular JS;Recruitment,23-10-2023,08-11-2023,0.75,Partial Allocation,5.0,1.0,2.0,
+Emp1216,Pallavi,Contract,InActive,Level8,138006.0,Bangalore,Insurance,Ratan Patra,PLSQL,25-02-2023,22-10-2023,1.0,Full Allocation,4.0,4.0,3.0,
+Emp1243,Vanita,Permanent,Active,Level8,173135.0,Bangalore,Insurance,Shanthi Birla,Deep Learning,26-02-2023,26-05-2023,0.25,Partial Allocation,3.0,5.0,2.0,
+Emp1272,Rekha,Permanent,Active,Level8,137135.0,Bangalore,Insurance,Shiv Shakthi,MobileApp,26-06-2023,16-12-2023,0.0,No Allocation,2.0,1.0,3.0,
+Emp1844,Sahoouttr,Permanent,Active,Level8,139101.0,Bangalore,Insurance,Shiv Shakthi,Systems Testing,19-02-2023,01-09-2023,0.75,Partial Allocation,5.0,4.0,3.0,
+Emp1886,Brahma,Permanent,Active,Level8,150457.0,Bangalore,Insurance,Shanthi Birla,ExcelMacros,20-10-2023,18-04-2023,0.75,Partial Allocation,4.0,4.0,2.0,
+Emp2196,Jagadish,Permanent,InActive,Level8,154446.0,Bangalore,Insurance,Shiv Shakthi,MobileAppTester,14-06-2023,13-03-2023,0.5,Split Allocation,1.0,5.0,4.0,
+Emp2222,Kaustubh,Permanent,InActive,Level8,137690.0,Bangalore,Insurance,Ratan Patra,BUHead,13-08-2023,19-03-2023,0.25,Partial Allocation,1.0,3.0,1.0,
+Emp247,Manas,Permanent,Active,Level8,153061.0,Bangalore,Insurance,Shanthi Birla,Apache Spark,14-08-2023,03-10-2023,1.0,Full Allocation,4.0,5.0,5.0,
+Emp469,HemaSundar,Permanent,InActive,Level8,115318.0,Bangalore,Insurance,Shiv Shakthi,ApplicationTester,27-01-2023,14-04-2023,0.75,Partial Allocation,4.0,4.0,1.0,
+Emp865,SONI,Permanent,Active,Level8,137741.0,Bangalore,Insurance,Ratan Patra,Finance Auditing,15-10-2023,01-11-2023,1.0,Full Allocation,1.0,5.0,5.0,

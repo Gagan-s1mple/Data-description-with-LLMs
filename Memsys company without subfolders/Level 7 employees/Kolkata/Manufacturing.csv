@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2201,HARANATHAN,Permanent,Active,Level7,154995.0,Kolkata,Manufacturing,Adag Mahindra,Software Architecture,27-07-2023,10-10-2023,0.25,Partial Allocation,4.0,3.0,1.0,

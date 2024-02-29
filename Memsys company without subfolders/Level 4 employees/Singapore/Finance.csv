@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1957,Chinnaswamy,Permanent,Active,Level4,490556.0,Singapore,Embedded,Naina Lal,DBA- Relational;Finance Auditing,24-05-2023,12-08-2023,0.75,Partial Allocation,5.0,4.0,3.0,

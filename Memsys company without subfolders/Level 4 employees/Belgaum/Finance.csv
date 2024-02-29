@@ -1,0 +1,3 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1694,Sahaipasahu,Contract,InActive,Level4,295301.0,Belgaum,Digital Transformations,Badal Kotak,Finance Auditing,14-11-2023,17-02-2023,1.0,Full Allocation,3.0,1.0,2.0,
+Emp2457,Peddakotla,Permanent,InActive,Level4,430652.0,Belgaum,Finance,Bheema Samanth,Accounts Auditing,13-09-2023,15-03-2023,0.25,Partial Allocation,5.0,1.0,1.0,

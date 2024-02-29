@@ -1,0 +1,13 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1116,Nandita,Permanent,InActive,Level5,399619.0,Bangalore,Manufacturing,Adag Mahindra,Oracle Forms;Business Integration Platform,14-09-2023,15-05-2023,0.25,Partial Allocation,3.0,5.0,2.0,
+Emp1136,R,Permanent,InActive,Level5,479970.0,Bangalore,Manufacturing,Adag Mahindra,Microsoft Administration,16-05-2023,06-03-2023,0.0,No Allocation,1.0,1.0,2.0,
+Emp1804,Rishabh,Permanent,Active,Level5,325266.0,Bangalore,Manufacturing,Aditya Godrej,MobileApp,08-01-2023,21-01-2023,0.0,No Allocation,2.0,3.0,3.0,
+Emp2208,SONIapto,Permanent,Active,Level5,462993.0,Bangalore,Manufacturing,Aditya Godrej,MobileApp,05-08-2023,20-06-2023,0.75,Partial Allocation,2.0,2.0,2.0,
+Emp2238,Neeruganti,Permanent,Active,Level5,265635.0,Bangalore,Manufacturing,Shukla Ambani,SAP Netweaver,11-08-2023,13-12-2023,1.0,Full Allocation,4.0,3.0,2.0,
+Emp229,Abhiram,Permanent,Active,Level5,353884.0,Bangalore,Manufacturing,Aditya Godrej,DBA- Relational,04-12-2023,04-10-2023,0.25,Partial Allocation,1.0,1.0,1.0,
+Emp335,Shiva,Permanent,Active,Level5,309323.0,Bangalore,Manufacturing,Shukla Ambani,AndroidAppTester,10-10-2023,03-07-2023,0.5,Split Allocation,4.0,3.0,5.0,
+Emp479,Parag,Permanent,InActive,Level5,212463.0,Bangalore,Manufacturing,Shukla Ambani,Oracle SQL,15-08-2023,02-01-2023,0.75,Partial Allocation,3.0,1.0,1.0,
+Emp503,Mohit,Permanent,Active,Level5,367361.0,Bangalore,Manufacturing,Shukla Ambani,ProgramManager,09-03-2023,05-12-2023,1.0,Full Allocation,5.0,3.0,1.0,
+Emp654,Jaeel,Permanent,Active,Level5,253650.0,Bangalore,Manufacturing,Adag Mahindra,Appium,30-01-2023,27-10-2023,0.5,Split Allocation,4.0,2.0,1.0,
+Emp746,Shravagi,Permanent,Active,Level5,259619.0,Bangalore,Manufacturing,Aditya Godrej,PLSQL,09-01-2023,06-05-2023,0.5,Split Allocation,4.0,2.0,4.0,
+Emp830,,Permanent,Active,Level5,469255.0,Bangalore,Manufacturing,Adag Mahindra,AWSArchitect,05-02-2023,11-10-2023,0.5,Split Allocation,2.0,1.0,4.0,

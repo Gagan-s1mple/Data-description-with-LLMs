@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2482,Revanna,Permanent,InActive,Level9,96781.0,New York,Finance,UdayaBhanu,Finance Auditing,24-09-2023,08-10-2023,0.75,Partial Allocation,3.0,1.0,1.0,

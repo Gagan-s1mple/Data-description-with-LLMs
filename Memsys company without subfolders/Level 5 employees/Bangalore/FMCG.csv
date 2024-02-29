@@ -1,0 +1,8 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1672,Khare,Permanent,Active,Level5,478334.0,Bangalore,FMCG,AnkitShishya,Embedded C,02-06-2023,30-08-2023,0.0,No Allocation,2.0,1.0,2.0,
+Emp1825,Rallapalli,Permanent,InActive,Level5,399995.0,Bangalore,FMCG,BhaskarSudhama,Web Application Platform;Trace32,02-08-2023,09-09-2023,0.5,Split Allocation,4.0,1.0,5.0,
+Emp2087,Raoiwoqp,Permanent,Active,Level5,200446.0,Bangalore,FMCG,ShivGoenka,Oracle Forms,20-11-2023,13-11-2023,0.5,Split Allocation,4.0,4.0,1.0,
+Emp2140,Garred,Permanent,Active,Level5,458711.0,Bangalore,FMCG,AnkitShishya,Automation Testing;Python,12-08-2023,22-05-2023,0.0,No Allocation,4.0,1.0,5.0,
+Emp511,Ajitesh,Permanent,InActive,Level5,387016.0,Bangalore,FMCG,ShivGoenka,Angular JS,12-04-2023,06-12-2023,0.25,Partial Allocation,2.0,1.0,5.0,
+Emp577,BISWAS,Contract,Active,Level5,332265.0,Bangalore,FMCG,BhaskarSudhama,ProjectManager,24-04-2023,09-04-2023,0.25,Partial Allocation,4.0,1.0,1.0,
+Emp786,Balasubramanyam,Permanent,InActive,Level5,355869.0,Bangalore,FMCG,ShivGoenka,Apache Spark;Planisware,30-12-2023,06-11-2023,1.0,Full Allocation,2.0,4.0,4.0,

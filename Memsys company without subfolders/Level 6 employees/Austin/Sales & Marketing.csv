@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2356,Taneja Kani,Permanent,Active,Level6,339785.0,Austin,Sales & Marketing,Frederick ,Marketing Manager,09-12-2023,23-11-2023,0.0,No Allocation,5.0,2.0,4.0,

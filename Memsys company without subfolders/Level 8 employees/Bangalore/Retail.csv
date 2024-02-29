@@ -1,0 +1,8 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1250,Sneha,Contract,Active,Level8,131583.0,Bangalore,Retail,Sania Kothari,Azure Programming,07-04-2023,17-01-2023,0.0,No Allocation,5.0,4.0,2.0,
+Emp1638,Sankeerth,Permanent,Active,Level8,154878.0,Bangalore,Retail,Ramesh Krishnan,MobileApp,16-03-2023,25-06-2023,0.75,Partial Allocation,3.0,2.0,1.0,
+Emp191,Punit,Permanent,Active,Level8,174943.0,Bangalore,Retail,Ramesh Krishnan,Data Modeling,06-04-2023,11-10-2023,1.0,Full Allocation,1.0,3.0,4.0,
+Emp496,Jayendra,Permanent,Active,Level8,119621.0,Bangalore,Retail,Leander Bence,TechLead,16-08-2023,03-09-2023,0.75,Partial Allocation,2.0,4.0,4.0,
+Emp591,Narayanamurthy,Permanent,Active,Level8,171582.0,Bangalore,Retail,Ramesh Krishnan,Web Application Platform;Tableau,08-02-2023,20-05-2023,1.0,Full Allocation,3.0,5.0,4.0,
+Emp617,KULKARNI,Permanent,Active,Level8,134028.0,Bangalore,Retail,Leander Bence,ExcelMacros,12-09-2023,09-06-2023,1.0,Full Allocation,1.0,2.0,5.0,
+Emp957,Poonacha,Permanent,InActive,Level8,141187.0,Bangalore,Retail,Sania Kothari,Data Modeling;MongoDB,05-12-2023,15-05-2023,0.0,No Allocation,5.0,5.0,2.0,

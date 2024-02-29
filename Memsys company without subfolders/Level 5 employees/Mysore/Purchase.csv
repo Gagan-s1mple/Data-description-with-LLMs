@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2364,BALAPRASANNA,Permanent,InActive,Level5,346169.0,Mysore,Purchase,MalappaBendre,Materials Procurement,15-05-2023,19-03-2023,0.5,Split Allocation,4.0,5.0,4.0,

@@ -1,0 +1,11 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1231,Priyanka,Permanent,Active,Level6,196966.0,Bangalore,Retail,Sania Kothari,AWS Programming,28-07-2023,28-01-2023,0.25,Partial Allocation,2.0,4.0,4.0,
+Emp1470,Shaik,Contract,Active,Level6,230521.0,Bangalore,Retail,Sania Kothari,Apache Spark,04-08-2023,06-09-2023,0.75,Partial Allocation,3.0,5.0,4.0,
+Emp1479,KAPILA,Permanent,InActive,Level6,344518.0,Bangalore,Retail,Leander Bence,Apache Ant,18-03-2023,18-01-2023,0.75,Partial Allocation,2.0,3.0,2.0,
+Emp1721,Kashipuria,Contract,InActive,Level6,345855.0,Bangalore,Retail,Leander Bence,Business Integration Platform;MongoDB,07-10-2023,21-11-2023,0.25,Partial Allocation,1.0,4.0,1.0,
+Emp2053,Yadavilli,Permanent,Active,Level6,255118.0,Bangalore,Retail,Sania Kothari,Cassandra;Trace32,25-09-2023,25-02-2023,0.5,Split Allocation,5.0,3.0,1.0,
+Emp2211,Charan,Contract,InActive,Level6,207658.0,Bangalore,Retail,Leander Bence,Java,16-05-2023,05-07-2023,0.5,Split Allocation,2.0,1.0,2.0,
+Emp236,Sushil,Permanent,Active,Level6,335631.0,Bangalore,Retail,Ramesh Krishnan,Embedded C++,12-02-2023,05-02-2023,1.0,Full Allocation,5.0,1.0,2.0,
+Emp417,Babu,Contract,Active,Level6,354495.0,Bangalore,Retail,Ramesh Krishnan,MobileAppTester,26-04-2023,11-04-2023,1.0,Full Allocation,2.0,1.0,2.0,
+Emp471,Amit,Permanent,Active,Level6,333130.0,Bangalore,Retail,Ramesh Krishnan,Cassandra,17-02-2023,31-12-2023,0.25,Partial Allocation,5.0,5.0,2.0,
+Emp867,Uduman,Permanent,InActive,Level6,231272.0,Bangalore,Retail,Sania Kothari,AzureDevOps,14-09-2023,05-12-2023,0.75,Partial Allocation,5.0,2.0,4.0,

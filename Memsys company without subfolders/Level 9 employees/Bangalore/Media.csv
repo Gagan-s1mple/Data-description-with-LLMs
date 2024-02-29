@@ -1,0 +1,12 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1143,Shwetha,Permanent,Active,Level9,88987.0,Bangalore,Media,Bandhu Gupta,Python;Azure BI,02-10-2023,13-02-2023,0.0,No Allocation,4.0,1.0,2.0,
+Emp1150,Pooja,Permanent,Active,Level9,88258.0,Bangalore,Media,Anji Reddy,Embedded C,23-06-2023,28-07-2023,0.0,No Allocation,2.0,3.0,4.0,
+Emp1261,Madhu,Permanent,InActive,Level9,86157.0,Bangalore,Media,Anji Reddy,Matlabs,09-07-2023,08-02-2023,0.0,No Allocation,3.0,3.0,3.0,
+Emp2033,Dhanakotti,Permanent,Active,Level9,92666.0,Bangalore,Media,Anji Reddy,Finance Auditing,27-04-2023,04-05-2023,1.0,Full Allocation,5.0,1.0,2.0,
+Emp2066,Sharma,Permanent,Active,Level9,100906.0,Bangalore,Media,Bandhu Gupta,Uipath,22-10-2023,10-10-2023,0.25,Partial Allocation,3.0,2.0,4.0,
+Emp358,Anantha,Permanent,Active,Level9,102171.0,Bangalore,Media,Anji Reddy,ExcelMacros,05-10-2023,01-12-2023,0.25,Partial Allocation,3.0,4.0,5.0,
+Emp514,Ganesh,Permanent,Active,Level9,93203.0,Bangalore,Media,Bandhu Gupta,Kofax,07-11-2023,16-10-2023,0.5,Split Allocation,5.0,5.0,5.0,
+Emp740,RAMASUBBARAYALU,Permanent,InActive,Level9,96725.0,Bangalore,Media,Bandhu Gupta,JS,31-12-2023,20-01-2023,0.25,Partial Allocation,4.0,4.0,3.0,
+Emp791,Komera,Permanent,InActive,Level9,118057.0,Bangalore,Media,Bandhu Gupta,PLSQL,06-01-2023,18-05-2023,0.25,Partial Allocation,5.0,3.0,2.0,
+Emp934,SHAIKH,Permanent,Active,Level9,90619.0,Bangalore,Media,Dilip Ambani,PowerBI,07-12-2023,14-11-2023,0.25,Partial Allocation,4.0,4.0,1.0,
+Emp985,Anzalna,Permanent,InActive,Level9,88693.0,Bangalore,Media,Bandhu Gupta,C++,18-10-2023,05-12-2023,0.5,Split Allocation,2.0,2.0,3.0,

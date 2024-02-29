@@ -1,0 +1,8 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1212,Amrutha,Contract,Active,Level4,243943.0,Bangalore,Insurance,Ratan Patra,Deep Learning,06-12-2023,25-12-2023,0.0,No Allocation,5.0,2.0,4.0,
+Emp2150,Gaddam,Permanent,Active,Level4,267320.0,Bangalore,Insurance,Shiv Shakthi,BUHead,21-11-2023,04-05-2023,0.0,No Allocation,1.0,2.0,5.0,
+Emp2220,Mounendar,Permanent,InActive,Level4,579834.0,Bangalore,Insurance,Ratan Patra,Java,03-01-2023,04-05-2023,0.25,Partial Allocation,2.0,1.0,2.0,
+Emp2231,Keshav,Contract,InActive,Level4,331503.0,Bangalore,Insurance,Ratan Patra,Oracle Forms,26-04-2023,07-02-2023,0.75,Partial Allocation,5.0,4.0,3.0,
+Emp437,Kaushal,Permanent,Active,Level4,544854.0,Bangalore,Insurance,Shanthi Birla,MobileAppTester;ProjectManager,03-03-2023,24-03-2023,0.0,No Allocation,3.0,5.0,2.0,
+Emp581,Barjyatya,Permanent,InActive,Level4,597358.0,Bangalore,Insurance,Shanthi Birla,Uipath,21-08-2023,16-08-2023,0.25,Partial Allocation,3.0,2.0,5.0,
+Emp912,Ranpura,Permanent,InActive,Level4,461535.0,Bangalore,Insurance,Ratan Patra,Recruitment,15-11-2023,06-04-2023,1.0,Full Allocation,4.0,2.0,2.0,

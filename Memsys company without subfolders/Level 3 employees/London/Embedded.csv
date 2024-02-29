@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp65,Jagtiani,Permanent,Active,Level3,269594.0,London,Embedded,Maddaiah Nayak,Leadership and Management,12-06-2023,22-06-2023,0.25,Partial Allocation,1.0,2.0,2.0,

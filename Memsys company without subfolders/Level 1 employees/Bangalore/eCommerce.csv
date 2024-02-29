@@ -1,0 +1,13 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1025,Seyin,Permanent,InActive,Level10,94280.0,Bangalore,eCommerce,Satya Goyal ,Quality Control,31-12-2023,08-01-2023,1.0,Full Allocation,3.0,5.0,3.0,
+Emp1128,Swetha,Permanent,InActive,Level10,90165.0,Bangalore,eCommerce,Sujit Kamat,AzureArchitect,20-02-2023,25-09-2023,0.0,No Allocation,4.0,2.0,2.0,
+Emp1287,Kumarhur,Permanent,Active,Level10,59324.0,Bangalore,eCommerce,Swaraj Paul,SoapUI,21-08-2023,28-07-2023,0.5,Split Allocation,3.0,3.0,3.0,
+Emp1717,Mathuria,Permanent,Active,Level10,79160.0,Bangalore,eCommerce,Satya Goyal ,IOTDeveloper,23-02-2023,22-12-2023,1.0,Full Allocation,1.0,2.0,3.0,
+Emp1748,Abhay,Permanent,Active,Level10,87051.0,Bangalore,eCommerce,Swaraj Paul,PowerBI;MobileAppTester,29-04-2023,31-10-2023,0.5,Split Allocation,1.0,1.0,4.0,
+Emp1880,Shukla,Permanent,Active,Level10,92528.0,Bangalore,eCommerce,Sujit Kamat,Finance Auditing;Django,01-02-2023,03-05-2023,0.75,Partial Allocation,4.0,4.0,2.0,
+Emp1976,DESHPANDE,Permanent,Active,Level10,71314.0,Bangalore,eCommerce,Satya Goyal ,Office Administration,04-11-2023,10-09-2023,0.0,No Allocation,1.0,3.0,4.0,
+Emp2022,Krishnamurthy,Permanent,Active,Level10,58242.0,Bangalore,eCommerce,Swaraj Paul,Selenium;DBA - Nosql,04-05-2023,11-10-2023,0.0,No Allocation,3.0,4.0,1.0,
+Emp2154,MAHALINGE,Permanent,Active,Level10,87925.0,Bangalore,eCommerce,Swaraj Paul,Automation Testing,05-04-2023,22-10-2023,0.25,Partial Allocation,5.0,2.0,3.0,
+Emp2225,Chittesh,Permanent,InActive,Level10,71394.0,Bangalore,eCommerce,Satya Goyal ,IOTDeveloper,27-12-2023,15-10-2023,0.75,Partial Allocation,5.0,1.0,5.0,
+Emp259,Karthikeyan,Permanent,InActive,Level10,83569.0,Bangalore,eCommerce,Swaraj Paul,AndroidAppTester,08-02-2023,24-02-2023,0.0,No Allocation,2.0,1.0,3.0,
+Emp279,Shanker,Permanent,Active,Level10,61643.0,Bangalore,eCommerce,Satya Goyal ,Hardware Testing;Microsoft Administration,07-08-2023,09-12-2023,1.0,Full Allocation,2.0,4.0,2.0,

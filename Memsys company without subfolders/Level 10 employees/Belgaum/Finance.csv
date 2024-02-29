@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2481,Ketaki,Permanent,Active,Level10,57172.0,Belgaum,Finance,Bheema Samanth,Auditor,28-04-2023,30-06-2023,0.75,Partial Allocation,1.0,3.0,1.0,

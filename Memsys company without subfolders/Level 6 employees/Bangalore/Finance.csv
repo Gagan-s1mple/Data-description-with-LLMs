@@ -1,0 +1,10 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1628,Bebni,Contract,Active,Level6,230536.0,Bangalore,Healthcare,Prem Sindhu,Finance Auditing,04-04-2023,30-04-2023,0.5,Split Allocation,3.0,2.0,3.0,
+Emp1743,Singhugoturi,Permanent,InActive,Level6,340913.0,Bangalore,Infotainment,Arjun Malhotra,Finance Auditing,24-06-2023,25-08-2023,0.25,Partial Allocation,5.0,3.0,3.0,
+Emp2465,Jhilam,Permanent,Active,Level6,325448.0,Bangalore,Life Sciences,Vikram Pandit,Finance Auditing,10-04-2023,21-03-2023,0.5,Split Allocation,1.0,4.0,2.0,
+Emp2471,Kalappa,Permanent,Active,Level6,277421.0,Bangalore,Finance,Bheema Samanth,Payroll Processing,05-09-2023,20-03-2023,0.5,Split Allocation,1.0,2.0,1.0,
+Emp2473,Kamlesh Kadu,Contract,Active,Level6,372722.0,Bangalore,Finance,Bheema Samanth,Finance Auditing,29-08-2023,02-06-2023,0.25,Partial Allocation,2.0,4.0,2.0,
+Emp2484,Borawake,Permanent,Active,Level6,316638.0,Bangalore,Finance,ShaktiBheem,Accounts Auditing,11-04-2023,10-06-2023,0.5,Split Allocation,4.0,4.0,5.0,
+Emp482,Mohiuddin,Permanent,Active,Level6,346044.0,Bangalore,FMCG,BhaskarSudhama,.Net;Finance Auditing,22-12-2023,26-07-2023,0.75,Partial Allocation,1.0,2.0,1.0,
+Emp875,Sankaranarayanan,Permanent,Active,Level6,291537.0,Bangalore,Transportation,Swrna Nadar,Finance Auditing;MobileAppTester,24-08-2023,15-06-2023,0.75,Partial Allocation,3.0,2.0,5.0,
+Emp978,Monalisa,Permanent,Active,Level6,331744.0,Bangalore,Education,Rajan Raheja,Hardware Testing;Finance Auditing,27-02-2023,25-12-2023,0.75,Partial Allocation,1.0,2.0,4.0,

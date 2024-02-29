@@ -1,0 +1,8 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1438,PITLA,Permanent,InActive,Level10,86757.0,Bangalore,MSME,Chawla Mukharjee,DBA - Nosql,26-01-2023,05-11-2023,0.75,Partial Allocation,5.0,1.0,3.0,
+Emp1723,Alap Bose,Permanent,Active,Level10,58672.0,Bangalore,MSME,Sheetal Chawla,MobileApp,30-12-2023,05-09-2023,0.0,No Allocation,5.0,1.0,5.0,
+Emp2055,Jayanna,Permanent,InActive,Level10,62999.0,Bangalore,MSME,Chawla Mukharjee,Linux,04-06-2023,19-12-2023,0.0,No Allocation,2.0,1.0,4.0,
+Emp309,Sandeepkumar,Permanent,Active,Level10,91528.0,Bangalore,MSME,Shobhana Bhartia,Quality Control,13-03-2023,31-03-2023,0.0,No Allocation,5.0,1.0,4.0,
+Emp440,Prabu,Permanent,Active,Level10,98654.0,Bangalore,MSME,Sheetal Chawla,PowerBI,12-11-2023,27-07-2023,0.25,Partial Allocation,1.0,2.0,2.0,
+Emp747,Dev,Permanent,InActive,Level10,70095.0,Bangalore,MSME,Chawla Mukharjee,TechLead,29-05-2023,22-10-2023,0.75,Partial Allocation,1.0,5.0,4.0,
+Emp905,Jain,Contract,Active,Level10,84241.0,Bangalore,MSME,Chawla Mukharjee,Embedded C++,18-08-2023,04-03-2023,0.0,No Allocation,3.0,4.0,4.0,

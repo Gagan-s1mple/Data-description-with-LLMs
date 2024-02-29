@@ -1,0 +1,5 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1182,Bonia,Permanent,InActive,Level5,305275.0,Bangalore,Digital Transformations,Badal Kotak,Angular JS,07-01-2023,15-03-2023,1.0,Full Allocation,3.0,3.0,4.0,
+Emp2011,Hampasagar,Permanent,Active,Level5,278975.0,Bangalore,Digital Transformations,Tulsi Perumal,PLSQL;DeliveryManager,17-02-2023,04-07-2023,1.0,Full Allocation,5.0,3.0,1.0,
+Emp2062,Kumar,Contract,Active,Level5,451589.0,Bangalore,Digital Transformations,Satyendra Rao,C++,16-12-2023,28-01-2023,0.5,Split Allocation,1.0,2.0,4.0,
+Emp2143,Nasana,Contract,Active,Level5,478853.0,Bangalore,Digital Transformations,Satyendra Rao,IOTDeveloper,09-07-2023,01-02-2023,0.25,Partial Allocation,2.0,4.0,2.0,

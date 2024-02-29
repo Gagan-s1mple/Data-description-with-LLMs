@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1345,Ramachandra,Permanent,InActive,Level5,361930.0,Belgaum,Public Sector,Sant Singh,Automation Testing,28-07-2023,10-01-2023,0.5,Split Allocation,5.0,4.0,1.0,

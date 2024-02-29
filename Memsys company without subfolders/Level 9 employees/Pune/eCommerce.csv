@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1187,Rani,Permanent,Active,Level9,103020.0,Pune,eCommerce,Swaraj Paul,DBA- Relational,12-04-2023,17-09-2023,0.25,Partial Allocation,3.0,3.0,1.0,

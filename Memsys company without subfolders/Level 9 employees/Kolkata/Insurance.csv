@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1722,Mathur,Contract,Active,Level9,105772.0,Kolkata,Insurance,Shanthi Birla,Kofax;Azure BI,13-10-2023,10-09-2023,1.0,Full Allocation,2.0,5.0,5.0,

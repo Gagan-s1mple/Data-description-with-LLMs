@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1683,Ahmed,Permanent,Active,Level8,167503.0,London,Retail,Ramesh Krishnan,AzureArchitect,14-11-2023,13-03-2023,0.5,Split Allocation,3.0,1.0,1.0,

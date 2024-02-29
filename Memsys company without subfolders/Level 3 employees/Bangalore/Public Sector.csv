@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp76,Sant Singh,Permanent,Active,Level3,353165.0,Bangalore,Public Sector,Mallikarjuna,Leadership and Management,28-04-2023,02-05-2023,0.75,Partial Allocation,5.0,1.0,4.0,

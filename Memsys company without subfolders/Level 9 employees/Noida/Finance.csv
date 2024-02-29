@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2490,Hurikadali,Permanent,Active,Level9,104052.0,Noida,Finance,Bheema Samanth,Cost Analyst,02-12-2023,28-02-2023,1.0,Full Allocation,4.0,1.0,1.0,

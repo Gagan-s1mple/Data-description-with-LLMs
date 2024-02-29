@@ -1,0 +1,13 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1045,Somya,Contract,Active,Level4,227335.0,Bangalore,Digital Transformations,Satyendra Rao,Apache Ant;MongoDB,27-07-2023,27-11-2023,0.75,Partial Allocation,2.0,2.0,3.0,
+Emp1141,Sowmya,Permanent,Active,Level4,490577.0,Bangalore,Digital Transformations,Tulsi Perumal,AWSDevelopment,23-02-2023,28-03-2023,0.5,Split Allocation,3.0,4.0,2.0,
+Emp1441,Rajendra,Contract,InActive,Level4,362292.0,Bangalore,Digital Transformations,Tulsi Perumal,ioSAppTester,24-04-2023,14-07-2023,0.75,Partial Allocation,3.0,1.0,4.0,
+Emp1579,Behera,Permanent,InActive,Level4,389256.0,Bangalore,Digital Transformations,Satyendra Rao,BUHead,30-05-2023,26-02-2023,0.5,Split Allocation,5.0,3.0,4.0,
+Emp1642,Samson,Contract,Active,Level4,493226.0,Bangalore,Digital Transformations,Tulsi Perumal,Embedded C++,05-08-2023,09-06-2023,0.75,Partial Allocation,2.0,2.0,4.0,
+Emp172,Anil,Contract,Active,Level4,276609.0,Bangalore,Digital Transformations,Satyendra Rao,Scala,15-06-2023,16-02-2023,0.0,No Allocation,2.0,2.0,5.0,
+Emp1764,Pyate,Permanent,InActive,Level4,582934.0,Bangalore,Digital Transformations,Tulsi Perumal,NLP,14-03-2023,03-04-2023,0.0,No Allocation,4.0,2.0,5.0,
+Emp2065,Savale,Permanent,Active,Level4,301002.0,Bangalore,Digital Transformations,Satyendra Rao,Django,13-05-2023,03-03-2023,0.75,Partial Allocation,4.0,4.0,2.0,
+Emp2184,KUMARLOPT,Contract,Active,Level4,452428.0,Bangalore,Digital Transformations,Tulsi Perumal,ExcelMacros,23-08-2023,18-11-2023,0.75,Partial Allocation,5.0,3.0,2.0,
+Emp429,Srivatsa,Permanent,Active,Level4,611233.0,Bangalore,Digital Transformations,Satyendra Rao,Oracle Forms;Finance Auditing,21-05-2023,25-08-2023,0.5,Split Allocation,2.0,1.0,1.0,
+Emp824,Choudhari,Permanent,Active,Level4,275668.0,Bangalore,Digital Transformations,Badal Kotak,Planisware,19-11-2023,17-04-2023,1.0,Full Allocation,5.0,2.0,4.0,
+Emp944,Das,Contract,Active,Level4,383681.0,Bangalore,Digital Transformations,Tulsi Perumal,Matlabs;DeliveryManager,08-04-2023,03-07-2023,0.75,Partial Allocation,3.0,2.0,3.0,

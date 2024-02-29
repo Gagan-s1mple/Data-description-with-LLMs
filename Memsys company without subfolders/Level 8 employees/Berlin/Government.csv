@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1235,Vaishali,Permanent,Active,Level8,145836.0,Berlin,Government,Venkat Murthy,C#;Web Application Platform,27-05-2023,10-04-2023,0.75,Partial Allocation,4.0,1.0,2.0,

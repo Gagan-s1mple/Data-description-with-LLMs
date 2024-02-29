@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1110,Sruthi,Permanent,InActive,Level10,67617.0,Chennai,Digital Transformations,Tulsi Perumal,DBA- Relational;Cassandra,29-05-2023,13-10-2023,0.0,No Allocation,3.0,5.0,4.0,

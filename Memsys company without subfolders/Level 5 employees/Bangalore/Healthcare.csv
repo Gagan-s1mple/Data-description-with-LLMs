@@ -1,0 +1,10 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1311,Sudheendra,Contract,Active,Level5,292344.0,Bangalore,Healthcare,Mahindra ,C,11-04-2023,15-05-2023,0.5,Split Allocation,3.0,5.0,5.0,
+Emp153,Swapnita,Permanent,Active,Level5,193181.0,Bangalore,Healthcare,Mahindra ,Angular JS;Uipath,04-08-2023,09-11-2023,0.0,No Allocation,2.0,5.0,2.0,
+Emp1747,Mathurbahut,Permanent,Active,Level5,323405.0,Bangalore,Healthcare,Prem Sindhu,Apache Spark,26-04-2023,09-08-2023,0.25,Partial Allocation,2.0,1.0,4.0,
+Emp1822,Pokal,Permanent,Active,Level5,358649.0,Bangalore,Healthcare,Somdev,DeliveryManager,22-07-2023,20-11-2023,0.75,Partial Allocation,2.0,3.0,3.0,
+Emp2053,Yadavilli,Permanent,InActive,Level5,322107.0,Bangalore,Healthcare,Prem Sindhu,Scala,16-12-2023,26-11-2023,0.75,Partial Allocation,5.0,2.0,3.0,
+Emp2121,Gupta,Permanent,Active,Level5,429409.0,Bangalore,Healthcare,Somdev,MobileApp,15-11-2023,06-03-2023,0.25,Partial Allocation,4.0,2.0,4.0,
+Emp2189,Anand,Contract,Active,Level5,421197.0,Bangalore,Healthcare,Prem Sindhu,Azure BI;MongoDB,20-02-2023,17-09-2023,0.25,Partial Allocation,3.0,4.0,3.0,
+Emp2218,Vishesh,Contract,Active,Level5,450623.0,Bangalore,Healthcare,Somdev,Apache Ant,03-06-2023,27-02-2023,0.25,Partial Allocation,2.0,4.0,5.0,
+Emp2226,Arturo,Permanent,Active,Level5,419739.0,Bangalore,Healthcare,Somdev,Oracle SQL,06-03-2023,20-09-2023,0.75,Partial Allocation,1.0,4.0,2.0,

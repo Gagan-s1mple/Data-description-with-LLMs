@@ -1,0 +1,3 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1493,Bansal,Permanent,Active,Level4,343960.0,Chicago,Healthcare,Prem Sindhu,Linux,14-02-2023,04-03-2023,0.5,Split Allocation,5.0,3.0,3.0,
+Emp2194,Bhushannavar,Contract,Active,Level4,268826.0,Chicago,Healthcare,Mahindra ,AWSArchitect,12-01-2023,28-10-2023,0.25,Partial Allocation,3.0,3.0,3.0,

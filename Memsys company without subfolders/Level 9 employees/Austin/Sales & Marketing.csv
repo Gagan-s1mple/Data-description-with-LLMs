@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2314,Amiya Jena,Permanent,Active,Level9,89521.0,Austin,Sales & Marketing,Frederick ,Sales Representative,24-05-2023,30-05-2023,0.0,No Allocation,3.0,2.0,3.0,

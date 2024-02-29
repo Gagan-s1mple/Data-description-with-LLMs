@@ -1,0 +1,2 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp2223,Abhish,Permanent,InActive,Level4,547429.0,Austin,Emerging Technologies,Bhaskar Rao,Master Data Management,16-08-2023,17-11-2023,0.25,Partial Allocation,4.0,2.0,2.0,

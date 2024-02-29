@@ -1,0 +1,13 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1368,Ohri,Permanent,InActive,Level8,158684.0,Bangalore,Networking,Phalgun,CSS;AWS Programming,20-01-2023,17-12-2023,1.0,Full Allocation,2.0,3.0,4.0,
+Emp1380,Tripathy,Contract,Active,Level8,172483.0,Bangalore,Networking,Phalgun,Azure Programming,29-07-2023,25-12-2023,0.75,Partial Allocation,3.0,4.0,5.0,
+Emp1773,Kiran,Contract,InActive,Level8,156016.0,Bangalore,Networking,Kushal Pal,Oracle SQL,20-06-2023,21-05-2023,0.25,Partial Allocation,5.0,3.0,2.0,
+Emp1825,Rallapalli,Permanent,Active,Level8,162917.0,Bangalore,Networking,Ravi Bilimoria,AWS Programming,09-05-2023,21-09-2023,1.0,Full Allocation,2.0,5.0,1.0,
+Emp1832,Kumargjita,Permanent,Active,Level8,170994.0,Bangalore,Networking,Phalgun,AzureDevOps;Oracle Forms,26-06-2023,13-07-2023,0.5,Split Allocation,1.0,4.0,1.0,
+Emp1967,Kariyappa,Contract,Active,Level8,130825.0,Bangalore,Networking,Kushal Pal,Kofax,06-04-2023,05-07-2023,0.5,Split Allocation,3.0,2.0,4.0,
+Emp2211,Charan,Permanent,InActive,Level8,145760.0,Bangalore,Networking,Phalgun,ExcelMacros,27-05-2023,18-09-2023,0.75,Partial Allocation,5.0,3.0,2.0,
+Emp231,Ananta,Contract,InActive,Level8,171988.0,Bangalore,Networking,Ravi Bilimoria,C++,19-07-2023,01-12-2023,1.0,Full Allocation,5.0,3.0,5.0,
+Emp257,Krapadeva,Permanent,Active,Level8,150759.0,Bangalore,Networking,Ravi Bilimoria,Appium;Appium,12-08-2023,27-09-2023,1.0,Full Allocation,2.0,4.0,2.0,
+Emp613,Choudhury,Permanent,Active,Level8,153995.0,Bangalore,Networking,Phalgun,Embedded C++;C++,14-01-2023,08-04-2023,0.75,Partial Allocation,2.0,1.0,4.0,
+Emp851,Elias,Permanent,Active,Level8,129160.0,Bangalore,Networking,Phalgun,Hardware Testing,22-10-2023,05-10-2023,1.0,Full Allocation,4.0,3.0,4.0,
+Emp949,Shandilya,Permanent,Active,Level8,138073.0,Bangalore,Networking,Ravi Bilimoria,ApplicationTester,10-07-2023,13-07-2023,0.0,No Allocation,5.0,2.0,2.0,

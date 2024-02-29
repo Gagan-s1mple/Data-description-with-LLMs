@@ -1,0 +1,12 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1257,Jaya,Permanent,Active,Level5,237862.0,Bangalore,Banking,Nirupama Sanjeev,Apache Ant,21-01-2023,18-06-2023,0.5,Split Allocation,2.0,1.0,1.0,
+Emp1669,Tatapudi,Contract,InActive,Level5,355891.0,Bangalore,Banking,Nirupama Sanjeev,Oracle SQL,15-12-2023,04-07-2023,0.0,No Allocation,1.0,1.0,5.0,
+Emp1688,Muppala,Permanent,Active,Level5,348220.0,Bangalore,Banking,Steffi Jones,C#,03-09-2023,12-08-2023,0.5,Split Allocation,5.0,4.0,4.0,
+Emp1748,Abhay,Permanent,Active,Level5,250612.0,Bangalore,Banking,Steffi Jones,Appium;Apache Ant,23-01-2023,13-05-2023,0.25,Partial Allocation,1.0,3.0,3.0,
+Emp1749,BRIJopti,Permanent,Active,Level5,349276.0,Bangalore,Banking,Rohan Bopanna,Microsoft Administration,21-09-2023,30-10-2023,0.0,No Allocation,5.0,5.0,3.0,
+Emp1967,Kariyappa,Permanent,InActive,Level5,345808.0,Bangalore,Banking,Steffi Jones,Azure BI;Python,17-09-2023,10-03-2023,0.0,No Allocation,1.0,3.0,2.0,
+Emp2053,Yadavilli,Permanent,Active,Level5,482921.0,Bangalore,Banking,Steffi Jones,Systems Testing,08-11-2023,14-08-2023,0.0,No Allocation,5.0,2.0,4.0,
+Emp2062,Kumar,Permanent,InActive,Level5,218242.0,Bangalore,Banking,Nirupama Sanjeev,AWSDevOps;PLSQL,18-10-2023,17-07-2023,1.0,Full Allocation,2.0,5.0,3.0,
+Emp2066,Sharma,Contract,InActive,Level5,408571.0,Bangalore,Banking,Rohan Bopanna,C++,31-12-2023,24-03-2023,0.75,Partial Allocation,3.0,4.0,4.0,
+Emp2216,Senthil,Permanent,Active,Level5,484778.0,Bangalore,Banking,Steffi Jones,NLP,01-04-2023,12-07-2023,0.75,Partial Allocation,4.0,4.0,4.0,
+Emp593,Pore,Permanent,InActive,Level5,342067.0,Bangalore,Banking,Steffi Jones,Azure BI;ioSAppTester,26-12-2023,04-03-2023,1.0,Full Allocation,5.0,1.0,4.0,

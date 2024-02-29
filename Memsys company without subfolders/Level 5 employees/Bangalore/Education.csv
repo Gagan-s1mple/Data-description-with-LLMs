@@ -1,0 +1,8 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1058,Gulbahar,Permanent,Active,Level5,493072.0,Bangalore,Education,Rajiv Gupta,Quality Control,20-06-2023,13-06-2023,0.25,Partial Allocation,5.0,3.0,3.0,
+Emp1126,Manjula,Permanent,Active,Level5,203987.0,Bangalore,Education,Rajiv Gupta,Embedded C,29-06-2023,16-04-2023,0.0,No Allocation,5.0,4.0,1.0,
+Emp1253,Dibya,Contract,InActive,Level5,302531.0,Bangalore,Education,Priya Paul,SAP HANA,14-11-2023,27-12-2023,0.0,No Allocation,5.0,5.0,1.0,
+Emp1671,parashar,Permanent,Active,Level5,444049.0,Bangalore,Education,Rajiv Gupta,Apache Spark,29-03-2023,24-06-2023,1.0,Full Allocation,5.0,3.0,4.0,
+Emp1838,GOUR,Permanent,Active,Level5,410245.0,Bangalore,Education,Priya Paul,Apache Ant,23-08-2023,13-05-2023,0.0,No Allocation,1.0,3.0,2.0,
+Emp1934,PINNAMARAJU,Permanent,InActive,Level5,266495.0,Bangalore,Education,Rajiv Gupta,Master Data Management;Apache Ant,19-10-2023,02-05-2023,0.75,Partial Allocation,3.0,4.0,3.0,
+Emp2104,Nandakumar,Permanent,Active,Level5,251762.0,Bangalore,Education,Rajan Raheja,Angular JS,02-08-2023,20-04-2023,0.0,No Allocation,5.0,5.0,5.0,

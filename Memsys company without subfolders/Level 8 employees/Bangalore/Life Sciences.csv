@@ -1,0 +1,11 @@
+    employee_id,    first_name,    employment_status,EmployeeStatus,    level,CurrentSalary,    work_location,DepartmentBU,ManagerName,    skills,    AllocationStartDate,    AllocationEndDate,Utilization,EmployeeStatus.1,PrevPerformance1To5,CurPerformance1To6,CSR1To5,EmployeeID
+Emp1143,Shwetha,Permanent,Active,Level8,170030.0,Bangalore,Life Sciences,Swaraj Mittal,C++,08-06-2023,20-09-2023,0.75,Partial Allocation,2.0,4.0,3.0,
+Emp164,Mohammed,Contract,Active,Level8,139519.0,Bangalore,Life Sciences,Bhagyashree Rai,ApplicationTester,21-10-2023,18-10-2023,0.0,No Allocation,5.0,2.0,3.0,
+Emp1649,VARGHESE,Permanent,Active,Level8,139193.0,Bangalore,Life Sciences,Swaraj Mittal,SAP HANA,16-11-2023,25-03-2023,0.0,No Allocation,5.0,1.0,2.0,
+Emp1734,Rajashekhar,Contract,Active,Level8,159728.0,Bangalore,Life Sciences,Swaraj Mittal,MachineLearning;Recruitment,15-03-2023,27-04-2023,0.75,Partial Allocation,1.0,4.0,2.0,
+Emp184,Anubhuti,Permanent,Active,Level8,161264.0,Bangalore,Life Sciences,Vikram Pandit,Kofax;Business Integration Platform,11-08-2023,09-09-2023,0.75,Partial Allocation,2.0,2.0,3.0,
+Emp1849,Ramamoorthy,Permanent,InActive,Level8,120052.0,Bangalore,Life Sciences,Vikram Pandit,AzureDevOps;AWS Programming,11-02-2023,18-05-2023,0.5,Split Allocation,1.0,4.0,2.0,
+Emp1965,Reddy,Permanent,Active,Level8,174890.0,Bangalore,Life Sciences,Vikram Pandit,CSS,21-07-2023,03-05-2023,1.0,Full Allocation,4.0,2.0,3.0,
+Emp391,Abhilash,Contract,Active,Level8,170812.0,Bangalore,Life Sciences,Bhagyashree Rai,DeliveryManager,26-01-2023,30-10-2023,0.25,Partial Allocation,2.0,4.0,1.0,
+Emp793,Biradar,Permanent,Active,Level8,167285.0,Bangalore,Life Sciences,Swaraj Mittal,Finance Auditing,22-12-2023,12-12-2023,0.5,Split Allocation,3.0,3.0,2.0,
+Emp807,Rangaswamy,Contract,InActive,Level8,118574.0,Bangalore,Life Sciences,Bhagyashree Rai,Trace32,27-06-2023,22-11-2023,1.0,Full Allocation,5.0,5.0,1.0,
